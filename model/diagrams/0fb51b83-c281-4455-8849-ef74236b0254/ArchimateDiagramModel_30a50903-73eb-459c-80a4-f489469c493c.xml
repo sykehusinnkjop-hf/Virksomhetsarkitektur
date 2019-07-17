@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Virksomhets Arkitektur V1"
+    name="Integrasjonsarkitektur V1"
     id="30a50903-73eb-459c-80a4-f489469c493c">
   <children
       xsi:type="archimate:DiagramModelGroup"
