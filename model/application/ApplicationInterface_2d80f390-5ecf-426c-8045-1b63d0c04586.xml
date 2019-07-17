@@ -1,4 +1,11 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tidsbanken REST API"
-    id="2d80f390-5ecf-426c-8045-1b63d0c04586"/>
+    name="https://api.tidsbanken.net/v2/prosjekter"
+    id="2d80f390-5ecf-426c-8045-1b63d0c04586">
+  <properties
+      key="API URL"
+      value="https://api.tidsbanken.net/v2/prosjekter"/>
+  <properties
+      key="API docs"
+      value="https://api.tidsbanken.net/v2/docs/index"/>
+</archimate:ApplicationInterface>
