@@ -1,0 +1,35 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inngangsport"
+    id="9d4cd385-52ee-4f03-aab7-83d29d268640">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="c2c87458-0f92-4ae7-98ea-7065d47b89af"
+      targetConnections="0e44425d-4562-477b-aeec-6539e21b0a14">
+    <bounds
+        x="408"
+        y="168"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_42d1b9fe-8960-41ff-b2cb-678de8a9ec6d.xml#42d1b9fe-8960-41ff-b2cb-678de8a9ec6d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="dde4101d-1cf7-404f-8217-ccef9d77efa1">
+    <sourceConnections
+        id="0e44425d-4562-477b-aeec-6539e21b0a14"
+        source="dde4101d-1cf7-404f-8217-ccef9d77efa1"
+        target="c2c87458-0f92-4ae7-98ea-7065d47b89af"/>
+    <bounds
+        x="240"
+        y="312"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_b93a4586-3f7a-421b-b3ea-8dce61a6ca71.xml#b93a4586-3f7a-421b-b3ea-8dce61a6ca71"/>
+  </children>
+</archimate:ArchimateDiagramModel>

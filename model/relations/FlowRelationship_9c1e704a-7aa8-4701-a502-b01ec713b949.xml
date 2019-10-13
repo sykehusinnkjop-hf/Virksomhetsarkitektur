@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ad-Hoc (ikke-planlagte)"
+    id="9c1e704a-7aa8-4701-a502-b01ec713b949">
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_0d711e4e-a79d-44f5-809a-58263bbd4419.xml#0d711e4e-a79d-44f5-809a-58263bbd4419"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_383ae55a-7023-4571-b685-cd85793b301f.xml#383ae55a-7023-4571-b685-cd85793b301f"/>
+</archimate:FlowRelationship>
