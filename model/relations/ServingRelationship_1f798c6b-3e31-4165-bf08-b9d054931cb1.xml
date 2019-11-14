@@ -1,0 +1,33 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kjører"
+    id="1f798c6b-3e31-4165-bf08-b9d054931cb1">
+  <properties
+      key="dct:type"
+      value="archi:serving-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="kjører"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:Node"
+      href="Node_3050b2d0-f399-4722-9fed-10ec5aca6826.xml#3050b2d0-f399-4722-9fed-10ec5aca6826"/>
+  <target
+      xsi:type="archimate:TechnologyProcess"
+      href="TechnologyProcess_334b8897-c327-4c78-938d-acb6833204ff.xml#334b8897-c327-4c78-938d-acb6833204ff"/>
+</archimate:ServingRelationship>
