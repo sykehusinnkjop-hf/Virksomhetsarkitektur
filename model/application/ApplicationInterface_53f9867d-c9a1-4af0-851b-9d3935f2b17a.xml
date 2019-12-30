@@ -1,0 +1,17 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risikoverktøy"
+    id="53f9867d-c9a1-4af0-851b-9d3935f2b17a">
+  <properties
+      key="Redirect URI"
+      value="https://shioffice.z16.web.core.windows.net/taskpane.html"/>
+  <properties
+      key="Auth URL"
+      value="https://login.microsoftonline.com/{TENNANT_ID}/oauth2/v2.0/authorize"/>
+  <properties
+      key="Token URL"
+      value="https://login.microsoftonline.com/{TENNANT_ID}/oauth2/v2.0/token"/>
+  <properties
+      key="Scope"
+      value="user_impersonation"/>
+</archimate:ApplicationInterface>
