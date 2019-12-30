@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Støttekapabiliteter"
+    name="Støttefunksjoner"
     id="7640ee46-81f7-485a-bfab-0feaeed327ed">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -359,8 +359,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="932bbb73-2f87-4cca-8a96-dac553ef6b86"
-      targetConnections="b611293f-10e5-48ad-a765-908cdfa38bee">
+      id="932bbb73-2f87-4cca-8a96-dac553ef6b86">
     <bounds
         x="768"
         y="198"
@@ -531,15 +530,6 @@
         <archimateRelationship
             xsi:type="archimate:AggregationRelationship"
             href="AggregationRelationship_a301efd9-6bd1-464d-9b6a-e463962df234.xml#a301efd9-6bd1-464d-9b6a-e463962df234"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="b611293f-10e5-48ad-a765-908cdfa38bee"
-          source="2eca9a4e-1d60-4a52-a990-30b1c5f8aa86"
-          target="932bbb73-2f87-4cca-8a96-dac553ef6b86">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_ae3719fe-cdef-4d93-9b4c-563c30a51673.xml#ae3719fe-cdef-4d93-9b4c-563c30a51673"/>
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"

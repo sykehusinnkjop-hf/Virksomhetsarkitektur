@@ -1,0 +1,33 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gir"
+    id="786f9cb7-446d-4e46-a2ec-c29462c5a0b9">
+  <properties
+      key="dct:type"
+      value="archi:realization-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="gir"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_f806a1d6-93db-4ae1-b32f-85c14543d621.xml#f806a1d6-93db-4ae1-b32f-85c14543d621"/>
+  <target
+      xsi:type="archimate:Resource"
+      href="Resource_4e44d1e4-1f1c-4282-8d10-0fe27ff1c6f4.xml#4e44d1e4-1f1c-4282-8d10-0fe27ff1c6f4"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,33 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="adresserer"
+    id="b46d90a0-8446-4afe-92e7-f4d3f652c7c1">
+  <properties
+      key="dct:type"
+      value="archi:serving-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="adresserer"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_7c5a7970-dc1e-4eb2-b28c-5d1d43da80ea.xml#7c5a7970-dc1e-4eb2-b28c-5d1d43da80ea"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_d3c79c42-0ea7-49fa-80a3-4efd5d6f626d.xml#d3c79c42-0ea7-49fa-80a3-4efd5d6f626d"/>
+</archimate:ServingRelationship>
