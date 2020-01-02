@@ -1,0 +1,26 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Altinn autorisasjon"
+    id="6c01afc6-23f2-4c7e-bfdf-7ec0b059d602">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Altinn autorisasjon"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="archi:application-component"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:ApplicationComponent>
