@@ -1,0 +1,32 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="har"
+    id="2c5fc181-1286-4635-b1b2-fbd67f7be2e1">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="archi:composition-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name} [lang:${property:difi:language}]"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_06277649-98da-43d4-be96-6dfde1bdffd5.xml#06277649-98da-43d4-be96-6dfde1bdffd5"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_1e6d6c0a-57a3-4a53-81d1-3e7fe68b5ac0.xml#1e6d6c0a-57a3-4a53-81d1-3e7fe68b5ac0"/>
+</archimate:CompositionRelationship>

@@ -1,0 +1,33 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="adresserer"
+    id="dc295250-fea1-493d-ade4-0b8234d10f91">
+  <properties
+      key="dct:type"
+      value="archi:realization-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="adresserer"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_d3c79c42-0ea7-49fa-80a3-4efd5d6f626d.xml#d3c79c42-0ea7-49fa-80a3-4efd5d6f626d"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_32f97358-43a0-42e1-85a7-8f24385847f9.xml#32f97358-43a0-42e1-85a7-8f24385847f9"/>
+</archimate:RealizationRelationship>

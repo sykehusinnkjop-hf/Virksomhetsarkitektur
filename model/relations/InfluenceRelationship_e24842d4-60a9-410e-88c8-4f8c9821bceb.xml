@@ -1,0 +1,33 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="lover, regler, policies"
+    id="e24842d4-60a9-410e-88c8-4f8c9821bceb">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="lover, regler, policies"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="archi:influence-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_5325c42a-e72c-43e5-8db4-58421bf5be34.xml#5325c42a-e72c-43e5-8db4-58421bf5be34"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_32f97358-43a0-42e1-85a7-8f24385847f9.xml#32f97358-43a0-42e1-85a7-8f24385847f9"/>
+</archimate:InfluenceRelationship>

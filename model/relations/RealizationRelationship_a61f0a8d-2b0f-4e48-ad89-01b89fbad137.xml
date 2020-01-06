@@ -1,0 +1,33 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kan beskrive"
+    id="a61f0a8d-2b0f-4e48-ad89-01b89fbad137">
+  <properties
+      key="dct:type"
+      value="archi:realization-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="kan beskrive"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_7c5a7970-dc1e-4eb2-b28c-5d1d43da80ea.xml#7c5a7970-dc1e-4eb2-b28c-5d1d43da80ea"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_f806a1d6-93db-4ae1-b32f-85c14543d621.xml#f806a1d6-93db-4ae1-b32f-85c14543d621"/>
+</archimate:RealizationRelationship>

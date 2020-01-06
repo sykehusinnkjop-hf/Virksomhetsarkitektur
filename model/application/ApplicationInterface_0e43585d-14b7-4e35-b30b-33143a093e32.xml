@@ -1,0 +1,11 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="reklamasjon"
+    id="0e43585d-14b7-4e35-b30b-33143a093e32">
+  <properties
+      key="URL"
+      value="https://reklamasjonsportalen.sykehusinnkjop.no"/>
+  <properties
+      key="Resource Avtale"
+      value="/avtale"/>
+</archimate:ApplicationInterface>

@@ -6,6 +6,6 @@
       xsi:type="archimate:Resource"
       href="Resource_63c377ff-9211-4ef7-a903-4b6d9151cd32.xml#63c377ff-9211-4ef7-a903-4b6d9151cd32"/>
   <target
-      xsi:type="archimate:CourseOfAction"
-      href="CourseOfAction_bf9d6948-40ad-4406-8b85-77acc3231de0.xml#bf9d6948-40ad-4406-8b85-77acc3231de0"/>
+      xsi:type="archimate:Capability"
+      href="Capability_383ae55a-7023-4571-b685-cd85793b301f.xml#383ae55a-7023-4571-b685-cd85793b301f"/>
 </archimate:FlowRelationship>

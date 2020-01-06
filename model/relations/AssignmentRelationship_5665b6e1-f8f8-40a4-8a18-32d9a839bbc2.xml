@@ -1,0 +1,32 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tilgjengeliggjør"
+    id="5665b6e1-f8f8-40a4-8a18-32d9a839bbc2">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="archi:assignment-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name} [lang:${property:difi:language}]"/>
+  <source
+      xsi:type="archimate:TechnologyInterface"
+      href="TechnologyInterface_a09d0350-80d1-4130-8b6a-e5728804b98a.xml#a09d0350-80d1-4130-8b6a-e5728804b98a"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_775b77ca-a3fb-470f-9073-596bafa9f11d.xml#775b77ca-a3fb-470f-9073-596bafa9f11d"/>
+</archimate:AssignmentRelationship>

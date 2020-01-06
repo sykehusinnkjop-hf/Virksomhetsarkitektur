@@ -1,0 +1,33 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="for å oppnå"
+    id="37f26e05-fdc0-42f6-ade8-2f428cbfcb63">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="for å oppnå"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="archi:influence-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:Outcome"
+      href="Outcome_05abbf25-76d8-4012-b944-c97d615850d7.xml#05abbf25-76d8-4012-b944-c97d615850d7"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_02043a20-9fe7-438a-bbb1-25afb08d8b73.xml#02043a20-9fe7-438a-bbb1-25afb08d8b73"/>
+</archimate:InfluenceRelationship>
