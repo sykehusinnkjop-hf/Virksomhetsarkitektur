@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Project Portfolio Management (PPM)"
+    name="Project on the Web"
     id="0df0f536-de74-4381-9175-3515b917a58a"
     documentation="Oppslag på adresse (server-object) til et API i adressekatalogen.">
   <properties
