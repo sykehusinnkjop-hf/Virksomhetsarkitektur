@@ -7,7 +7,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="ecd7b179-6cd3-455d-9f6b-e523af7f061e"
-      name="Gjest">
+      name="Gjest"
+      textAlignment="1">
     <bounds
         x="211"
         y="65"
@@ -17,7 +18,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="b09d1412-6bba-4825-b770-f5f2b66c028b"
-      name="Sykehusinnkjøp HF">
+      name="Sykehusinnkjøp HF"
+      textAlignment="1">
     <bounds
         x="427"
         y="65"
@@ -27,7 +29,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="950f3f52-b87b-4ffa-ad20-675d97ac4c08"
-      name="Prosjekt - Kategori A">
+      name="Prosjekt - Kategori A"
+      textAlignment="1">
     <bounds
         x="139"
         y="89"
@@ -56,7 +59,8 @@
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="d3240f1f-b3fb-42c7-8773-9139617fb5d0"
-        name="Områdesamling A">
+        name="Områdesamling A"
+        textAlignment="1">
       <bounds
           x="492"
           width="397"
@@ -158,7 +162,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="652579ac-918e-418d-895a-0afab03b79f2"
-      name="Avtaleforvaltning">
+      name="Avtaleforvaltning"
+      textAlignment="1">
     <bounds
         x="139"
         y="509"
@@ -188,7 +193,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="ecbb4aee-01c3-40df-a228-dcd657ac71b2"
-      name="Områdesamling C">
+      name="Områdesamling C"
+      textAlignment="1">
     <bounds
         x="631"
         y="509"
@@ -290,7 +296,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="0dea4d6f-a4a9-4823-9af4-afd47be11ffa"
-      name="Fellesfunksjoner">
+      name="Fellesfunksjoner"
+      textAlignment="1">
     <bounds
         x="403"
         y="797"
@@ -330,7 +337,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="4b590e3c-9812-48f1-a995-1ba228206d4c"
-      name="Områdesamling B">
+      name="Områdesamling B"
+      textAlignment="1">
     <bounds
         x="631"
         y="797"
@@ -478,7 +486,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="f8996bea-52fa-44b5-9508-e9eb10ef8a71"
-      name="Prosjekt - Kategori B">
+      name="Prosjekt - Kategori B"
+      textAlignment="1">
     <bounds
         x="139"
         y="293"
@@ -517,7 +526,8 @@
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="32c0d6df-fa1c-4150-a91a-c40dbb5bc4e3"
-        name="Områdesamling B">
+        name="Områdesamling B"
+        textAlignment="1">
       <bounds
           x="492"
           width="397"
