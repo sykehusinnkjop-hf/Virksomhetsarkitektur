@@ -7,7 +7,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="bbd36cc1-39a1-4459-8d08-d02e7d1b0c40"
-      name="Databehandlingsansvarlig">
+      name="Databehandlingsansvarlig"
+      textAlignment="1">
     <sourceConnections
         id="6ffc4d17-6d32-4220-8a22-f78ba378eb67"
         source="bbd36cc1-39a1-4459-8d08-d02e7d1b0c40"
@@ -37,7 +38,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="385a0e31-d4bc-4c6c-9c64-5e4b38c4ec6e"
-      name="Databehandler">
+      name="Databehandler"
+      textAlignment="1">
     <bounds
         x="447"
         y="769"
@@ -143,7 +145,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="d7799638-2c1a-4346-9e40-5e7254a21302"
-      name="Databehandlingsansvarlig">
+      name="Databehandlingsansvarlig"
+      textAlignment="1">
     <sourceConnections
         id="a4fb17d2-5e90-4235-a2c7-521d96bfe71d"
         name="Nødvendig?"
@@ -174,7 +177,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="10374b07-6338-45ff-865b-4a239958c2d5"
-      name="Databehandlingsansvarlig">
+      name="Databehandlingsansvarlig"
+      textAlignment="1">
     <sourceConnections
         id="a6c3a5c3-3485-4a31-9599-1471bf83c588"
         source="10374b07-6338-45ff-865b-4a239958c2d5"
@@ -244,7 +248,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="529e8bc2-027e-4e35-a95c-1f308cb3c40d"
-      name="Databehandler">
+      name="Databehandler"
+      textAlignment="1">
     <sourceConnections
         id="ca8b10a7-98f3-40c1-a253-a77a9d189f80"
         source="529e8bc2-027e-4e35-a95c-1f308cb3c40d"
