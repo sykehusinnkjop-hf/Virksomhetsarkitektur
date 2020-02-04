@@ -26,15 +26,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="1b9651be-5477-4f12-b6bb-6424df4a3dcc"
-          source="7d692745-02ab-430b-b95e-d6b20e7db87a"
-          target="9b197f72-beba-41e6-b684-3ff1561cfeb4">
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_f16823b0-fc17-4639-a528-550508c08b69.xml#f16823b0-fc17-4639-a528-550508c08b69"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="05dbbf82-3cc3-46d9-92ba-d4604704da47"
           source="7d692745-02ab-430b-b95e-d6b20e7db87a"
           target="d5f14432-4654-463c-9fce-cadf576a3e0e">
@@ -73,6 +64,19 @@
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_62234c62-ed21-46af-9adf-c7f63ab5bc1a.xml#62234c62-ed21-46af-9adf-c7f63ab5bc1a"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="1b9651be-5477-4f12-b6bb-6424df4a3dcc"
+          source="7d692745-02ab-430b-b95e-d6b20e7db87a"
+          target="9b197f72-beba-41e6-b684-3ff1561cfeb4">
+        <bendpoints
+            startX="-270"
+            startY="-48"
+            endX="180"/>
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_f16823b0-fc17-4639-a528-550508c08b69.xml#f16823b0-fc17-4639-a528-550508c08b69"/>
       </sourceConnections>
       <bounds
           x="12"
@@ -124,7 +128,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="9b197f72-beba-41e6-b684-3ff1561cfeb4"
-          targetConnections="3d6f8def-bd6d-432a-9669-79915513bcbe 1b9651be-5477-4f12-b6bb-6424df4a3dcc 71b92bac-55c9-43f9-bc61-aad5a1672729 3edc8483-428b-47ba-a9ae-033ea87ba2fa">
+          targetConnections="3d6f8def-bd6d-432a-9669-79915513bcbe 71b92bac-55c9-43f9-bc61-aad5a1672729 3edc8483-428b-47ba-a9ae-033ea87ba2fa 1b9651be-5477-4f12-b6bb-6424df4a3dcc">
         <bounds
             x="36"
             y="72"
