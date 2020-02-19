@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ja"
+    id="294f3148-f351-468b-84eb-04e8b6eef170">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_52fc462c-2bb8-4413-a987-f19ed78a22ab.xml#52fc462c-2bb8-4413-a987-f19ed78a22ab"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_bc1d4220-4997-414a-b0a6-585b5f822e1c.xml#bc1d4220-4997-414a-b0a6-585b5f822e1c"/>
+</archimate:FlowRelationship>
