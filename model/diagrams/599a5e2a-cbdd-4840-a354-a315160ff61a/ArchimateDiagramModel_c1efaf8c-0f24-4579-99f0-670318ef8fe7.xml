@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mål, Strategi og Byggeklosser"
+    name="Mål, Strategi (referansemodell)"
     id="c1efaf8c-0f24-4579-99f0-670318ef8fe7">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

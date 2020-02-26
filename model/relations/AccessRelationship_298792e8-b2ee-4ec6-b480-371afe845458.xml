@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Databehandlingsansvarlig"
+    id="298792e8-b2ee-4ec6-b480-371afe845458"
+    accessType="2">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_5723f2c2-931a-4847-9c0b-3351fb82e353.xml#5723f2c2-931a-4847-9c0b-3351fb82e353"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_ada80fe1-816d-4e7b-93cf-d43fff3a28e7.xml#ada80fe1-816d-4e7b-93cf-d43fff3a28e7"/>
+</archimate:AccessRelationship>
