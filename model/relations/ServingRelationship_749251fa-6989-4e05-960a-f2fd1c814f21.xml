@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Request Kontoplaner"
+    id="749251fa-6989-4e05-960a-f2fd1c814f21">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_c1ffe6d1-3f7b-49d1-8ac8-2cad4cddce38.xml#c1ffe6d1-3f7b-49d1-8ac8-2cad4cddce38"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_d63e7677-6750-4330-b3e3-44586a36a750.xml#d63e7677-6750-4330-b3e3-44586a36a750"/>
+</archimate:ServingRelationship>

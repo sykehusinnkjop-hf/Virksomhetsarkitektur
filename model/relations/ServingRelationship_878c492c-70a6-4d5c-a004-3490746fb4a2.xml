@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Request BudsjettTotalt for 2020"
+    id="878c492c-70a6-4d5c-a004-3490746fb4a2">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_50e0cd2d-1561-4a11-8eae-e033d0174ddb.xml#50e0cd2d-1561-4a11-8eae-e033d0174ddb"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_9abc53d4-e0f3-4b44-93df-ed011fdf6cd0.xml#9abc53d4-e0f3-4b44-93df-ed011fdf6cd0"/>
+</archimate:ServingRelationship>

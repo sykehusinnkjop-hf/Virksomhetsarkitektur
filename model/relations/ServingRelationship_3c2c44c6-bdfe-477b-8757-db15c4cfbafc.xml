@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Request Resultattransaksjoner fra siste 5 dager"
+    id="3c2c44c6-bdfe-477b-8757-db15c4cfbafc">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_97be88a8-b2e6-47a6-9a62-75e9ed0b7b7d.xml#97be88a8-b2e6-47a6-9a62-75e9ed0b7b7d"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_4a8f8c9b-dd65-4446-bd17-7a3b7437b6b9.xml#4a8f8c9b-dd65-4446-bd17-7a3b7437b6b9"/>
+</archimate:ServingRelationship>
