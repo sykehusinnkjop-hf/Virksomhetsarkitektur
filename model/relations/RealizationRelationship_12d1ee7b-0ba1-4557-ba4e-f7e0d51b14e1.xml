@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ja"
+    id="12d1ee7b-0ba1-4557-ba4e-f7e0d51b14e1">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_c09b4e5d-de16-4e75-a2b7-a03c61512712.xml#c09b4e5d-de16-4e75-a2b7-a03c61512712"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_a6b1fade-d082-4e1a-aa27-64d722c25fe9.xml#a6b1fade-d082-4e1a-aa27-64d722c25fe9"/>
+</archimate:RealizationRelationship>

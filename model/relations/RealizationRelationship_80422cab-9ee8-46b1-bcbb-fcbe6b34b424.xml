@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Art. 36(1)"
+    id="80422cab-9ee8-46b1-bcbb-fcbe6b34b424">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_c09b4e5d-de16-4e75-a2b7-a03c61512712.xml#c09b4e5d-de16-4e75-a2b7-a03c61512712"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_4dbda158-05b9-4a45-98cc-02c285988324.xml#4dbda158-05b9-4a45-98cc-02c285988324"/>
+</archimate:RealizationRelationship>
