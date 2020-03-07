@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Request Resultattransaksjoner"
+    id="73d70f43-53fe-4c00-8b69-48ec19f9eebc">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_0276a690-5bf9-4c81-bde6-4b5af23ffc25.xml#0276a690-5bf9-4c81-bde6-4b5af23ffc25"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_c494facd-7ec1-4580-8fc9-138596260863.xml#c494facd-7ec1-4580-8fc9-138596260863"/>
+</archimate:ServingRelationship>
