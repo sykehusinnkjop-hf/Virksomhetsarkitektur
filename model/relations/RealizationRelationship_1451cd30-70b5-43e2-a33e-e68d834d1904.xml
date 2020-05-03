@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ansvarlig"
+    id="1451cd30-70b5-43e2-a33e-e68d834d1904">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_ef6a2244-d2b0-4bf4-8bf5-9a0e328c5d5f.xml#ef6a2244-d2b0-4bf4-8bf5-9a0e328c5d5f"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_d4964be1-04db-4e9b-a60a-b952d89c79a0.xml#d4964be1-04db-4e9b-a60a-b952d89c79a0"/>
+</archimate:RealizationRelationship>

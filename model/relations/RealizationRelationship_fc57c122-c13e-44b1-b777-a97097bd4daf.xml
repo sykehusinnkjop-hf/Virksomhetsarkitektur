@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ivaretar"
+    id="fc57c122-c13e-44b1-b777-a97097bd4daf">
+  <source
+      xsi:type="archimate:BusinessInteraction"
+      href="BusinessInteraction_05c48e0f-e49c-4b69-b228-710b357db12a.xml#05c48e0f-e49c-4b69-b228-710b357db12a"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_d4964be1-04db-4e9b-a60a-b952d89c79a0.xml#d4964be1-04db-4e9b-a60a-b952d89c79a0"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilordnet"
+    id="64804ef4-2c03-481e-938c-1f26a5d9c769">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_8e39f959-470b-411f-8eaf-5702a8fd39a8.xml#8e39f959-470b-411f-8eaf-5702a8fd39a8"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_4ff8d832-445f-43b0-b08a-862a492d30b5.xml#4ff8d832-445f-43b0-b08a-862a492d30b5"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Instruerer"
+    id="193fddbf-3d85-4c9a-a5c1-ee45011103ee">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_351257ac-32c8-4609-a6eb-6ef3a6374d32.xml#351257ac-32c8-4609-a6eb-6ef3a6374d32"/>
+  <target
+      xsi:type="archimate:BusinessInteraction"
+      href="BusinessInteraction_05c48e0f-e49c-4b69-b228-710b357db12a.xml#05c48e0f-e49c-4b69-b228-710b357db12a"/>
+</archimate:ServingRelationship>

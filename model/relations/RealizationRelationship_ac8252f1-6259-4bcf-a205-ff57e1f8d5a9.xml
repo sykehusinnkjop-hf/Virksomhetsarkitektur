@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bistår"
+    id="ac8252f1-6259-4bcf-a205-ff57e1f8d5a9">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_40d1f815-b024-4239-9257-daef1f0a4fae.xml#40d1f815-b024-4239-9257-daef1f0a4fae"/>
+  <target
+      xsi:type="archimate:Resource"
+      href="Resource_0badeb64-1175-4b27-9cb3-b3b0320a860e.xml#0badeb64-1175-4b27-9cb3-b3b0320a860e"/>
+</archimate:RealizationRelationship>
