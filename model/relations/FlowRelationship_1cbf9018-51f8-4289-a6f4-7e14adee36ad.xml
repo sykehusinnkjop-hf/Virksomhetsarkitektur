@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avviklet"
+    id="1cbf9018-51f8-4289-a6f4-7e14adee36ad">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_07f6b155-fa5d-4ba7-ae0f-bce40260271c.xml#07f6b155-fa5d-4ba7-ae0f-bce40260271c"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_53918114-7660-40eb-a8ef-855230c606a8.xml#53918114-7660-40eb-a8ef-855230c606a8"/>
+</archimate:FlowRelationship>

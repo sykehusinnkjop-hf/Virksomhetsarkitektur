@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Directory synchronization"
+    id="efc746c2-538b-4826-aec6-31150793a72e">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_53f377d6-2a27-45e7-8b79-71feef8c1442.xml#53f377d6-2a27-45e7-8b79-71feef8c1442"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_c843a441-099c-46fd-a919-ea0c2fbe58c3.xml#c843a441-099c-46fd-a919-ea0c2fbe58c3"/>
+</archimate:FlowRelationship>

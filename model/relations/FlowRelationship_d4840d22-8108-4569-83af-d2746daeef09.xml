@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autosvar"
+    id="d4840d22-8108-4569-83af-d2746daeef09">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_6401855c-ccf9-452f-b88c-a11fcbbd5ca7.xml#6401855c-ccf9-452f-b88c-a11fcbbd5ca7"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_f8fbd756-8532-4723-9939-2006095fdb8b.xml#f8fbd756-8532-4723-9939-2006095fdb8b"/>
+</archimate:FlowRelationship>

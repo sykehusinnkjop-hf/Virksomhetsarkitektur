@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fordeler og behandler tilbud"
+    id="88688c3f-c91c-4fa0-bbeb-7dcbc2cb8667">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_53918114-7660-40eb-a8ef-855230c606a8.xml#53918114-7660-40eb-a8ef-855230c606a8"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_e01b9575-55df-4a76-a5a4-cf9665fabce6.xml#e01b9575-55df-4a76-a5a4-cf9665fabce6"/>
+</archimate:AssignmentRelationship>

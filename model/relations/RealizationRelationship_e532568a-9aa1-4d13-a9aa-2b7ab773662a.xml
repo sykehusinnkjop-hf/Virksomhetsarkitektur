@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utstedes til"
+    id="e532568a-9aa1-4d13-a9aa-2b7ab773662a">
+  <source
+      xsi:type="archimate:Representation"
+      href="Representation_47dcaf5e-cbb7-461f-ae65-2d4ca0160bdc.xml#47dcaf5e-cbb7-461f-ae65-2d4ca0160bdc"/>
+  <target
+      xsi:type="archimate:Resource"
+      href="Resource_d7e4f823-814f-49de-af62-2a14fd6e8659.xml#d7e4f823-814f-49de-af62-2a14fd6e8659"/>
+</archimate:RealizationRelationship>
