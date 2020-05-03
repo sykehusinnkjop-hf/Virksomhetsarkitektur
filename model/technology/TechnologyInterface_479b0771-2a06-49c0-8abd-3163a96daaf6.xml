@@ -1,0 +1,8 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Azure API management"
+    id="479b0771-2a06-49c0-8abd-3163a96daaf6">
+  <properties
+      key="URL"
+      value="api.sykehusinnkjop.no"/>
+</archimate:TechnologyInterface>

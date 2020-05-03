@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Databehandler"
+    id="c027676c-b7bf-46bc-a8b8-ba94fe94d659"
+    accessType="2">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_f1f3c48e-1c7a-4c0d-b108-0d44d771bdfd.xml#f1f3c48e-1c7a-4c0d-b108-0d44d771bdfd"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_ada80fe1-816d-4e7b-93cf-d43fff3a28e7.xml#ada80fe1-816d-4e7b-93cf-d43fff3a28e7"/>
+</archimate:AccessRelationship>

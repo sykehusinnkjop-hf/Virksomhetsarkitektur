@@ -1,0 +1,33 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="har"
+    id="ab8075f1-3933-4a1d-b8bf-b6886bcffe4b">
+  <properties
+      key="dct:type"
+      value="archi:influence-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="har"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_49d6ec8d-afcd-4807-a08e-d442afe718cb.xml#49d6ec8d-afcd-4807-a08e-d442afe718cb"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_31e26d9d-77ec-4345-b974-9f5f0154939e.xml#31e26d9d-77ec-4345-b974-9f5f0154939e"/>
+</archimate:InfluenceRelationship>

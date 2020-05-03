@@ -1,0 +1,33 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="følger opp"
+    id="f216ba8c-c7ae-4d7d-bfb5-5255f9c75a14">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="følger opp"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="archi:realization-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_58771483-1b09-4489-ad89-1cc08162b693.xml#58771483-1b09-4489-ad89-1cc08162b693"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_32f97358-43a0-42e1-85a7-8f24385847f9.xml#32f97358-43a0-42e1-85a7-8f24385847f9"/>
+</archimate:RealizationRelationship>

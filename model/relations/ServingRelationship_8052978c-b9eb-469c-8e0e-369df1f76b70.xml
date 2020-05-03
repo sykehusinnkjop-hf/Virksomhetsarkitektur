@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Request Turnover"
+    id="8052978c-b9eb-469c-8e0e-369df1f76b70">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_a48b3c92-b38b-4b1b-b718-55acff624d53.xml#a48b3c92-b38b-4b1b-b718-55acff624d53"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_d0ff031f-1432-431a-824f-0d3fb38b72cd.xml#d0ff031f-1432-431a-824f-0d3fb38b72cd"/>
+</archimate:ServingRelationship>

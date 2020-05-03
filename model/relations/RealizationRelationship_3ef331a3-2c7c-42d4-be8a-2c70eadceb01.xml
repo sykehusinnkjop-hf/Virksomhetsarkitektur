@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Art. 35(11)"
+    id="3ef331a3-2c7c-42d4-be8a-2c70eadceb01">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_716e4e0a-ca05-4cfe-a7ea-6c9aa1cbf730.xml#716e4e0a-ca05-4cfe-a7ea-6c9aa1cbf730"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_3ed46c03-d1d8-41e2-8912-9904a0d21a04.xml#3ed46c03-d1d8-41e2-8912-9904a0d21a04"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vedlikeholder"
+    id="dae7eaf3-d0d5-4ee6-894a-5e0d751423e2">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_358a3eaa-5f15-4f36-834a-48f5d106594f.xml#358a3eaa-5f15-4f36-834a-48f5d106594f"/>
+  <target
+      xsi:type="archimate:Representation"
+      href="Representation_5faeaf09-a3b7-420e-9459-d7e0f329d839.xml#5faeaf09-a3b7-420e-9459-d7e0f329d839"/>
+</archimate:AccessRelationship>

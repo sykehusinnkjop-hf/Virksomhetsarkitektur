@@ -538,9 +538,9 @@
       name="Data Layer"
       textAlignment="1">
     <bounds
-        x="72"
+        x="960"
         y="1080"
-        width="2713"
+        width="1825"
         height="301"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -564,7 +564,7 @@
             href="RealizationRelationship_74339b86-7a76-4290-80b8-e81ec5c14c48.xml#74339b86-7a76-4290-80b8-e81ec5c14c48"/>
       </sourceConnections>
       <bounds
-          x="1523"
+          x="635"
           y="36"
           width="661"
           height="241"/>
@@ -737,9 +737,9 @@
             href="RealizationRelationship_ddc9d368-62b2-4ef9-a90a-81670330247a.xml#ddc9d368-62b2-4ef9-a90a-81670330247a"/>
       </sourceConnections>
       <bounds
-          x="24"
+          x="12"
           y="36"
-          width="1441"
+          width="565"
           height="241"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -755,7 +755,7 @@
               href="TriggeringRelationship_c0144148-50c6-47ee-9afe-fa27edfa677c.xml#c0144148-50c6-47ee-9afe-fa27edfa677c"/>
         </sourceConnections>
         <bounds
-            x="971"
+            x="95"
             y="24"
             width="253"
             height="205"/>

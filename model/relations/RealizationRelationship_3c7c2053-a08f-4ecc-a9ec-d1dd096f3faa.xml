@@ -1,0 +1,33 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="svarer på"
+    id="3c7c2053-a08f-4ecc-a9ec-d1dd096f3faa">
+  <properties
+      key="dct:type"
+      value="archi:realization-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="svarer på"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_85dddce9-8232-426c-9548-d98f5cf741d8.xml#85dddce9-8232-426c-9548-d98f5cf741d8"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_31e26d9d-77ec-4345-b974-9f5f0154939e.xml#31e26d9d-77ec-4345-b974-9f5f0154939e"/>
+</archimate:RealizationRelationship>

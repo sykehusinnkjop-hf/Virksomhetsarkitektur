@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rapporterer"
+    id="71a9368f-6b1a-4f5f-98c3-21c5e3224621">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_358a3eaa-5f15-4f36-834a-48f5d106594f.xml#358a3eaa-5f15-4f36-834a-48f5d106594f"/>
+  <target
+      xsi:type="archimate:Representation"
+      href="Representation_7a4ea69b-473e-4d1d-a08a-7cab6a6e9752.xml#7a4ea69b-473e-4d1d-a08a-7cab6a6e9752"/>
+</archimate:AccessRelationship>

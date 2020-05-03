@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motta bestilling og fakturahistorikk"
+    id="2c2f3e48-6414-4c6b-bda6-1f02817eb4bc">
+  <source
+      xsi:type="archimate:ApplicationCollaboration"
+      href="ApplicationCollaboration_45cb398d-2c37-42c7-a55b-c27dc9f493c9.xml#45cb398d-2c37-42c7-a55b-c27dc9f493c9"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_c4a1bbad-cbc1-42ed-899d-f6a84ee91742.xml#c4a1bbad-cbc1-42ed-899d-f6a84ee91742"/>
+</archimate:FlowRelationship>

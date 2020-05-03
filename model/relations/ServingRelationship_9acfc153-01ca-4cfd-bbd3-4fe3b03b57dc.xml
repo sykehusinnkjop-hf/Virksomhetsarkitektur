@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Request Budsjett"
+    id="9acfc153-01ca-4cfd-bbd3-4fe3b03b57dc">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_fcba51f4-5865-4f42-a7ba-931c733ed168.xml#fcba51f4-5865-4f42-a7ba-931c733ed168"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_4dbe3a8d-6033-454c-bca0-29b6e461fde6.xml#4dbe3a8d-6033-454c-bca0-29b6e461fde6"/>
+</archimate:ServingRelationship>

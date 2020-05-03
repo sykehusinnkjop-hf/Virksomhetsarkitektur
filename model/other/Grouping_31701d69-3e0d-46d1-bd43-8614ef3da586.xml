@@ -1,0 +1,26 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Produktdokumentasjon"
+    id="31701d69-3e0d-46d1-bd43-8614ef3da586">
+  <properties
+      key="label"
+      value="Produkt-dokumentasjon"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Produktdokumentasjon"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Grouping>

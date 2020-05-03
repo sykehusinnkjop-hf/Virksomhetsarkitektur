@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppfyller"
+    id="fc044282-cc4e-4398-8e68-9364f8197e2a">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_d2ec53b0-7ba9-4648-b530-1beee6c86501.xml#d2ec53b0-7ba9-4648-b530-1beee6c86501"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_7e284db1-4506-4b31-a1b9-33754143883d.xml#7e284db1-4506-4b31-a1b9-33754143883d"/>
+</archimate:RealizationRelationship>
