@@ -22,7 +22,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="29e47a8b-3c85-49be-bfcd-75bd7a3a55af"
-      name="Group">
+      name="Group"
+      textAlignment="1">
     <bounds
         x="607"
         y="120"
