@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mottar"
+    id="4d2a8ec9-3567-435f-83c9-17835a7e9f5d"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_aff00ce5-640c-48cc-b319-0158ad626ff2.xml#aff00ce5-640c-48cc-b319-0158ad626ff2"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_f9f4b0cc-b483-4aaf-9ede-39a947f23afc.xml#f9f4b0cc-b483-4aaf-9ede-39a947f23afc"/>
+</archimate:AccessRelationship>

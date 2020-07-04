@@ -13,7 +13,7 @@
     <bounds
         x="39"
         y="110"
-        width="778"
+        width="850"
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelReference"
@@ -31,7 +31,7 @@
         xsi:type="archimate:DiagramModelReference"
         id="bd9e594b-8d78-4d49-9b6b-844eb368097f">
       <bounds
-          x="348"
+          x="504"
           y="48"
           width="120"
           height="55"/>
@@ -43,7 +43,7 @@
         xsi:type="archimate:DiagramModelReference"
         id="d0fe826c-3ae5-4a64-bebc-22f197c0e093">
       <bounds
-          x="504"
+          x="348"
           y="48"
           width="120"
           height="55"/>
@@ -62,6 +62,18 @@
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_590ecc1a-dbdf-43b6-9865-9b58d0aecef1.xml#590ecc1a-dbdf-43b6-9865-9b58d0aecef1"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="1a581bcb-c879-477e-a17a-ced074f92ed6">
+      <bounds
+          x="660"
+          y="48"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_97bb37b6-79f0-41e6-9ec2-59f0af379323.xml#97bb37b6-79f0-41e6-9ec2-59f0af379323"/>
     </children>
   </children>
   <children
@@ -102,33 +114,9 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="c1e7ada5-9c17-4868-87cf-6dfdeb4afeb6">
-      <bounds
-          x="504"
-          y="48"
-          width="120"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_c1efaf8c-0f24-4579-99f0-670318ef8fe7.xml#c1efaf8c-0f24-4579-99f0-670318ef8fe7"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="10aaf381-ca04-4a44-b13f-72cdfec490ac">
-      <bounds
-          x="36"
-          y="48"
-          width="120"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_d7a57581-39a8-4b19-b628-a2bf31b95cde.xml#d7a57581-39a8-4b19-b628-a2bf31b95cde"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
         id="e762b8d3-9f20-48fd-bff5-563b5d2f19d3">
       <bounds
-          x="660"
+          x="516"
           y="48"
           width="120"
           height="55"/>
@@ -140,7 +128,7 @@
         xsi:type="archimate:DiagramModelReference"
         id="a73ac41d-9939-4c85-84ba-6e5901bea794">
       <bounds
-          x="828"
+          x="36"
           y="48"
           width="120"
           height="55"/>
@@ -164,7 +152,7 @@
         xsi:type="archimate:DiagramModelReference"
         id="5804b36b-0dee-443b-92a9-b851953418b1">
       <bounds
-          x="324"
+          x="348"
           y="48"
           width="120"
           height="55"/>
@@ -176,7 +164,7 @@
         xsi:type="archimate:DiagramModelReference"
         id="86fd8b4f-7893-4572-8d49-654330036b43">
       <bounds
-          x="480"
+          x="660"
           y="48"
           width="120"
           height="55"/>
@@ -198,21 +186,9 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="aa78430b-5a55-4eab-a9f3-b3ef1a9f92d2">
-      <bounds
-          x="180"
-          y="48"
-          width="120"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_4ad86231-b49e-4f7a-bf77-c04ed84d13ff.xml#4ad86231-b49e-4f7a-bf77-c04ed84d13ff"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
         id="b3ee56b1-680b-433b-b10f-ef859f96571c">
       <bounds
-          x="636"
+          x="192"
           y="48"
           width="120"
           height="55"/>
@@ -224,7 +200,7 @@
         xsi:type="archimate:DiagramModelReference"
         id="c6af2f47-5c33-468f-bc03-832bdea19010">
       <bounds
-          x="792"
+          x="816"
           y="48"
           width="120"
           height="55"/>
@@ -236,7 +212,7 @@
         xsi:type="archimate:DiagramModelReference"
         id="32014a77-088f-40be-8278-816b835f244b">
       <bounds
-          x="948"
+          x="972"
           y="48"
           width="120"
           height="55"/>
@@ -248,13 +224,25 @@
         xsi:type="archimate:DiagramModelReference"
         id="aad3ce07-ad1f-4000-a429-f8448b9bb151">
       <bounds
-          x="1104"
+          x="1128"
           y="48"
           width="120"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_82f8a92c-79b8-4bdc-90cc-4bd477e298c8.xml#82f8a92c-79b8-4bdc-90cc-4bd477e298c8"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="3872cb3b-ed97-4166-a917-b1e220596bbc">
+      <bounds
+          x="504"
+          y="48"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_a9809115-527b-4333-8b65-81ac3a99cbd4.xml#a9809115-527b-4333-8b65-81ac3a99cbd4"/>
     </children>
   </children>
   <children
@@ -268,18 +256,6 @@
         y="648"
         width="730"
         height="140"/>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="af5298f3-4bb9-4f38-931b-4717b6f7c2fd">
-      <bounds
-          x="168"
-          y="48"
-          width="120"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_2bd08812-80f2-4c46-8704-dfb3b29826ed.xml#2bd08812-80f2-4c46-8704-dfb3b29826ed"/>
-    </children>
     <children
         xsi:type="archimate:DiagramModelReference"
         id="23575423-fee4-475c-b5d7-aa14caa319b2">

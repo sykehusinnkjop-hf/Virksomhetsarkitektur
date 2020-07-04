@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tildeles"
+    id="68016af1-a7f2-4427-944c-2b43fad22b46">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_b2a1d9b0-339b-48c9-906a-c3d74edf361b.xml#b2a1d9b0-339b-48c9-906a-c3d74edf361b"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_869e4932-840b-4940-ae5f-9c835c38f481.xml#869e4932-840b-4940-ae5f-9c835c38f481"/>
+</archimate:AssociationRelationship>

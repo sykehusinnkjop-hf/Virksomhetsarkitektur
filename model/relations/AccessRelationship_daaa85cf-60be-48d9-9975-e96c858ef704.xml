@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiserer"
+    id="daaa85cf-60be-48d9-9975-e96c858ef704">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_0fec9e5c-607a-4a13-8865-1f43f9f654b5.xml#0fec9e5c-607a-4a13-8865-1f43f9f654b5"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_025d0b3c-25cd-435b-b54e-63eb1b1e5769.xml#025d0b3c-25cd-435b-b54e-63eb1b1e5769"/>
+</archimate:AccessRelationship>

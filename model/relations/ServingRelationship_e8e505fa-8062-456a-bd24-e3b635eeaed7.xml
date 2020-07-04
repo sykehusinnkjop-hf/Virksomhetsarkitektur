@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilknyttet"
+    id="e8e505fa-8062-456a-bd24-e3b635eeaed7">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_e74791cd-bab9-4522-9cc8-b7b7fff4d978.xml#e74791cd-bab9-4522-9cc8-b7b7fff4d978"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_01f13377-c054-4379-b9b9-50e61f562aed.xml#01f13377-c054-4379-b9b9-50e61f562aed"/>
+</archimate:ServingRelationship>
