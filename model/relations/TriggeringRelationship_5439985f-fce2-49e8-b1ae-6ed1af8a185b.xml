@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sender epost"
+    id="5439985f-fce2-49e8-b1ae-6ed1af8a185b">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_f8fbd756-8532-4723-9939-2006095fdb8b.xml#f8fbd756-8532-4723-9939-2006095fdb8b"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_07f6b155-fa5d-4ba7-ae0f-bce40260271c.xml#07f6b155-fa5d-4ba7-ae0f-bce40260271c"/>
+</archimate:TriggeringRelationship>

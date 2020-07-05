@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kan delta"
+    id="6ce6660f-4596-445d-b2d5-e372c3f31ce1">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_80b95750-dc0a-46e4-af45-3ad22945a4d8.xml#80b95750-dc0a-46e4-af45-3ad22945a4d8"/>
+  <target
+      xsi:type="archimate:Resource"
+      href="Resource_52386be5-3b66-4af8-acbe-4e893d65b39c.xml#52386be5-3b66-4af8-acbe-4e893d65b39c"/>
+</archimate:RealizationRelationship>

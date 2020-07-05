@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regulerer"
+    id="d04a4de0-0b42-4ada-85b5-84fcc4703208">
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_ac1f534d-d9fa-4dd5-b8aa-ad824ce9d275.xml#ac1f534d-d9fa-4dd5-b8aa-ad824ce9d275"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_1e2332c1-4144-4aa7-93df-687f4a9ef77b.xml#1e2332c1-4144-4aa7-93df-687f4a9ef77b"/>
+</archimate:RealizationRelationship>

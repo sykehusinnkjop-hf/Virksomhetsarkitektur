@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ja, med anskaffelsesstyre"
+    id="a2703af6-c4b3-464a-94e2-bf3173fdc75a">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_0ca7c4bf-c0f9-4b32-be0f-11188553b443.xml#0ca7c4bf-c0f9-4b32-be0f-11188553b443"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_62e06df1-344c-443b-8082-aa7847412fdd.xml#62e06df1-344c-443b-8082-aa7847412fdd"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ved behov"
+    id="c177783a-6842-4ef6-be15-eb1c1b9b229b">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_22424593-dc21-4abe-a9f3-573c888c9e12.xml#22424593-dc21-4abe-a9f3-573c888c9e12"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_632af209-5d17-430a-80bc-e095b9df0df3.xml#632af209-5d17-430a-80bc-e095b9df0df3"/>
+</archimate:FlowRelationship>

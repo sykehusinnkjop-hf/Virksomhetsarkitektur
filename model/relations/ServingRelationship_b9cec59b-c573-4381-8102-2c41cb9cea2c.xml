@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rapporterer"
+    id="b9cec59b-c573-4381-8102-2c41cb9cea2c">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_903d36da-ccd2-4a65-b965-5d5ca9cb1d15.xml#903d36da-ccd2-4a65-b965-5d5ca9cb1d15"/>
+  <target
+      xsi:type="archimate:BusinessInteraction"
+      href="BusinessInteraction_05c48e0f-e49c-4b69-b228-710b357db12a.xml#05c48e0f-e49c-4b69-b228-710b357db12a"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inngår"
+    id="ff3a57d9-6c0f-4adb-bc1a-92da50a01670">
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_11fa0b69-2a92-405a-8000-67d57220c34f.xml#11fa0b69-2a92-405a-8000-67d57220c34f"/>
+  <target
+      xsi:type="archimate:Resource"
+      href="Resource_b96904a0-87a0-4dbc-91e0-b78a4990daf1.xml#b96904a0-87a0-4dbc-91e0-b78a4990daf1"/>
+</archimate:SpecializationRelationship>
