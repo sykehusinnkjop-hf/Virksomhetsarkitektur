@@ -480,7 +480,7 @@
           x="252"
           y="324"
           width="157"
-          height="205"/>
+          height="229"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="d946f910-3a45-4e13-a690-1210d77d5f60"
@@ -768,7 +768,7 @@
             x="12"
             y="336"
             width="145"
-            height="97"/>
+            height="133"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="1b219264-4701-43bd-ba95-ab22d0825f37"
@@ -801,16 +801,16 @@
         </sourceConnections>
         <bounds
             x="6"
-            y="444"
+            y="624"
             width="157"
-            height="289"/>
+            height="109"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="92fc9d6c-7408-4ae9-b9c5-579e2880849a"
             targetConnections="3f65d79c-f41d-4b7f-8ddc-52d3fea6c923">
           <bounds
               x="24"
-              y="204"
+              y="24"
               width="120"
               height="55"/>
           <archimateElement
