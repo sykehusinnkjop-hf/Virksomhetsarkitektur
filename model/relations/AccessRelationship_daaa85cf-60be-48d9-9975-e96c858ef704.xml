@@ -1,7 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Publiserer"
+    name="Sender"
     id="daaa85cf-60be-48d9-9975-e96c858ef704">
   <source
       xsi:type="archimate:ApplicationFunction"
