@@ -3,22 +3,22 @@
     name="Konseptuelle data (informasjon)"
     id="a197dab6-9b3d-4fc7-8809-1ed8dd364823">
   <properties
-      key="difi:namespace"
+      key="shi:namespace"
       value="-"/>
   <properties
-      key="difi:name_no"
+      key="shi:name_no"
       value="Konseptuelle data (informasjon)2"/>
   <properties
-      key="difi:description_no"/>
+      key="shi:description_no"/>
   <properties
-      key="difi:name_en"/>
+      key="shi:name_en"/>
   <properties
-      key="difi:description_en"/>
+      key="shi:description_en"/>
   <properties
       key="dct:type"
       value="archi:business-object"/>
   <properties
-      key="difi:language"
+      key="shi:language"
       value="no"/>
   <properties
       key="label"

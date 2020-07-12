@@ -3,22 +3,22 @@
     name="Infrastrukturtjenester"
     id="775b77ca-a3fb-470f-9073-596bafa9f11d">
   <properties
-      key="difi:namespace"
+      key="shi:namespace"
       value="-"/>
   <properties
-      key="difi:name_no"
+      key="shi:name_no"
       value="Infrastruktur-tjenester"/>
   <properties
-      key="difi:description_no"/>
+      key="shi:description_no"/>
   <properties
-      key="difi:name_en"/>
+      key="shi:name_en"/>
   <properties
-      key="difi:description_en"/>
+      key="shi:description_en"/>
   <properties
       key="dct:type"
       value="archi:technology-service"/>
   <properties
-      key="difi:language"
+      key="shi:language"
       value="no"/>
   <properties
       key="label"

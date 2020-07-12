@@ -10,20 +10,20 @@
       key="dct:type"
       value="archi:flow-relationship"/>
   <properties
-      key="difi:namespace"
+      key="shi:namespace"
       value="-"/>
   <properties
-      key="difi:language"
+      key="shi:language"
       value="no"/>
   <properties
-      key="difi:name_no"
+      key="shi:name_no"
       value="estimerer og rapporterer"/>
   <properties
-      key="difi:name_en"/>
+      key="shi:name_en"/>
   <properties
-      key="difi:description_no"/>
+      key="shi:description_no"/>
   <properties
-      key="difi:description_en"/>
+      key="shi:description_en"/>
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_708d2841-83e4-4eee-ba91-bfac6c8573c4.xml#708d2841-83e4-4eee-ba91-bfac6c8573c4"/>

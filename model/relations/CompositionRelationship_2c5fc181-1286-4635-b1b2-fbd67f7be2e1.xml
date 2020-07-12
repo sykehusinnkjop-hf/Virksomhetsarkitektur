@@ -4,21 +4,21 @@
     name="har"
     id="2c5fc181-1286-4635-b1b2-fbd67f7be2e1">
   <properties
-      key="difi:namespace"
+      key="shi:namespace"
       value="-"/>
   <properties
-      key="difi:name_no"/>
+      key="shi:name_no"/>
   <properties
-      key="difi:description_no"/>
+      key="shi:description_no"/>
   <properties
-      key="difi:name_en"/>
+      key="shi:name_en"/>
   <properties
-      key="difi:description_en"/>
+      key="shi:description_en"/>
   <properties
       key="dct:type"
       value="archi:composition-relationship"/>
   <properties
-      key="difi:language"
+      key="shi:language"
       value="no"/>
   <properties
       key="label"

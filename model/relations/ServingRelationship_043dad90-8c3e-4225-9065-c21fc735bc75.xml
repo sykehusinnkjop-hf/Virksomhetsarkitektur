@@ -4,22 +4,22 @@
     name="brukes av"
     id="043dad90-8c3e-4225-9065-c21fc735bc75">
   <properties
-      key="difi:namespace"
+      key="shi:namespace"
       value="-"/>
   <properties
-      key="difi:name_no"
+      key="shi:name_no"
       value="brukes av"/>
   <properties
-      key="difi:description_no"/>
+      key="shi:description_no"/>
   <properties
-      key="difi:name_en"/>
+      key="shi:name_en"/>
   <properties
-      key="difi:description_en"/>
+      key="shi:description_en"/>
   <properties
       key="dct:type"
       value="archi:serving-relationship"/>
   <properties
-      key="difi:language"
+      key="shi:language"
       value="no"/>
   <properties
       key="label"

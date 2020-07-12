@@ -4,23 +4,23 @@
     id="2e0ea489-62e9-4d09-b2f9-4aac10840c4e"
     documentation="Evnen til å slå opp og hente data gjennom et API.">
   <properties
-      key="difi:namespace"
+      key="shi:namespace"
       value="na1"/>
   <properties
-      key="difi:name_no"
+      key="shi:name_no"
       value="Slå opp data gjennom et API"/>
   <properties
-      key="difi:description_no"
+      key="shi:description_no"
       value="Evnen til å slå opp og hente data gjennom et API."/>
   <properties
-      key="difi:name_en"/>
+      key="shi:name_en"/>
   <properties
-      key="difi:description_en"/>
+      key="shi:description_en"/>
   <properties
       key="drill down"
       value="4742dd13-f1fe-4e78-80a8-80929a62efb9"/>
   <properties
-      key="difi:language"
+      key="shi:language"
       value="no"/>
   <properties
       key="label"

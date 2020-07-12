@@ -5,22 +5,22 @@
     id="85ca2f48-04bd-45b4-94a1-940f0077d8a1"
     accessType="3">
   <properties
-      key="difi:namespace"
+      key="shi:namespace"
       value="-"/>
   <properties
-      key="difi:name_no"
+      key="shi:name_no"
       value="behandler"/>
   <properties
-      key="difi:description_no"/>
+      key="shi:description_no"/>
   <properties
-      key="difi:name_en"/>
+      key="shi:name_en"/>
   <properties
-      key="difi:description_en"/>
+      key="shi:description_en"/>
   <properties
       key="dct:type"
       value="archi:access-relationship"/>
   <properties
-      key="difi:language"
+      key="shi:language"
       value="no"/>
   <properties
       key="label"

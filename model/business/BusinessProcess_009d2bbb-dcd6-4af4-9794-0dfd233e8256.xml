@@ -4,20 +4,20 @@
     id="009d2bbb-dcd6-4af4-9794-0dfd233e8256"
     documentation="Prosessen med å benytte (gjøre et oppslag mot) et eksternt API.">
   <properties
-      key="difi:namespace"
+      key="shi:namespace"
       value="-"/>
   <properties
-      key="difi:name_no"
+      key="shi:name_no"
       value="Utfør tjenestekall"/>
   <properties
-      key="difi:description_no"
+      key="shi:description_no"
       value="Prosessen med å benytte (gjøre et oppslag mot) et eksternt API."/>
   <properties
-      key="difi:name_en"/>
+      key="shi:name_en"/>
   <properties
-      key="difi:description_en"/>
+      key="shi:description_en"/>
   <properties
-      key="difi:language"
+      key="shi:language"
       value="no"/>
   <properties
       key="label"
