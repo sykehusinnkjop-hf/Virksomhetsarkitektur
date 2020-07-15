@@ -1,4 +1,9 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Oslo universitetssykehus HF "
-    id="de5e94e2-27f3-4407-af1c-191f1bf245b8"/>
+    id="de5e94e2-27f3-4407-af1c-191f1bf245b8">
+  <properties/>
+  <properties
+      key="GS1:GLN"
+      value="7080003437563"/>
+</archimate:BusinessActor>

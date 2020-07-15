@@ -11,9 +11,9 @@
       textAlignment="1">
     <bounds
         x="211"
-        y="65"
+        y="-180"
         width="181"
-        height="721"/>
+        height="889"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -22,14 +22,14 @@
       textAlignment="1">
     <bounds
         x="427"
-        y="65"
-        width="109"
-        height="1057"/>
+        y="-180"
+        width="162"
+        height="1302"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="950f3f52-b87b-4ffa-ad20-675d97ac4c08"
-      name="Prosjekt - Kategori A"
+      name="Anskaffelse - Prosjekt"
       textAlignment="1">
     <bounds
         x="139"
@@ -39,9 +39,9 @@
     <children
         xsi:type="archimate:SketchModelActor"
         id="b2b7eb63-aaa0-4096-82ad-5622532df17a"
-        name="Kunde">
+        name="Prosjektmedlem">
       <bounds
-          x="84"
+          x="120"
           y="48"
           width="75"
           height="100"/>
@@ -51,7 +51,7 @@
         id="a9997941-3bdf-45d4-820c-bfa9c7024264"
         name="Prosjektleder">
       <bounds
-          x="300"
+          x="336"
           y="48"
           width="75"
           height="100"/>
@@ -59,7 +59,7 @@
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="d3240f1f-b3fb-42c7-8773-9139617fb5d0"
-        name="Områdesamling A"
+        name="Områdesamling B"
         textAlignment="1">
       <bounds
           x="492"
@@ -72,16 +72,20 @@
           lineColor="#5c5c5c"
           textAlignment="1"
           fillColor="#ffffff"
-          content="Prosjektområde&#xD;&#xA;Team A">
+          content="Prosjektområde&#xD;&#xA;Team C">
         <sourceConnections
             id="5a84d4d0-2af5-4e6c-82c4-fb3d88999dcd"
             source="60f90f48-7b5d-4b62-8928-85c6cf099e26"
             target="0062542a-6cf3-4967-806e-57482b2a857a"/>
+        <sourceConnections
+            id="e03b1717-4787-4835-a395-634e74d97786"
+            source="60f90f48-7b5d-4b62-8928-85c6cf099e26"
+            target="ab0052e6-06bd-4045-b634-d81ae1b63032"/>
         <bounds
             x="36"
             y="24"
             width="135"
-            height="61"/>
+            height="133"/>
       </children>
       <children
           xsi:type="archimate:SketchModelSticky"
@@ -113,27 +117,9 @@
       </children>
       <children
           xsi:type="archimate:SketchModelSticky"
-          id="3e2b428f-e98f-4333-9e63-777ea614c2bf"
-          name="Sticky"
-          lineColor="#5c5c5c"
-          textAlignment="1"
-          fillColor="#ffffff"
-          content="Prosjektområde&#xD;&#xA;Team B">
-        <sourceConnections
-            id="4fdb4d9c-bd67-49a7-97bd-05202d57b2c5"
-            source="3e2b428f-e98f-4333-9e63-777ea614c2bf"
-            target="ab0052e6-06bd-4045-b634-d81ae1b63032"/>
-        <bounds
-            x="36"
-            y="96"
-            width="135"
-            height="61"/>
-      </children>
-      <children
-          xsi:type="archimate:SketchModelSticky"
           id="ab0052e6-06bd-4045-b634-d81ae1b63032"
           name="Sticky"
-          targetConnections="4fdb4d9c-bd67-49a7-97bd-05202d57b2c5"
+          targetConnections="e03b1717-4787-4835-a395-634e74d97786"
           lineColor="#5c5c5c"
           textAlignment="1"
           fillColor="#ffffff"
@@ -165,27 +151,17 @@
       name="Avtaleforvaltning"
       textAlignment="1">
     <bounds
-        x="139"
-        y="509"
-        width="901"
+        x="403"
+        y="852"
+        width="637"
         height="253"/>
-    <children
-        xsi:type="archimate:SketchModelActor"
-        id="d3662e2c-258e-4a77-a6ab-1a475f96f982"
-        name="Kunde">
-      <bounds
-          x="84"
-          y="48"
-          width="75"
-          height="100"/>
-    </children>
     <children
         xsi:type="archimate:SketchModelActor"
         id="d8ab9e2d-f074-438c-ab5b-5027b3c675e1"
         name="Avtaleforvalter">
       <bounds
-          x="300"
-          y="48"
+          x="36"
+          y="72"
           width="75"
           height="100"/>
     </children>
@@ -197,7 +173,7 @@
       textAlignment="1">
     <bounds
         x="631"
-        y="509"
+        y="852"
         width="397"
         height="241"/>
     <children
@@ -300,7 +276,7 @@
       textAlignment="1">
     <bounds
         x="403"
-        y="797"
+        y="1140"
         width="637"
         height="313"/>
     <children
@@ -341,7 +317,7 @@
       textAlignment="1">
     <bounds
         x="631"
-        y="797"
+        y="1140"
         width="397"
         height="301"/>
     <children
@@ -486,7 +462,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="f8996bea-52fa-44b5-9508-e9eb10ef8a71"
-      name="Prosjekt - Kategori B"
+      name="Anskaffelse - Regional"
       textAlignment="1">
     <bounds
         x="139"
@@ -498,17 +474,7 @@
         id="4cdfb697-a871-40eb-ad68-73fb5fd5e968"
         name="Kunde">
       <bounds
-          x="84"
-          y="48"
-          width="75"
-          height="100"/>
-    </children>
-    <children
-        xsi:type="archimate:SketchModelActor"
-        id="a8a40ef9-181f-44d1-ae2e-e5e0b1eb8f25"
-        name="Leverandør">
-      <bounds
-          x="168"
+          x="120"
           y="48"
           width="75"
           height="100"/>
@@ -516,9 +482,9 @@
     <children
         xsi:type="archimate:SketchModelActor"
         id="ab88a5f8-abb4-4743-a4c1-4de474bb7fe4"
-        name="Prosjektleder">
+        name="Innkjøper">
       <bounds
-          x="300"
+          x="336"
           y="48"
           width="75"
           height="100"/>
@@ -526,7 +492,7 @@
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="32c0d6df-fa1c-4150-a91a-c40dbb5bc4e3"
-        name="Områdesamling B"
+        name="Områdesamling C"
         textAlignment="1">
       <bounds
           x="492"
@@ -539,16 +505,20 @@
           lineColor="#5c5c5c"
           textAlignment="1"
           fillColor="#ffffff"
-          content="Prosjektområde&#xD;&#xA;Team A">
+          content="Gruppeområde&#xD;&#xA;Team B">
         <sourceConnections
             id="76bd1251-d002-4dda-8a63-07b9fe432446"
             source="272a5c49-56c1-4db3-9294-cf0ce5172b3e"
             target="2099e923-57ef-4bfa-ba42-8a238cffd02e"/>
+        <sourceConnections
+            id="3ecf51eb-9818-4e4c-bce6-a6dd5a47cc98"
+            source="272a5c49-56c1-4db3-9294-cf0ce5172b3e"
+            target="a04e0d18-8205-40cb-ba44-f0f89ca5cc2d"/>
         <bounds
             x="36"
             y="24"
             width="135"
-            height="61"/>
+            height="133"/>
       </children>
       <children
           xsi:type="archimate:SketchModelSticky"
@@ -580,27 +550,9 @@
       </children>
       <children
           xsi:type="archimate:SketchModelSticky"
-          id="395a5ee8-4ce9-4a9c-be16-b2850f977e53"
-          name="Sticky"
-          lineColor="#5c5c5c"
-          textAlignment="1"
-          fillColor="#ffffff"
-          content="Prosjektområde&#xD;&#xA;Team B">
-        <sourceConnections
-            id="5e13b8cb-110a-45cd-bf94-eca403586624"
-            source="395a5ee8-4ce9-4a9c-be16-b2850f977e53"
-            target="a04e0d18-8205-40cb-ba44-f0f89ca5cc2d"/>
-        <bounds
-            x="36"
-            y="96"
-            width="135"
-            height="61"/>
-      </children>
-      <children
-          xsi:type="archimate:SketchModelSticky"
           id="a04e0d18-8205-40cb-ba44-f0f89ca5cc2d"
           name="Sticky"
-          targetConnections="5e13b8cb-110a-45cd-bf94-eca403586624"
+          targetConnections="3ecf51eb-9818-4e4c-bce6-a6dd5a47cc98"
           lineColor="#5c5c5c"
           textAlignment="1"
           fillColor="#ffffff"
@@ -625,5 +577,317 @@
         </children>
       </children>
     </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="3c378d43-c76d-4567-8523-9cfb2684f5f5"
+      name="Analyse - Hovedområde"
+      textAlignment="1">
+    <bounds
+        x="139"
+        y="-120"
+        width="901"
+        height="181"/>
+    <children
+        xsi:type="archimate:SketchModelActor"
+        id="197bc541-7ed8-41ae-a88c-463b9412ee55"
+        name="Fagressurs">
+      <bounds
+          x="120"
+          y="48"
+          width="75"
+          height="100"/>
+    </children>
+    <children
+        xsi:type="archimate:SketchModelActor"
+        id="030161f5-bad8-42f6-91ba-970932a6c686"
+        name="Koordinator">
+      <bounds
+          x="336"
+          y="48"
+          width="75"
+          height="100"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="8f8edacb-bfee-4c8b-a478-d2b908e0b8df"
+        name="Områdesamling A"
+        textAlignment="1">
+      <bounds
+          x="492"
+          width="397"
+          height="169"/>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="de6effaf-3607-4fce-a084-bcee8f95dfef"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Gruppeområde&#xD;&#xA;Team A">
+        <sourceConnections
+            id="906ce834-c16d-418f-882e-9f8994442757"
+            source="de6effaf-3607-4fce-a084-bcee8f95dfef"
+            target="c681aac5-ac1b-41e0-9363-a518f43aff85"/>
+        <sourceConnections
+            id="8eeef27e-4091-4059-b013-c7dc992c535a"
+            source="de6effaf-3607-4fce-a084-bcee8f95dfef"
+            target="10cc8ca5-6701-43f2-9aa5-eb3f26410a5f"/>
+        <bounds
+            x="36"
+            y="24"
+            width="135"
+            height="133"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="c681aac5-ac1b-41e0-9363-a518f43aff85"
+          name="Sticky"
+          targetConnections="906ce834-c16d-418f-882e-9f8994442757"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Dokumentområde A">
+        <bounds
+            x="228"
+            y="24"
+            width="135"
+            height="61"/>
+        <children
+            xsi:type="archimate:SketchModelSticky"
+            id="1e7b6ea2-ac25-4b90-a6d7-a4ea901f74a8"
+            name="Sticky"
+            lineColor="#5c5c5c"
+            textAlignment="1"
+            fillColor="#ffff00">
+          <bounds
+              x="96"
+              y="36"
+              width="23"
+              height="15"/>
+        </children>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="10cc8ca5-6701-43f2-9aa5-eb3f26410a5f"
+          name="Sticky"
+          targetConnections="8eeef27e-4091-4059-b013-c7dc992c535a d3b329a7-a102-4db9-9511-d62bdaef9f50"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Dokumentarkiv A">
+        <bounds
+            x="228"
+            y="96"
+            width="135"
+            height="61"/>
+        <children
+            xsi:type="archimate:SketchModelSticky"
+            id="f8aae29d-0905-4ed8-a31f-79d0689df646"
+            name="Sticky"
+            lineColor="#5c5c5c"
+            textAlignment="1"
+            fillColor="#ffff00">
+          <bounds
+              x="96"
+              y="36"
+              width="23"
+              height="15"/>
+        </children>
+      </children>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="68de6456-4e2a-4bb0-9623-e523e3701d05"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#7f7fff"
+      content="622">
+    <bounds
+        x="1068"
+        y="384"
+        width="135"
+        height="70"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="a57b8da6-54b6-4ac0-a507-f1e51df096da"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#7f7fff"
+      content="624">
+    <sourceConnections
+        id="d3b329a7-a102-4db9-9511-d62bdaef9f50"
+        source="a57b8da6-54b6-4ac0-a507-f1e51df096da"
+        target="10cc8ca5-6701-43f2-9aa5-eb3f26410a5f"/>
+    <bounds
+        x="1068"
+        y="-24"
+        width="135"
+        height="70"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="ebbebc23-8deb-4d17-9f72-558019368377"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#7f7fff"
+      content="623">
+    <bounds
+        x="1068"
+        y="588"
+        width="135"
+        height="70"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="35f009ed-08d5-4b6a-abc0-a67f6f1fca29"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#7f7fff"
+      content="625">
+    <bounds
+        x="1068"
+        y="871"
+        width="135"
+        height="70"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="8c6664d1-ee75-4c29-a065-bfb9b0c386bc"
+      name="Anskaffelse - Lokal"
+      textAlignment="1">
+    <bounds
+        x="139"
+        y="504"
+        width="901"
+        height="181"/>
+    <children
+        xsi:type="archimate:SketchModelActor"
+        id="ae808905-32cf-4e04-8ba6-a2e1545e785c"
+        name="Kunde">
+      <bounds
+          x="120"
+          y="48"
+          width="75"
+          height="100"/>
+    </children>
+    <children
+        xsi:type="archimate:SketchModelActor"
+        id="989168a4-59f0-495a-8e55-4786ba820cf0"
+        name="Innkjøper">
+      <bounds
+          x="336"
+          y="48"
+          width="75"
+          height="100"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="7a66bc15-1cc4-423e-8107-26c357999f2e"
+        name="Områdesamling C"
+        textAlignment="1">
+      <bounds
+          x="492"
+          width="397"
+          height="169"/>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="92681a4b-7fe7-40cf-b1e9-7bd44a02085a"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Gruppeområde&#xD;&#xA;Team B">
+        <sourceConnections
+            id="50e20313-85cf-4422-b820-2b1c2aebb279"
+            source="92681a4b-7fe7-40cf-b1e9-7bd44a02085a"
+            target="832882dd-5da7-433d-ada5-bec83ac2e7d7"/>
+        <sourceConnections
+            id="6060f6c6-23bc-452c-97fc-962d7f337584"
+            source="92681a4b-7fe7-40cf-b1e9-7bd44a02085a"
+            target="38872708-6346-4f68-ab80-0c91621d1254"/>
+        <bounds
+            x="36"
+            y="24"
+            width="135"
+            height="133"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="38872708-6346-4f68-ab80-0c91621d1254"
+          name="Sticky"
+          targetConnections="6060f6c6-23bc-452c-97fc-962d7f337584"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Dokumentområde A">
+        <bounds
+            x="228"
+            y="24"
+            width="135"
+            height="61"/>
+        <children
+            xsi:type="archimate:SketchModelSticky"
+            id="e1ff0de3-5921-43ed-9181-d7966a622948"
+            name="Sticky"
+            lineColor="#5c5c5c"
+            textAlignment="1"
+            fillColor="#ffff00">
+          <bounds
+              x="96"
+              y="36"
+              width="23"
+              height="15"/>
+        </children>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="832882dd-5da7-433d-ada5-bec83ac2e7d7"
+          name="Sticky"
+          targetConnections="50e20313-85cf-4422-b820-2b1c2aebb279"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#ffffff"
+          content="Dokumentområde B">
+        <bounds
+            x="228"
+            y="96"
+            width="135"
+            height="61"/>
+        <children
+            xsi:type="archimate:SketchModelSticky"
+            id="cd31efe3-8db7-4fb1-a10f-bcc20a8f3994"
+            name="Sticky"
+            lineColor="#5c5c5c"
+            textAlignment="1"
+            fillColor="#ffff00">
+          <bounds
+              x="96"
+              y="36"
+              width="23"
+              height="15"/>
+        </children>
+      </children>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="2bc8d40b-01db-4747-af3c-010bfbd88006"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#7f7fff"
+      content="621">
+    <bounds
+        x="1068"
+        y="180"
+        width="135"
+        height="70"/>
   </children>
 </archimate:SketchModel>
