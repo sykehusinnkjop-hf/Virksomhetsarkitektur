@@ -23,7 +23,7 @@
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#ffffff"
-        content="Nasjonal anskaffelse - BILEVEL PAP">
+        content="Nasjonal anskaffelse - BILEVEL PAP (Rammeavtale)">
       <bounds
           x="96"
           y="60"
@@ -161,7 +161,7 @@
             lineColor="#5c5c5c"
             textAlignment="1"
             fillColor="#b5ffff"
-            content="Delkontrakt 1.1">
+            content="Deltavtale 1.1">
           <bounds
               x="144"
               y="36"
