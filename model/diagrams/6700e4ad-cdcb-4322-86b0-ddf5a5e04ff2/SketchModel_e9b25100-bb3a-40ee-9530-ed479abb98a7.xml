@@ -205,6 +205,7 @@
         xsi:type="archimate:SketchModelSticky"
         id="3cfd12b3-70d4-4db7-9b92-f106b8cdf37d"
         name="Sticky"
+        targetConnections="eb5f706b-452f-4263-9e2f-c3c42310675c"
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#ffffff"
@@ -377,5 +378,37 @@
         y="868"
         width="135"
         height="70"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="ded4ba77-5ffc-4ae0-bd6d-b0bed6dac771"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Mercell">
+    <bounds
+        x="2196"
+        y="48"
+        width="309"
+        height="191"/>
+    <children
+        xsi:type="archimate:SketchModelSticky"
+        id="34b5f0da-395e-46f3-9b4a-21e718f3f96f"
+        name="Sticky"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffff"
+        content="Prosjekt A">
+      <sourceConnections
+          id="eb5f706b-452f-4263-9e2f-c3c42310675c"
+          source="34b5f0da-395e-46f3-9b4a-21e718f3f96f"
+          target="3cfd12b3-70d4-4db7-9b92-f106b8cdf37d"/>
+      <bounds
+          x="24"
+          y="36"
+          width="135"
+          height="70"/>
+    </children>
   </children>
 </archimate:SketchModel>
