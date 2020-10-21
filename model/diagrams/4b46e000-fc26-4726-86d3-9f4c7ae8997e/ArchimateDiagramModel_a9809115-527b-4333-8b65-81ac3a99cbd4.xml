@@ -1720,48 +1720,4 @@
         xsi:type="archimate:ApplicationInterface"
         href="ApplicationInterface_b82ddbf8-3816-4b1f-bcd0-8eaacb091dd4.xml#b82ddbf8-3816-4b1f-bcd0-8eaacb091dd4"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="abc8c250-32a4-471b-8808-debb6a1e9a94"
-      textAlignment="1"
-      content="Varekjøp">
-    <bounds
-        x="1764"
-        y="1140"
-        width="181"
-        height="37"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="8e01a4b1-95e6-4edc-839d-e8b5af589f55"
-      textAlignment="1"
-      content="Tjenestekjøp">
-    <bounds
-        x="1764"
-        y="1188"
-        width="181"
-        height="37"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="35cf3a7c-4949-4908-966f-c6dd6f2775b3"
-      textAlignment="1"
-      content="Blandet kjøp: Varer og tjenester">
-    <bounds
-        x="1764"
-        y="1236"
-        width="397"
-        height="61"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="448fe32a-90d3-483b-ac24-9ff726451506"
-      textAlignment="1"
-      content=" Bygg og anlegg">
-    <bounds
-        x="1776"
-        y="1260"
-        width="181"
-        height="32"/>
-  </children>
 </archimate:ArchimateDiagramModel>
