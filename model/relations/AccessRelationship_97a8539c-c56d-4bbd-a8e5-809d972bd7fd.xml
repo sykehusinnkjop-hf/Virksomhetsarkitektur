@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hent anskaffelser fra divisjon vest"
+    id="97a8539c-c56d-4bbd-a8e5-809d972bd7fd"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_2646e5b0-5e61-4743-b4c2-d43d10b81020.xml#2646e5b0-5e61-4743-b4c2-d43d10b81020"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_a3f5d137-43b4-4a0a-b088-580c47b74f2e.xml#a3f5d137-43b4-4a0a-b088-580c47b74f2e"/>
+</archimate:AccessRelationship>
