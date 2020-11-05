@@ -1,11 +1,11 @@
 <archimate:SketchModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Innholdsbehandling"
-    id="77b551c2-f0bd-486c-98e5-5bdef4dcc055">
+    name="Innholdsbehandling (Vest)"
+    id="b7178f53-b26f-4b29-b307-e33b5cd5086d">
   <children
       xsi:type="archimate:SketchModelSticky"
-      id="c933cab1-1508-4bee-9cee-c50da32cb601"
+      id="b950cf41-023f-4c02-b479-68f81f046b0a"
       name="Sticky"
       lineColor="#5c5c5c"
       textAlignment="1"
@@ -18,7 +18,7 @@
         height="337"/>
     <children
         xsi:type="archimate:SketchModelSticky"
-        id="f6e7fcd1-3043-4531-aba4-356b559d748a"
+        id="cb063476-b952-437d-b5e9-bfe147035aa5"
         name="Sticky"
         lineColor="#5c5c5c"
         textAlignment="1"
@@ -31,7 +31,7 @@
           height="121"/>
       <children
           xsi:type="archimate:SketchModelSticky"
-          id="8c6bdcd0-d99d-4c9b-b758-8a0adc56d464"
+          id="bcd6445f-c88f-4fa2-97ba-d8ceb5f9169e"
           name="Sticky"
           lineColor="#5c5c5c"
           textAlignment="1"
@@ -46,7 +46,7 @@
     </children>
     <children
         xsi:type="archimate:SketchModelSticky"
-        id="15c0359a-be77-46dc-b7d0-3f9969bf749c"
+        id="65d0765a-2277-4c2b-bf18-ff249adc8b8a"
         name="Sticky"
         lineColor="#5c5c5c"
         textAlignment="1"
@@ -59,7 +59,7 @@
           height="265"/>
       <children
           xsi:type="archimate:SketchModelSticky"
-          id="235e9772-5c73-46a6-9dc8-6933772e849a"
+          id="40556a4f-5f8e-4317-9563-8d160aea950d"
           name="Sticky"
           lineColor="#5c5c5c"
           textAlignment="1"
@@ -73,7 +73,7 @@
       </children>
       <children
           xsi:type="archimate:SketchModelSticky"
-          id="a4b55191-74a9-498e-a25a-e3ad604e7073"
+          id="6acaa781-0f28-4fa4-86c0-b50065ce7f3a"
           name="Sticky"
           lineColor="#5c5c5c"
           textAlignment="1"
@@ -87,7 +87,7 @@
       </children>
       <children
           xsi:type="archimate:SketchModelSticky"
-          id="a17e17ea-470f-4d70-9c8c-986c39710388"
+          id="76fee022-646e-4770-a8a0-ed810d9865e0"
           name="Sticky"
           lineColor="#5c5c5c"
           textAlignment="1"
@@ -102,7 +102,7 @@
     </children>
     <children
         xsi:type="archimate:SketchModelSticky"
-        id="18f444c3-24cd-46a5-ac1e-14674ae8148f"
+        id="d24aeae8-0cd8-4489-b325-8ba997699985"
         name="Sticky"
         lineColor="#5c5c5c"
         textAlignment="1"
@@ -115,7 +115,7 @@
           height="265"/>
       <children
           xsi:type="archimate:SketchModelSticky"
-          id="6875a9ac-40f4-4463-9a34-6cf3eaf7a74b"
+          id="57465542-db8f-4145-9d63-65cc2cce8fef"
           name="Sticky"
           lineColor="#5c5c5c"
           textAlignment="1"
@@ -129,7 +129,7 @@
       </children>
       <children
           xsi:type="archimate:SketchModelSticky"
-          id="7ad49a9e-66be-4f58-b22c-fb14a0ef912e"
+          id="1017e8a2-e50a-4725-a37b-8b9948120ed6"
           name="Sticky"
           lineColor="#5c5c5c"
           textAlignment="1"
@@ -143,7 +143,7 @@
       </children>
       <children
           xsi:type="archimate:SketchModelSticky"
-          id="dce77ecb-a310-4872-8c5a-b48d39f655ad"
+          id="ed0c2100-5e52-482e-b064-f61402e6d3cc"
           name="Sticky"
           lineColor="#5c5c5c"
           textAlignment="1"
@@ -158,7 +158,7 @@
     </children>
     <children
         xsi:type="archimate:SketchModelSticky"
-        id="d3acdf19-44ac-4ed9-aa7f-3f5dfcc796b6"
+        id="0961c71c-046c-4d8a-a333-7d3ac648efc6"
         name="Sticky"
         lineColor="#5c5c5c"
         textAlignment="1"
@@ -171,7 +171,7 @@
           height="121"/>
       <children
           xsi:type="archimate:SketchModelSticky"
-          id="e3152da8-10ba-4490-b765-c3be9b0f78ac"
+          id="8f433ef6-1011-4a4a-add5-8546193be4e5"
           name="Sticky"
           lineColor="#5c5c5c"
           textAlignment="1"
@@ -186,7 +186,7 @@
     </children>
     <children
         xsi:type="archimate:SketchModelSticky"
-        id="2a160e6b-9ade-4e67-9cd3-d208b7ac14d4"
+        id="07abcf9c-fff6-4964-b7de-f1439c0f3632"
         name="Sticky"
         lineColor="#5c5c5c"
         textAlignment="1"
@@ -199,7 +199,7 @@
           height="121"/>
       <children
           xsi:type="archimate:SketchModelSticky"
-          id="2ee7668a-37f7-40c8-a0b2-b399fd80f06d"
+          id="43a09733-9bbb-4cc8-a929-314908e424e0"
           name="Sticky"
           lineColor="#5c5c5c"
           textAlignment="1"
@@ -214,7 +214,7 @@
     </children>
     <children
         xsi:type="archimate:SketchModelSticky"
-        id="11cd8133-40f7-40f4-bf47-bc72b957b103"
+        id="ee009ba2-5a54-468a-b8dc-3c0bc013710f"
         name="Sticky"
         lineColor="#5c5c5c"
         textAlignment="1"
@@ -227,7 +227,7 @@
           height="121"/>
       <children
           xsi:type="archimate:SketchModelSticky"
-          id="f727ccd5-11c7-49e8-9487-025aaae6b613"
+          id="8432fd0f-cdaa-4ea4-90c2-844f91c548c0"
           name="Sticky"
           lineColor="#5c5c5c"
           textAlignment="1"
@@ -243,16 +243,16 @@
   </children>
   <children
       xsi:type="archimate:SketchModelSticky"
-      id="a4451a1c-f1d9-42cd-ab11-8036465cb9ea"
+      id="6b13eeb1-f2ea-4d9e-aafa-56c7be69b84d"
       name="Sticky"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
       content="Område: Intranett">
     <sourceConnections
-        id="6d9d661e-9b0d-44e5-9bf0-db34b3e4bf13"
-        source="a4451a1c-f1d9-42cd-ab11-8036465cb9ea"
-        target="5457784e-a25d-4dd9-906e-2e0134f667fe"
+        id="93b3cfdb-01f0-4b11-8d7b-63205f875b80"
+        source="6b13eeb1-f2ea-4d9e-aafa-56c7be69b84d"
+        target="127396c0-2660-4c53-a2f9-c27898f7556a"
         type="1">
       <bendpoints
           startX="204"
@@ -267,7 +267,7 @@
         height="721"/>
     <children
         xsi:type="archimate:SketchModelSticky"
-        id="3b85a9e1-39d9-4775-9ce9-54f6160049ef"
+        id="cc197592-f4c1-4e2e-9ebb-57a0375c6681"
         name="Sticky"
         lineColor="#5c5c5c"
         textAlignment="1"
@@ -280,9 +280,9 @@
           height="361"/>
       <children
           xsi:type="archimate:SketchModelSticky"
-          id="81e08b56-a84b-468d-acaa-3bd067b651a6"
+          id="0eca4c81-936b-4ce1-910b-a025c24e512e"
           name="Sticky"
-          targetConnections="1b5608a1-f0f2-44eb-a3d8-fde3bb8327fc b33a224f-06f4-411d-9ac1-582c64915c9a"
+          targetConnections="b318bc0e-8c62-4030-bda1-5640bd9484a5 9a97d339-7e44-46b5-a02b-fc9b515aad41"
           lineColor="#5c5c5c"
           textAlignment="1"
           fillColor="#ff80c0"
@@ -295,9 +295,9 @@
       </children>
       <children
           xsi:type="archimate:SketchModelSticky"
-          id="30c89ee2-2ddb-4256-963e-17fb871f392e"
+          id="0a92685d-9b5b-434f-82e9-14a18645950d"
           name="Sticky"
-          targetConnections="2fbb5eca-0a4b-4638-88c7-6c4a18685edd"
+          targetConnections="a8dd8524-e424-4112-93f4-35fd1aed5aac"
           lineColor="#5c5c5c"
           textAlignment="1"
           fillColor="#ff80c0"
@@ -310,7 +310,7 @@
       </children>
       <children
           xsi:type="archimate:SketchModelSticky"
-          id="63981247-7041-46bc-bdc2-9f9c884b53c0"
+          id="2dde6230-e0d4-4058-8c76-f6b04b8fecf7"
           name="Sticky"
           lineColor="#5c5c5c"
           textAlignment="1"
@@ -325,7 +325,7 @@
     </children>
     <children
         xsi:type="archimate:SketchModelSticky"
-        id="2f0fab2a-de05-4022-aace-03acaf094b73"
+        id="855fd8fb-8620-4e46-a336-379b056fd3c0"
         name="Sticky"
         lineColor="#5c5c5c"
         textAlignment="1"
@@ -338,16 +338,16 @@
           height="253"/>
       <children
           xsi:type="archimate:SketchModelSticky"
-          id="fb444ea8-427c-41b9-9abc-ec6b08acb49f"
+          id="160e1e2c-dd37-46c7-8bfb-4320c8ab45f0"
           name="Sticky"
           lineColor="#5c5c5c"
           textAlignment="1"
           fillColor="#0080ff"
           content="LMal.A">
         <sourceConnections
-            id="0982116e-cc87-40b8-9531-6f9529469db8"
-            source="fb444ea8-427c-41b9-9abc-ec6b08acb49f"
-            target="d9b43719-1ffd-48a5-92fe-285ac79839e5"/>
+            id="cd8878f7-6bee-44bd-bfe6-0368bee6e746"
+            source="160e1e2c-dd37-46c7-8bfb-4320c8ab45f0"
+            target="a59f1b45-b9f0-473d-8166-e4ed79717d6a"/>
         <bounds
             x="12"
             y="48"
@@ -356,7 +356,7 @@
       </children>
       <children
           xsi:type="archimate:SketchModelSticky"
-          id="86880f9f-e5b8-4cb1-ad59-a184758c2336"
+          id="1be24d54-a54f-474c-93cf-3d0d129be166"
           name="Sticky"
           lineColor="#5c5c5c"
           textAlignment="1"
@@ -372,16 +372,16 @@
   </children>
   <children
       xsi:type="archimate:SketchModelSticky"
-      id="f93a66ba-19af-4dc5-8075-c654d34767d3"
+      id="917fcb9b-6969-4d64-b8ea-2de2986fdeed"
       name="Sticky"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffb5"
       content="Content type: DMal.D.1&#xD;&#xA;&#xD;&#xA;Navn: Mal.D.1&#xD;&#xA;Tittel: Innkalling og agenda oppstartsmøte&#xD;&#xA;Type: Mal&#xD;&#xA;&#xD;&#xA;">
     <sourceConnections
-        id="1b5608a1-f0f2-44eb-a3d8-fde3bb8327fc"
-        source="f93a66ba-19af-4dc5-8075-c654d34767d3"
-        target="81e08b56-a84b-468d-acaa-3bd067b651a6"/>
+        id="b318bc0e-8c62-4030-bda1-5640bd9484a5"
+        source="917fcb9b-6969-4d64-b8ea-2de2986fdeed"
+        target="0eca4c81-936b-4ce1-910b-a025c24e512e"/>
     <bounds
         x="36"
         y="480"
@@ -390,16 +390,16 @@
   </children>
   <children
       xsi:type="archimate:SketchModelSticky"
-      id="2d117e4c-c0d8-435a-a1df-434f3c184395"
+      id="f435cb11-7e93-4495-b6c0-8f781896a034"
       name="Sticky"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffb5"
       content="Content type: DMal.D.2&#xD;&#xA;&#xD;&#xA;Navn: DMal.D.2&#xD;&#xA;Tittel: Referat oppstartsmøte&#xD;&#xA;Type: Mal&#xD;&#xA;&#xD;&#xA;">
     <sourceConnections
-        id="2fbb5eca-0a4b-4638-88c7-6c4a18685edd"
-        source="2d117e4c-c0d8-435a-a1df-434f3c184395"
-        target="30c89ee2-2ddb-4256-963e-17fb871f392e"/>
+        id="a8dd8524-e424-4112-93f4-35fd1aed5aac"
+        source="f435cb11-7e93-4495-b6c0-8f781896a034"
+        target="0a92685d-9b5b-434f-82e9-14a18645950d"/>
     <bounds
         x="36"
         y="600"
@@ -408,9 +408,9 @@
   </children>
   <children
       xsi:type="archimate:SketchModelSticky"
-      id="d9b43719-1ffd-48a5-92fe-285ac79839e5"
+      id="a59f1b45-b9f0-473d-8166-e4ed79717d6a"
       name="Sticky"
-      targetConnections="0982116e-cc87-40b8-9531-6f9529469db8"
+      targetConnections="cd8878f7-6bee-44bd-bfe6-0368bee6e746"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffb5"
@@ -423,16 +423,16 @@
   </children>
   <children
       xsi:type="archimate:SketchModelSticky"
-      id="1843d82a-7c5b-411c-b60b-19685443acde"
+      id="4dd99722-66af-4562-be37-a46f51bdfb43"
       name="Sticky"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
       content="Område: Prosjekt AN-101">
     <sourceConnections
-        id="a266ba6c-766a-4968-9771-d7e638e71280"
-        source="1843d82a-7c5b-411c-b60b-19685443acde"
-        target="8b683289-9531-487e-86e5-1bbcd501e32b"
+        id="6306379c-3b9a-4283-9b13-8db55050876c"
+        source="4dd99722-66af-4562-be37-a46f51bdfb43"
+        target="5cd63f7c-158a-46a1-b3c5-88ab60936810"
         type="1">
       <bendpoints
           startX="-96"
@@ -445,9 +445,9 @@
           endY="54"/>
     </sourceConnections>
     <sourceConnections
-        id="3b1c8b2f-6778-4492-af8e-b36e87bcaefd"
-        source="1843d82a-7c5b-411c-b60b-19685443acde"
-        target="5457784e-a25d-4dd9-906e-2e0134f667fe"
+        id="f21115e4-94d4-4a90-bf3c-0a57467ce2e5"
+        source="4dd99722-66af-4562-be37-a46f51bdfb43"
+        target="127396c0-2660-4c53-a2f9-c27898f7556a"
         type="1">
       <bendpoints
           startX="-204"
@@ -462,16 +462,16 @@
         height="721"/>
     <children
         xsi:type="archimate:SketchModelSticky"
-        id="eb42bb6d-4aea-4ee7-bef0-2b87696bda33"
+        id="7fa9427b-5887-4e83-b00e-a2a7f09cc92c"
         name="Sticky"
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#ffffff"
         content="Dokumenter - Prosjekt">
       <sourceConnections
-          id="b33a224f-06f4-411d-9ac1-582c64915c9a"
-          source="eb42bb6d-4aea-4ee7-bef0-2b87696bda33"
-          target="81e08b56-a84b-468d-acaa-3bd067b651a6"
+          id="9a97d339-7e44-46b5-a02b-fc9b515aad41"
+          source="7fa9427b-5887-4e83-b00e-a2a7f09cc92c"
+          target="0eca4c81-936b-4ce1-910b-a025c24e512e"
           type="1"/>
       <bounds
           x="72"
@@ -480,17 +480,17 @@
           height="361"/>
       <children
           xsi:type="archimate:SketchModelSticky"
-          id="d3cb18c7-384d-4b3b-a509-0cd12c70b75f"
+          id="76e67e13-c58b-4b5e-b6e2-921cd5e6eed8"
           name="Sticky"
-          targetConnections="06a5f35a-4344-40e7-8915-7e08a7489e4f"
+          targetConnections="37f2f5e2-ae75-4b29-8044-45ea86b41664"
           lineColor="#5c5c5c"
           textAlignment="1"
           fillColor="#00ff80"
           content="Dokument.D.1.101">
         <sourceConnections
-            id="307c730f-2978-4a36-b6db-218b8564d47f"
-            source="d3cb18c7-384d-4b3b-a509-0cd12c70b75f"
-            target="447844b1-2000-48cb-9b19-fbc9868f2f6b"
+            id="6be1a5aa-bdf5-4fad-af3e-88b93a2ea8ec"
+            source="76e67e13-c58b-4b5e-b6e2-921cd5e6eed8"
+            target="05710d51-74e8-4b9e-ba7c-995fe1336255"
             type="1"/>
         <bounds
             x="12"
@@ -500,9 +500,9 @@
       </children>
       <children
           xsi:type="archimate:SketchModelSticky"
-          id="f811e79a-14de-4e1f-bbd1-866cb83b170a"
+          id="3ccf083c-88be-47c5-9869-91f903266e66"
           name="Sticky"
-          targetConnections="a3597cbd-d08b-4ee2-a643-854d57fa1cf4"
+          targetConnections="2abb9f46-ab6c-495b-a30e-f978e25ca43a"
           lineColor="#5c5c5c"
           textAlignment="1"
           fillColor="#00ff80"
@@ -515,9 +515,8 @@
       </children>
       <children
           xsi:type="archimate:SketchModelSticky"
-          id="9765179d-418c-4934-921f-ad6bd34ba2e9"
+          id="96206d6d-7d3d-4258-8f90-6216ae352f86"
           name="Sticky"
-          targetConnections="dfda670d-e1a6-4192-a465-95f1d02a1973"
           lineColor="#5c5c5c"
           textAlignment="1"
           fillColor="#00ff80"
@@ -531,7 +530,7 @@
     </children>
     <children
         xsi:type="archimate:SketchModelSticky"
-        id="a9a79171-4887-4d53-93d9-7aaec3d1d0cb"
+        id="aaec4d65-cc12-4339-ad46-5817144464f9"
         name="Sticky"
         lineColor="#5c5c5c"
         textAlignment="1"
@@ -544,9 +543,9 @@
           height="253"/>
       <children
           xsi:type="archimate:SketchModelSticky"
-          id="6a45ae6b-a4cf-486e-b591-b287acc6392c"
+          id="84177e4a-4d3f-4978-b4cf-3dbfbc12b227"
           name="Sticky"
-          targetConnections="c84f23df-a5ff-4466-bb9c-550582396b64"
+          targetConnections="f207fb4e-f59c-4eff-acb5-6f3bdc2ee37a"
           lineColor="#5c5c5c"
           textAlignment="1"
           fillColor="#8080ff"
@@ -559,7 +558,7 @@
       </children>
       <children
           xsi:type="archimate:SketchModelSticky"
-          id="613ea259-2257-4dbd-823b-e0356eddab64"
+          id="98917e2e-ecc8-414e-bd5a-18985359438c"
           name="Sticky"
           lineColor="#5c5c5c"
           textAlignment="1"
@@ -575,34 +574,34 @@
   </children>
   <children
       xsi:type="archimate:SketchModelSticky"
-      id="6b51576a-9445-45ea-b000-db436f4de27c"
+      id="a106547c-914d-4e68-89fe-7ffa41a7df01"
       name="Sticky"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffb5"
-      content="Content type: Dokument.D.1&#xD;&#xA;&#xD;&#xA;Navn: Dokument.D.1.101&#xD;&#xA;Tittel: Innkalling og agenda oppstartsmøte&#xD;&#xA;Type: Prosjektdokument&#xD;&#xA;Oppbevaringsetikett: Arkivnøkkel&#xD;&#xA;Sensitivitetsetikett: u.Off.">
+      content="Content type: Dokument.D.1&#xD;&#xA;&#xD;&#xA;Navn: Dokument.D.1.101&#xD;&#xA;Tittel: Innkalling og agenda oppstartsmøte&#xD;&#xA;Type: Prosjektdokument&#xD;&#xA;Oppevaringsetikett: Arkivnøkkel&#xD;&#xA;">
     <sourceConnections
-        id="06a5f35a-4344-40e7-8915-7e08a7489e4f"
-        source="6b51576a-9445-45ea-b000-db436f4de27c"
-        target="d3cb18c7-384d-4b3b-a509-0cd12c70b75f"/>
+        id="37f2f5e2-ae75-4b29-8044-45ea86b41664"
+        source="a106547c-914d-4e68-89fe-7ffa41a7df01"
+        target="76e67e13-c58b-4b5e-b6e2-921cd5e6eed8"/>
     <bounds
         x="1224"
-        y="456"
+        y="480"
         width="265"
-        height="133"/>
+        height="109"/>
   </children>
   <children
       xsi:type="archimate:SketchModelSticky"
-      id="87275e79-e24f-4933-bc4d-8d0ac61e410e"
+      id="7a16b4ea-fe33-4dc4-82db-d21b0084cb16"
       name="Sticky"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffb5"
       content="Content type: Dokument.D.2&#xD;&#xA;&#xD;&#xA;Navn: Dokument.D.2.101&#xD;&#xA;Tittel: Referat oppstartsmøte&#xD;&#xA;Type: Prosjektdokument&#xD;&#xA;&#xD;&#xA;">
     <sourceConnections
-        id="a3597cbd-d08b-4ee2-a643-854d57fa1cf4"
-        source="87275e79-e24f-4933-bc4d-8d0ac61e410e"
-        target="f811e79a-14de-4e1f-bbd1-866cb83b170a"/>
+        id="2abb9f46-ab6c-495b-a30e-f978e25ca43a"
+        source="7a16b4ea-fe33-4dc4-82db-d21b0084cb16"
+        target="3ccf083c-88be-47c5-9869-91f903266e66"/>
     <bounds
         x="1224"
         y="600"
@@ -611,25 +610,25 @@
   </children>
   <children
       xsi:type="archimate:SketchModelSticky"
-      id="26766da6-5d5e-41aa-a36c-d0fd62e4e49c"
+      id="e7581488-db1b-40ca-8bc7-37e0f83b7aa8"
       name="Sticky"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffb5"
       content="Content type: Liste.A.1&#xD;&#xA;&#xD;&#xA;Navn: Liste.A.1&#xD;&#xA;Tittel: Sjekkliste oppstartsmøte&#xD;&#xA;Type: Prosjektliste&#xD;&#xA;&#xD;&#xA;">
     <sourceConnections
-        id="c84f23df-a5ff-4466-bb9c-550582396b64"
-        source="26766da6-5d5e-41aa-a36c-d0fd62e4e49c"
-        target="6a45ae6b-a4cf-486e-b591-b287acc6392c"/>
+        id="f207fb4e-f59c-4eff-acb5-6f3bdc2ee37a"
+        source="e7581488-db1b-40ca-8bc7-37e0f83b7aa8"
+        target="84177e4a-4d3f-4978-b4cf-3dbfbc12b227"/>
     <bounds
         x="1224"
-        y="900"
+        y="864"
         width="265"
         height="109"/>
   </children>
   <children
       xsi:type="archimate:SketchModelSticky"
-      id="e63d4614-6c6c-471d-80b7-412fd9584128"
+      id="9e0abf7b-e541-4362-af39-a8432c2b5649"
       name="Sticky"
       fontColor="#ffffff"
       lineColor="#5c5c5c"
@@ -642,7 +641,7 @@
         height="133"/>
     <children
         xsi:type="archimate:SketchModelActor"
-        id="cb64e239-f498-488f-8f7d-5464f23c94ac"
+        id="aca4201a-8cbf-4899-bf2e-c8359b45249b"
         name="SHI"
         fontColor="#ffffff"
         fillColor="#ffffff">
@@ -655,16 +654,16 @@
   </children>
   <children
       xsi:type="archimate:SketchModelSticky"
-      id="8a6582f5-9f50-4671-b722-4aa6e4583c19"
+      id="73a71349-eb6f-47c4-a433-670b4e62ce42"
       name="Sticky"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffb5"
       content="BrrukerID (AAD): bruker.navn@sykehusinnkjop.no">
     <sourceConnections
-        id="62bcc638-e1c3-451b-916c-1b9be8661b41"
-        source="8a6582f5-9f50-4671-b722-4aa6e4583c19"
-        target="5457784e-a25d-4dd9-906e-2e0134f667fe"/>
+        id="736afc74-b8d3-40fd-8c84-b1ef06c4478a"
+        source="73a71349-eb6f-47c4-a433-670b4e62ce42"
+        target="127396c0-2660-4c53-a2f9-c27898f7556a"/>
     <bounds
         x="468"
         y="360"
@@ -673,7 +672,7 @@
   </children>
   <children
       xsi:type="archimate:SketchModelSticky"
-      id="f461f481-2f26-4f5d-be03-4d35d005192b"
+      id="af2f1aad-4946-4656-b73c-2f842b9b5cbd"
       name="Sticky"
       fontColor="#ffffff"
       lineColor="#5c5c5c"
@@ -686,7 +685,7 @@
         height="133"/>
     <children
         xsi:type="archimate:SketchModelActor"
-        id="7e8c1a34-7229-4c89-9f14-d41ab28ca499"
+        id="9c040613-c0f0-40a2-bfb7-ff257e92d6c8"
         name="HF"
         fontColor="#ffffff"
         fillColor="#ffffff">
@@ -699,16 +698,16 @@
   </children>
   <children
       xsi:type="archimate:SketchModelSticky"
-      id="98d309c3-7396-409a-8f27-4ce74e7f45ae"
+      id="90621ff7-48c3-4339-81b0-043e25cd11d2"
       name="Sticky"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffb5"
       content="BrukerID (AAD): bruker.navn@helseforetak.no&#xD;&#xA;bruker.navn@samarbeidspartner.no">
     <sourceConnections
-        id="76d93089-0f9a-497b-87d6-ed2cf2faef07"
-        source="98d309c3-7396-409a-8f27-4ce74e7f45ae"
-        target="8b683289-9531-487e-86e5-1bbcd501e32b"/>
+        id="9e808997-4646-407e-8d0c-4a74b6c17c88"
+        source="90621ff7-48c3-4339-81b0-043e25cd11d2"
+        target="5cd63f7c-158a-46a1-b3c5-88ab60936810"/>
     <bounds
         x="204"
         y="132"
@@ -717,13 +716,13 @@
   </children>
   <children
       xsi:type="archimate:SketchModelSticky"
-      id="8b683289-9531-487e-86e5-1bbcd501e32b"
+      id="5cd63f7c-158a-46a1-b3c5-88ab60936810"
       name="Sticky"
-      targetConnections="76d93089-0f9a-497b-87d6-ed2cf2faef07 a266ba6c-766a-4968-9771-d7e638e71280"
+      targetConnections="6306379c-3b9a-4283-9b13-8db55050876c 9e808997-4646-407e-8d0c-4a74b6c17c88"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#b5ffff"
-      content="Gjestetilgang (B2B)">
+      content="Gjestetilgang">
     <bounds
         x="492"
         y="144"
@@ -732,9 +731,9 @@
   </children>
   <children
       xsi:type="archimate:SketchModelSticky"
-      id="5457784e-a25d-4dd9-906e-2e0134f667fe"
+      id="127396c0-2660-4c53-a2f9-c27898f7556a"
       name="Sticky"
-      targetConnections="62bcc638-e1c3-451b-916c-1b9be8661b41 6d9d661e-9b0d-44e5-9bf0-db34b3e4bf13 3b1c8b2f-6778-4492-af8e-b36e87bcaefd"
+      targetConnections="93b3cfdb-01f0-4b11-8d7b-63205f875b80 f21115e4-94d4-4a90-bf3c-0a57467ce2e5 736afc74-b8d3-40fd-8c84-b1ef06c4478a"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#b5ffff"
@@ -747,7 +746,7 @@
   </children>
   <children
       xsi:type="archimate:SketchModelSticky"
-      id="4db11b6f-26f7-4a59-a3d4-9d8517d3595a"
+      id="0ad57102-adbe-4998-a065-a1efe86c4164"
       name="Sticky"
       fontColor="#ffffff"
       lineColor="#5c5c5c"
@@ -760,7 +759,7 @@
         height="133"/>
     <children
         xsi:type="archimate:SketchModelActor"
-        id="af42df7d-dc52-4b49-b6d5-a7b5c45b4f99"
+        id="e6ecfe67-f86e-417f-99aa-34a19f64637e"
         name="HF"
         fontColor="#ffffff"
         fillColor="#ffffff">
@@ -773,13 +772,13 @@
   </children>
   <children
       xsi:type="archimate:SketchModelSticky"
-      id="447844b1-2000-48cb-9b19-fbc9868f2f6b"
+      id="05710d51-74e8-4b9e-ba7c-995fe1336255"
       name="Sticky"
-      targetConnections="307c730f-2978-4a36-b6db-218b8564d47f 0ca6b12f-e7a9-4d1b-9689-b0fb4449f5be"
+      targetConnections="6be1a5aa-bdf5-4fad-af3e-88b93a2ea8ec eb42218f-a377-4a63-9fa2-6748584f6521"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#b5ffff"
-      content="Eksterntilgang (B2C)">
+      content="Eksterntilgang">
     <bounds
         x="948"
         y="144"
@@ -788,38 +787,20 @@
   </children>
   <children
       xsi:type="archimate:SketchModelSticky"
-      id="ca70f595-aad1-4bef-adfd-14bd614a1806"
+      id="4a55b20c-d9b7-4d72-afbc-3cdec4b94695"
       name="Sticky"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffb5"
-      content="BrukerID (AAD): bruker.navn@hakkebakke.com">
+      content="BrrukerID (AAD): bruker.navn@hakkebakke.com">
     <sourceConnections
-        id="0ca6b12f-e7a9-4d1b-9689-b0fb4449f5be"
-        source="ca70f595-aad1-4bef-adfd-14bd614a1806"
-        target="447844b1-2000-48cb-9b19-fbc9868f2f6b"/>
+        id="eb42218f-a377-4a63-9fa2-6748584f6521"
+        source="4a55b20c-d9b7-4d72-afbc-3cdec4b94695"
+        target="05710d51-74e8-4b9e-ba7c-995fe1336255"/>
     <bounds
         x="1092"
         y="132"
         width="205"
         height="49"/>
-  </children>
-  <children
-      xsi:type="archimate:SketchModelSticky"
-      id="a89c1929-280f-4dc7-8024-01d6021d3429"
-      name="Sticky"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffb5"
-      content="Content type: Dokument.A.1&#xD;&#xA;&#xD;&#xA;Navn: Liste.A.1&#xD;&#xA;Tittel: Sjekkliste oppstartsmøte&#xD;&#xA;Type: Prosjektliste&#xD;&#xA;&#xD;&#xA;">
-    <sourceConnections
-        id="dfda670d-e1a6-4192-a465-95f1d02a1973"
-        source="a89c1929-280f-4dc7-8024-01d6021d3429"
-        target="9765179d-418c-4934-921f-ad6bd34ba2e9"/>
-    <bounds
-        x="1224"
-        y="720"
-        width="265"
-        height="109"/>
   </children>
 </archimate:SketchModel>
