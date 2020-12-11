@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overwrite medlemmer"
+    id="bad1dce4-9011-4204-99df-dc0c154ca6b8">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_9c40f3bb-b73c-4f71-a72b-3a8e7d5cd43a.xml#9c40f3bb-b73c-4f71-a72b-3a8e7d5cd43a"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_d244e6be-7b59-4feb-9714-910c1e7c6c1e.xml#d244e6be-7b59-4feb-9714-910c1e7c6c1e"/>
+</archimate:FlowRelationship>
