@@ -877,15 +877,14 @@
             href="AccessRelationship_0a54a01d-5613-4bfb-bce3-9d903070031b.xml#0a54a01d-5613-4bfb-bce3-9d903070031b"/>
       </sourceConnections>
       <bounds
-          y="60"
           width="120"
-          height="265"/>
+          height="325"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="0a9bfaa1-6a74-4970-a973-eeca7f3fd56b"
           targetConnections="dcdc8d19-acba-4fc7-9f55-0591960fe365">
         <bounds
-            y="84"
+            y="144"
             width="120"
             height="55"/>
         <archimateElement
@@ -897,7 +896,7 @@
           id="8946c622-adfe-4d54-a6a5-0610795aaf91"
           targetConnections="32e0eadd-4ac0-42ea-8963-64278faf903b">
         <bounds
-            y="144"
+            y="204"
             width="120"
             height="55"/>
         <archimateElement
@@ -909,7 +908,7 @@
           id="0b805c8e-ec1d-41b1-9ee9-57d34282d248"
           targetConnections="0f61757d-9286-4538-bf35-d41c45a881dd">
         <bounds
-            y="204"
+            y="264"
             width="120"
             height="55"/>
         <archimateElement
