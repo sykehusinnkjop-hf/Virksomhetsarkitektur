@@ -532,8 +532,8 @@
         target="e1e796f7-ed3e-4dea-a176-b8226a078c3f">
       <bendpoints
           startX="-24"
-          startY="69"
-          endX="132"
+          startY="81"
+          endX="131"
           endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
@@ -545,9 +545,9 @@
         source="2199df30-7cc9-42c0-98f7-11632afcf033"
         target="b8cd5923-9d5c-4e08-80db-896934ce16ad">
       <bendpoints
-          startX="24"
-          startY="69"
-          endX="-121"
+          startX="25"
+          startY="81"
+          endX="-120"
           endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
