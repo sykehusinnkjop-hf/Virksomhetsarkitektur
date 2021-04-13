@@ -1,7 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="POST: Extract.json"
+    name="POST: ProjectContext.json"
     id="8101f667-d5a4-40bf-9153-6f262120395c">
   <source
       xsi:type="archimate:ApplicationProcess"
