@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Response: Changes to shi_project"
+    id="0c5e269e-9c21-481e-8139-3ff43e340107">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_a27aa33f-ec51-470f-b0da-03a05176a9ba.xml#a27aa33f-ec51-470f-b0da-03a05176a9ba"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_2d59894b-1ff3-4df8-b81d-012be486cd73.xml#2d59894b-1ff3-4df8-b81d-012be486cd73"/>
+</archimate:ServingRelationship>
