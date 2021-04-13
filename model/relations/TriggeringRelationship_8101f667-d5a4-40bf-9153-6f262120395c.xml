@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="POST: Extract.json"
+    id="8101f667-d5a4-40bf-9153-6f262120395c">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_2d59894b-1ff3-4df8-b81d-012be486cd73.xml#2d59894b-1ff3-4df8-b81d-012be486cd73"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_a27aa33f-ec51-470f-b0da-03a05176a9ba.xml#a27aa33f-ec51-470f-b0da-03a05176a9ba"/>
+</archimate:TriggeringRelationship>
