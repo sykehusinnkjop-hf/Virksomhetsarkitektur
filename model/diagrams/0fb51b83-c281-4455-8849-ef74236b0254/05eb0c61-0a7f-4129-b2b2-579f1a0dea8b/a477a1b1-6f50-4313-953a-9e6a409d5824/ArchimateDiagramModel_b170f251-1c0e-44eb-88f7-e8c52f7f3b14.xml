@@ -44,9 +44,9 @@
     </sourceConnections>
     <bounds
         x="492"
-        y="156"
+        y="120"
         width="649"
-        height="517"/>
+        height="529"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="1c91191f-5933-4400-a939-d61983478454"
@@ -62,7 +62,7 @@
       </sourceConnections>
       <bounds
           x="324"
-          y="36"
+          y="48"
           width="285"
           height="118"/>
       <children
@@ -82,7 +82,7 @@
             x="12"
             y="24"
             width="253"
-            height="61"/>
+            height="37"/>
         <archimateElement
             xsi:type="archimate:ApplicationInterface"
             href="ApplicationInterface_d6efacee-63b5-46c6-97e2-4fbb98c384fe.xml#d6efacee-63b5-46c6-97e2-4fbb98c384fe"/>
@@ -97,7 +97,7 @@
         targetConnections="0590c7b3-d894-4a81-84b3-b03536d93d23 754ff256-89d8-417a-bf5e-9d9f2af32d7a">
       <bounds
           x="12"
-          y="36"
+          y="48"
           width="193"
           height="469"/>
       <children
@@ -137,9 +137,9 @@
             source="1e59cc52-bfcc-4361-9486-47f483fac4cc"
             target="8e048d16-8462-4673-a0ec-5e82e2913f0c">
           <bendpoints
-              startX="-156"
-              startY="102"
-              endX="138"
+              startX="-168"
+              startY="108"
+              endX="162"
               endY="-15"/>
           <archimateRelationship
               xsi:type="archimate:TriggeringRelationship"
@@ -195,6 +195,11 @@
               id="3ef52260-aa5f-475b-88d8-77aeeca22b41"
               source="09c77a88-07dd-456e-b327-47c6240aefbc"
               target="270698c1-6386-430a-acbf-3be38e027b00">
+            <bendpoints
+                startX="156"
+                startY="-60"
+                endX="-198"
+                endY="-6"/>
             <archimateRelationship
                 xsi:type="archimate:FlowRelationship"
                 href="FlowRelationship_0f68e317-2149-44a8-95d8-a554d84994b5.xml#0f68e317-2149-44a8-95d8-a554d84994b5"/>
@@ -266,7 +271,7 @@
         targetConnections="d1db395c-b4fc-4348-840d-dceb62391f63 35c23b9a-219e-4ef1-9084-955f4c8f38ec">
       <bounds
           x="324"
-          y="168"
+          y="180"
           width="285"
           height="124"/>
       <children
@@ -301,7 +306,7 @@
         targetConnections="f2bcdf8a-8643-4c1c-ad60-76a758ae7639 e4570983-f76a-4f04-98a6-3dd06bbd9bd9">
       <bounds
           x="324"
-          y="312"
+          y="324"
           width="285"
           height="109"/>
       <children
@@ -357,7 +362,7 @@
           href="AccessRelationship_e38db46f-86cf-4c21-9b0e-6c11303892ba.xml#e38db46f-86cf-4c21-9b0e-6c11303892ba"/>
     </sourceConnections>
     <bounds
-        x="12"
+        x="24"
         y="468"
         width="325"
         height="229"/>
@@ -402,10 +407,10 @@
           source="8e048d16-8462-4673-a0ec-5e82e2913f0c"
           target="1e59cc52-bfcc-4361-9486-47f483fac4cc">
         <bendpoints
-            startX="150"
-            startY="-15"
+            startX="162"
+            startY="21"
             endX="-168"
-            endY="60"/>
+            endY="144"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_29e46997-e162-460f-81aa-2958cd315279.xml#29e46997-e162-460f-81aa-2958cd315279"/>
@@ -531,9 +536,9 @@
               endY="126"/>
           <bendpoints
               startX="-150"
-              startY="-120"
+              startY="-168"
               endX="210"
-              endY="18"/>
+              endY="6"/>
           <archimateRelationship
               xsi:type="archimate:TriggeringRelationship"
               href="TriggeringRelationship_e5a709da-5f5a-4f39-b827-deb291c446f9.xml#e5a709da-5f5a-4f39-b827-deb291c446f9"/>
@@ -637,7 +642,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="81f4e781-6b69-428e-85e5-726022af3abd">
     <bounds
-        x="12"
+        x="24"
         y="120"
         width="361"
         height="313"/>
