@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GET: /home/16966/Fra_BGTID_SHIDW"
+    id="932e9b08-94c2-4559-95f1-c97ffae812f3">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_76e03c40-f6b5-46d4-9fdc-fb89048d6271.xml#76e03c40-f6b5-46d4-9fdc-fb89048d6271"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_663d1428-32b9-471b-824f-0b4dadb00a0d.xml#663d1428-32b9-471b-824f-0b4dadb00a0d"/>
+</archimate:TriggeringRelationship>

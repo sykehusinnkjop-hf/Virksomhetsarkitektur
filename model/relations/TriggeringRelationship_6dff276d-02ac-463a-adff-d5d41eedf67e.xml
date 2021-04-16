@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DELETE: /{File identifier}"
+    id="6dff276d-02ac-463a-adff-d5d41eedf67e">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_d78c3765-929d-4d99-aae1-a2c9ae844636.xml#d78c3765-929d-4d99-aae1-a2c9ae844636"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_663d1428-32b9-471b-824f-0b4dadb00a0d.xml#663d1428-32b9-471b-824f-0b4dadb00a0d"/>
+</archimate:TriggeringRelationship>
