@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilrettelegging"
     id="5901b4fe-2b3d-4b80-aac6-0fa1501e3712">
   <source
       xsi:type="archimate:BusinessCollaboration"
