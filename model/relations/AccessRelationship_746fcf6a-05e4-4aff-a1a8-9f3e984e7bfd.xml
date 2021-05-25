@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handover"
+    id="746fcf6a-05e4-4aff-a1a8-9f3e984e7bfd"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessInteraction"
+      href="BusinessInteraction_6cb39316-6448-40e1-8e34-8cca6020084b.xml#6cb39316-6448-40e1-8e34-8cca6020084b"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_671dbb8d-346c-4dad-875c-9c04aea71269.xml#671dbb8d-346c-4dad-875c-9c04aea71269"/>
+</archimate:AccessRelationship>

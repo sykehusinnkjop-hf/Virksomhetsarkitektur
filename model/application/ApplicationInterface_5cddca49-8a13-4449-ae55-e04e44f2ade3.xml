@@ -1,0 +1,8 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medulla"
+    id="5cddca49-8a13-4449-ae55-e04e44f2ade3">
+  <properties
+      key="URL"
+      value="https://qms.sykehusinnkjop.no/produksjon/"/>
+</archimate:ApplicationInterface>

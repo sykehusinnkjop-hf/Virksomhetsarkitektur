@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft 365"
+    id="f51e0f11-bc25-43c7-b6d1-c430df179a92">
+  <properties
+      key="Tenant"
+      value="sykehusinnkjop.no"/>
+</archimate:Node>
