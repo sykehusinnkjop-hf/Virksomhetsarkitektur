@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kontraktsforhold"
+    id="a1db6bb6-4e6c-409d-9cf0-abd3e62db65c">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_6c926699-1bf5-409d-8f78-3bb1b1a5d314.xml#6c926699-1bf5-409d-8f78-3bb1b1a5d314"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_d45da02d-36e0-4611-9e87-4d7d1ad7bb8d.xml#d45da02d-36e0-4611-9e87-4d7d1ad7bb8d"/>
+</archimate:AssociationRelationship>

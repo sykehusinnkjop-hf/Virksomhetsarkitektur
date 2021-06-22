@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innovasjon"
+    id="ae3f7cfb-a643-4277-8a33-1c7d64034e0a">
+  <source
+      xsi:type="archimate:BusinessInteraction"
+      href="BusinessInteraction_e731a07c-5074-4665-a171-0f986b8178b3.xml#e731a07c-5074-4665-a171-0f986b8178b3"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_fa40c770-d77c-4944-bba5-e0770e888d34.xml#fa40c770-d77c-4944-bba5-e0770e888d34"/>
+</archimate:RealizationRelationship>

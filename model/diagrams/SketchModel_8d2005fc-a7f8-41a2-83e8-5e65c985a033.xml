@@ -449,7 +449,7 @@
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#ffffff"
-        content="Fact_A">
+        content="fact_Turnover">
       <bounds
           x="96"
           y="480"
@@ -460,11 +460,11 @@
         xsi:type="archimate:SketchModelSticky"
         id="bb76c3fe-7ab0-4316-9ee4-02442d72802d"
         name="Kilde 1"
-        targetConnections="c4c995b2-a161-4040-add9-d90689fc053b a41d98cf-814e-4cd7-806e-52c8d14bd50f"
+        targetConnections="c4c995b2-a161-4040-add9-d90689fc053b a41d98cf-814e-4cd7-806e-52c8d14bd50f 0b97a135-d1c0-4a0d-a863-9256b40d8361"
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#ffffff"
-        content="Fact_B">
+        content="fact_TimeMaterial">
       <sourceConnections
           id="22df2f11-f527-440d-ba27-607a140dcdcf"
           source="bb76c3fe-7ab0-4316-9ee4-02442d72802d"
@@ -473,6 +473,19 @@
           id="16b50a10-99bb-4e7b-9b33-8a1289f92641"
           source="bb76c3fe-7ab0-4316-9ee4-02442d72802d"
           target="022dbf07-8328-48a6-9a6f-f15bf0b27de2"/>
+      <sourceConnections
+          id="fe9e0d6e-dc2c-49a5-912c-80cfdf5f961f"
+          source="bb76c3fe-7ab0-4316-9ee4-02442d72802d"
+          target="9d255cf4-159f-4116-8645-ff1d2fc17b71">
+        <bendpoints
+            startX="126"
+            endX="54"
+            endY="228"/>
+        <bendpoints
+            startX="126"
+            startY="-228"
+            endX="54"/>
+      </sourceConnections>
       <bounds
           x="96"
           y="636"
@@ -486,11 +499,24 @@
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#ffffff"
-        content="Dim_Org">
+        content="dim_Dept">
       <sourceConnections
           id="5812fd74-5609-4e37-817f-d01f8f04a78a"
           source="e56d9d5c-5136-4761-b9f7-60dcfb73a50a"
           target="a3469f87-7cda-4ecd-8812-7fa375bcc8df"/>
+      <sourceConnections
+          id="0b97a135-d1c0-4a0d-a863-9256b40d8361"
+          source="e56d9d5c-5136-4761-b9f7-60dcfb73a50a"
+          target="bb76c3fe-7ab0-4316-9ee4-02442d72802d">
+        <bendpoints
+            startX="-54"
+            endX="-114"
+            endY="-228"/>
+        <bendpoints
+            startX="-54"
+            startY="228"
+            endX="-114"/>
+      </sourceConnections>
       <bounds
           x="36"
           y="408"
@@ -501,10 +527,11 @@
         xsi:type="archimate:SketchModelSticky"
         id="9d255cf4-159f-4116-8645-ff1d2fc17b71"
         name="Kilde 1"
+        targetConnections="fe9e0d6e-dc2c-49a5-912c-80cfdf5f961f"
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#ffffff"
-        content="DIm_2">
+        content="dim_Emp">
       <sourceConnections
           id="86f1aa1a-2ca2-4266-b351-ac6b2be9e1be"
           source="9d255cf4-159f-4116-8645-ff1d2fc17b71"
@@ -522,7 +549,7 @@
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#ffffff"
-        content="Dim_3">
+        content="dim_Project">
       <sourceConnections
           id="c4c995b2-a161-4040-add9-d90689fc053b"
           source="179dff6a-5477-4836-b8f3-993aa3443997"
@@ -540,7 +567,7 @@
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#ffffff"
-        content="Dim_4">
+        content="dim_Resource">
       <sourceConnections
           id="a41d98cf-814e-4cd7-806e-52c8d14bd50f"
           source="45ca5968-ccfb-4d80-a947-c181a88af70a"
@@ -559,7 +586,7 @@
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#ffffff"
-        content="Dim_Aud">
+        content="dim_Audit">
       <sourceConnections
           id="153e2311-f79e-42a2-bb15-5cb7357baa88"
           source="5cba7e17-58fb-4ad8-9c63-2df4eee0f94b"
@@ -578,7 +605,7 @@
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#ffffff"
-        content="Dim_Time">
+        content="dim_Time">
       <sourceConnections
           id="136ebaf5-32e0-4517-af47-028941be7bae"
           source="022dbf07-8328-48a6-9a6f-f15bf0b27de2"
@@ -834,7 +861,7 @@
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#ffff00"
-        content="Rreport/ cube priorty">
+        content="Report/ cube priorty">
       <bounds
           x="12"
           y="72"

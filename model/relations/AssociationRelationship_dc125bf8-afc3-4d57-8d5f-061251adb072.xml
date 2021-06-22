@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Feilrapportering(Incident), Endringsønsker(Change)"
+    id="dc125bf8-afc3-4d57-8d5f-061251adb072">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_fc8faecc-ff1d-40ff-b529-58f8b3e7197f.xml#fc8faecc-ff1d-40ff-b529-58f8b3e7197f"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_eab2169b-4da7-49f2-80ea-b1b5ce65cf2f.xml#eab2169b-4da7-49f2-80ea-b1b5ce65cf2f"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kunngjøring"
+    id="fb66a531-9367-419e-8a33-7968a466b2cd">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_ac57e38f-08a6-4934-81df-27bf8b035c41.xml#ac57e38f-08a6-4934-81df-27bf8b035c41"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_fa40c770-d77c-4944-bba5-e0770e888d34.xml#fa40c770-d77c-4944-bba5-e0770e888d34"/>
+</archimate:RealizationRelationship>

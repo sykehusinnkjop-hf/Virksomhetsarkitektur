@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sync/ Async"
+    id="5e03d750-53ac-476e-8df3-a69879d95c70"
+    accessType="3">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_4839882a-fe17-436a-b2a7-dea49f4d02aa.xml#4839882a-fe17-436a-b2a7-dea49f4d02aa"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_e23faa96-7572-40c7-87d7-a061d9c4f107.xml#e23faa96-7572-40c7-87d7-a061d9c4f107"/>
+</archimate:AccessRelationship>

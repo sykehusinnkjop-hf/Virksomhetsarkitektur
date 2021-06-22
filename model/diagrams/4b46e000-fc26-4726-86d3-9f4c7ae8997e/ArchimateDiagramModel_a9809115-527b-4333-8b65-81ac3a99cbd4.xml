@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kjernesystem"
+    name="Satstningsområde -  Katalogtjeneste"
     id="a9809115-527b-4333-8b65-81ac3a99cbd4">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -178,9 +178,9 @@
             endX="385"
             endY="108"/>
         <bendpoints
-            startX="-231"
+            startX="-255"
             startY="144"
-            endX="181"
+            endX="157"
             endY="108"/>
         <archimateRelationship
             xsi:type="archimate:FlowRelationship"
