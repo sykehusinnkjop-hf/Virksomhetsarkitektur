@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="shi_document_templates"
+    id="f6b33a89-3a3f-4d59-a4eb-411e6db9da80"
+    documentation="Navn på maldokument: text&#xD;&#xA;URL til template på sharepoint: URL&#xD;&#xA;URL til PowerAutomate: URL&#xD;&#xA;Searchterms: text eller flervalg (må testes)&#xD;&#xA;Prossessteg: valg"/>

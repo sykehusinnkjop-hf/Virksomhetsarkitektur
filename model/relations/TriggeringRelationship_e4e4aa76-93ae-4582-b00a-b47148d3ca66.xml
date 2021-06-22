@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="e4e4aa76-93ae-4582-b00a-b47148d3ca66"
+    documentation="Request&#xD;&#xA;POST: URL&#xD;&#xA;Body:&#xD;&#xA;{&#xD;&#xA;    &quot;shi_procurementid&quot;: &quot;dfsa34fgdsa4323&quot;&#xD;&#xA;&#x9;&quot;sharepoint_library&quot;: &quot;URL til sharepoint bibliotek&quot;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;Response 200OK&#xD;&#xA;Body:&#xD;&#xA;{&#xD;&#xA;   &quot;status&quot;: &quot;informasjon om dokumentet som ble opprettet&quot;&#xD;&#xA;}&#xD;&#xA;">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_7a5828c1-90b6-4457-964d-4488cdec570c.xml#7a5828c1-90b6-4457-964d-4488cdec570c"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_98dacfd2-ab51-43fe-bfa2-11eedd8bf0b3.xml#98dacfd2-ab51-43fe-bfa2-11eedd8bf0b3"/>
+</archimate:TriggeringRelationship>
