@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mottar delingslenke"
+    id="48a6f842-31d7-412a-aaea-e5a040ba5b17">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_cbc4d4f3-d458-4a39-941b-d0cbe292e933.xml#cbc4d4f3-d458-4a39-941b-d0cbe292e933"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_011eddc0-9fb0-4bfd-8592-fb4a2de18cb4.xml#011eddc0-9fb0-4bfd-8592-fb4a2de18cb4"/>
+</archimate:AssignmentRelationship>

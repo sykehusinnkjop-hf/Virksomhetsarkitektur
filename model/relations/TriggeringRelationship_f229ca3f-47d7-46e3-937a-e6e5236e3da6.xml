@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utløser"
+    id="f229ca3f-47d7-46e3-937a-e6e5236e3da6">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_c843a441-099c-46fd-a919-ea0c2fbe58c3.xml#c843a441-099c-46fd-a919-ea0c2fbe58c3"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_80639936-c909-4cda-8b0c-35479d735100.xml#80639936-c909-4cda-8b0c-35479d735100"/>
+</archimate:TriggeringRelationship>

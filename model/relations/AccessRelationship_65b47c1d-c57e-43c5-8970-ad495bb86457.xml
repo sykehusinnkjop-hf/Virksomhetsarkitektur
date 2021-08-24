@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administrerer medlemmer"
+    id="65b47c1d-c57e-43c5-8970-ad495bb86457"
+    accessType="3">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_d27710bb-fd63-41f1-a906-e10fb6e6a780.xml#d27710bb-fd63-41f1-a906-e10fb6e6a780"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_f0e23da5-f9f9-4ccc-b286-9a8097d8f28d.xml#f0e23da5-f9f9-4ccc-b286-9a8097d8f28d"/>
+</archimate:AccessRelationship>

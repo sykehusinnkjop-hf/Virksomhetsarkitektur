@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planlagte aktiviteter"
+    id="aa432f13-8099-42af-8a2a-221a6d79c192">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_c5c1813d-2f85-4593-b55e-85ab81864405.xml#c5c1813d-2f85-4593-b55e-85ab81864405"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_7ed00b3c-809c-41bc-ab15-e67f7a0c74b5.xml#7ed00b3c-809c-41bc-ab15-e67f7a0c74b5"/>
+</archimate:ServingRelationship>
