@@ -1718,24 +1718,6 @@
           targetConnections="93987ac6-820e-4c27-b89f-225a92dd7417">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
-            id="57f8f780-8eb1-4b21-963a-f925d996d2f4"
-            source="40b05816-476e-4014-8b63-1a9566532b1e"
-            target="9d20f18b-3ea6-4f8f-bc71-9718fa0cd6a6">
-          <archimateRelationship
-              xsi:type="archimate:RealizationRelationship"
-              href="RealizationRelationship_4cbc4f91-76f3-46dc-9384-41407b92ce76.xml#4cbc4f91-76f3-46dc-9384-41407b92ce76"/>
-        </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="8e8a3e3e-b0f8-4bbd-8a1e-53bdef33298f"
-            source="40b05816-476e-4014-8b63-1a9566532b1e"
-            target="8dfab5b2-d4fc-473a-b505-a167c3738632">
-          <archimateRelationship
-              xsi:type="archimate:RealizationRelationship"
-              href="RealizationRelationship_b9fb6aa2-649e-4b7f-ba07-b9a3731f4c01.xml#b9fb6aa2-649e-4b7f-ba07-b9a3731f4c01"/>
-        </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
             id="f817b783-6750-4505-ae7f-e73726bf4875"
             source="40b05816-476e-4014-8b63-1a9566532b1e"
             target="9db2e3b9-ef1d-4811-8551-3d0c40a90be7">
@@ -1751,7 +1733,7 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="9d20f18b-3ea6-4f8f-bc71-9718fa0cd6a6"
-            targetConnections="57f8f780-8eb1-4b21-963a-f925d996d2f4 ab15199d-ceb8-4b5e-8a5f-f5b3f8352010">
+            targetConnections="ab15199d-ceb8-4b5e-8a5f-f5b3f8352010">
           <bounds
               x="24"
               y="12"
@@ -1764,7 +1746,7 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="8dfab5b2-d4fc-473a-b505-a167c3738632"
-            targetConnections="8e8a3e3e-b0f8-4bbd-8a1e-53bdef33298f d5a2f802-f81a-49a4-a3cd-0be4b30014a5">
+            targetConnections="d5a2f802-f81a-49a4-a3cd-0be4b30014a5">
           <bounds
               x="720"
               y="12"

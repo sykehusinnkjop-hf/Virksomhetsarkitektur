@@ -6,6 +6,6 @@
       xsi:type="archimate:Artifact"
       href="Artifact_67a2c93a-687d-466b-96d2-f29eae30eba2.xml#67a2c93a-687d-466b-96d2-f29eae30eba2"/>
   <target
-      xsi:type="archimate:ImplementationEvent"
-      href="ImplementationEvent_fc97f89d-5c54-4579-b2c7-1de985ef063e.xml#fc97f89d-5c54-4579-b2c7-1de985ef063e"/>
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_d9411cd9-1ba8-49a0-9914-bf50606eb188.xml#d9411cd9-1ba8-49a0-9914-bf50606eb188"/>
 </archimate:AssociationRelationship>

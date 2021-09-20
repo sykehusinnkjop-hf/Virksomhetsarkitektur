@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Personalportalen"
+    name="Personalportalen (SaaS)"
     id="c3dcf782-5d72-4525-bc6e-23f525a7c7f1"
     documentation="Oppslag på adresse (server-object) til et API i adressekatalogen.">
   <properties
