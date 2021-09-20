@@ -28,7 +28,7 @@
         x="924"
         y="168"
         width="145"
-        height="409"/>
+        height="391"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="e0370f53-39a7-42fc-80b4-b123eb781c40"
@@ -90,9 +90,9 @@
             endY="-123"/>
         <bendpoints
             startX="246"
-            startY="108"
+            startY="120"
             endX="-132"
-            endY="-15"/>
+            endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_6b1db0f4-a08d-467f-beee-a99227b5e245.xml#6b1db0f4-a08d-467f-beee-a99227b5e245"/>
@@ -175,9 +175,9 @@
             endY="117"/>
         <bendpoints
             startX="246"
-            startY="-111"
+            startY="-123"
             endX="-132"
-            endY="9"/>
+            endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_326e8f7d-b9b5-44dd-9b3a-340713eeb981.xml#326e8f7d-b9b5-44dd-9b3a-340713eeb981"/>
