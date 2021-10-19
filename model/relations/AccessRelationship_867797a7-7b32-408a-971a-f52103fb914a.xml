@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er autentisert"
+    id="867797a7-7b32-408a-971a-f52103fb914a">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_cbc4d4f3-d458-4a39-941b-d0cbe292e933.xml#cbc4d4f3-d458-4a39-941b-d0cbe292e933"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_980dce2b-f4b1-44d8-9f27-8db4a82b7f17.xml#980dce2b-f4b1-44d8-9f27-8db4a82b7f17"/>
+</archimate:AccessRelationship>

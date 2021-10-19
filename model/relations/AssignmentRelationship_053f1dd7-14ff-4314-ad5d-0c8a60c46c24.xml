@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inviterer gjester"
+    id="053f1dd7-14ff-4314-ad5d-0c8a60c46c24">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_7ed00b3c-809c-41bc-ab15-e67f7a0c74b5.xml#7ed00b3c-809c-41bc-ab15-e67f7a0c74b5"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_ba823433-846d-49bd-9ca8-b9ee55f51a5c.xml#ba823433-846d-49bd-9ca8-b9ee55f51a5c"/>
+</archimate:AssignmentRelationship>

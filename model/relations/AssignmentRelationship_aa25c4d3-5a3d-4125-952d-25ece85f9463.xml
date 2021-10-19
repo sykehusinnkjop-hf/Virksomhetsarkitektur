@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deler med eksterne"
+    id="aa25c4d3-5a3d-4125-952d-25ece85f9463">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_7ed00b3c-809c-41bc-ab15-e67f7a0c74b5.xml#7ed00b3c-809c-41bc-ab15-e67f7a0c74b5"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_011eddc0-9fb0-4bfd-8592-fb4a2de18cb4.xml#011eddc0-9fb0-4bfd-8592-fb4a2de18cb4"/>
+</archimate:AssignmentRelationship>

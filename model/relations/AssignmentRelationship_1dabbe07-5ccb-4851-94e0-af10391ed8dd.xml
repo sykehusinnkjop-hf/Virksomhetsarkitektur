@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mottar gjesteinvitasjon"
+    id="1dabbe07-5ccb-4851-94e0-af10391ed8dd">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_80b95750-dc0a-46e4-af45-3ad22945a4d8.xml#80b95750-dc0a-46e4-af45-3ad22945a4d8"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_ba823433-846d-49bd-9ca8-b9ee55f51a5c.xml#ba823433-846d-49bd-9ca8-b9ee55f51a5c"/>
+</archimate:AssignmentRelationship>

@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er medlem"
+    id="d8daa630-6545-4a15-a0c4-e146da7b3f57"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_7ed00b3c-809c-41bc-ab15-e67f7a0c74b5.xml#7ed00b3c-809c-41bc-ab15-e67f7a0c74b5"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_f0e23da5-f9f9-4ccc-b286-9a8097d8f28d.xml#f0e23da5-f9f9-4ccc-b286-9a8097d8f28d"/>
+</archimate:AccessRelationship>

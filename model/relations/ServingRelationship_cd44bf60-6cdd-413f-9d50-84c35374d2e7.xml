@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ad hoc behov"
+    id="cd44bf60-6cdd-413f-9d50-84c35374d2e7">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_d589eccd-86e2-430e-88ab-7a4a1e3ad39c.xml#d589eccd-86e2-430e-88ab-7a4a1e3ad39c"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_7ed00b3c-809c-41bc-ab15-e67f7a0c74b5.xml#7ed00b3c-809c-41bc-ab15-e67f7a0c74b5"/>
+</archimate:ServingRelationship>
