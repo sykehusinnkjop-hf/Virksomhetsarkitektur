@@ -152,12 +152,52 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="1421ae96-e1d6-40dc-adc2-c646effbc551"
-        targetConnections="c2ec7eb4-851a-4575-aa56-1daebe573ced">
+        targetConnections="c2ec7eb4-851a-4575-aa56-1daebe573ced id-245fb16b31244cbd987c3f2c6932f088 id-dcf348f2e9ea4fcbae54dd71c3430e53">
       <bounds
           x="12"
           y="168"
           width="973"
           height="55"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-b36d36dc4b664189a98f4a3e1ff3216d">
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="id-245fb16b31244cbd987c3f2c6932f088"
+            source="id-b36d36dc4b664189a98f4a3e1ff3216d"
+            target="1421ae96-e1d6-40dc-adc2-c646effbc551">
+          <archimateRelationship
+              xsi:type="archimate:InfluenceRelationship"
+              href="InfluenceRelationship_id-38cdc429991942cf8bfc5c51ebdfe1ca.xml#id-38cdc429991942cf8bfc5c51ebdfe1ca"/>
+        </sourceConnections>
+        <bounds
+            x="24"
+            width="301"
+            height="49"/>
+        <archimateElement
+            xsi:type="archimate:CourseOfAction"
+            href="CourseOfAction_id-597f75f76f5f446d8d0696501bb4f379.xml#id-597f75f76f5f446d8d0696501bb4f379"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-3af6829a6b34462b94810809eeb28139">
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="id-dcf348f2e9ea4fcbae54dd71c3430e53"
+            source="id-3af6829a6b34462b94810809eeb28139"
+            target="1421ae96-e1d6-40dc-adc2-c646effbc551">
+          <archimateRelationship
+              xsi:type="archimate:InfluenceRelationship"
+              href="InfluenceRelationship_id-7225b2fa07954f1080ab4d42c29fea7a.xml#id-7225b2fa07954f1080ab4d42c29fea7a"/>
+        </sourceConnections>
+        <bounds
+            x="648"
+            width="289"
+            height="49"/>
+        <archimateElement
+            xsi:type="archimate:CourseOfAction"
+            href="CourseOfAction_id-498ea96b67504603b26a698cafe0b87e.xml#id-498ea96b67504603b26a698cafe0b87e"/>
+      </children>
       <archimateElement
           xsi:type="archimate:Stakeholder"
           href="Stakeholder_54ace0f5-5653-4e8d-8fa5-05a4681f99ac.xml#54ace0f5-5653-4e8d-8fa5-05a4681f99ac"/>

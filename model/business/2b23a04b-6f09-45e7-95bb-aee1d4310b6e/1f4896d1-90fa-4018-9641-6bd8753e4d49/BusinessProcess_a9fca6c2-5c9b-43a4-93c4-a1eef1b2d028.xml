@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="1 Fordel anskaffelsen"
-    id="a9fca6c2-5c9b-43a4-93c4-a1eef1b2d028"/>
+    name="BP.1 Fordel anskaffelsen"
+    id="a9fca6c2-5c9b-43a4-93c4-a1eef1b2d028">
+  <properties
+      key="URL_QMS"
+      value="https://qms.sykehusinnkjop.no/produksjon/?oid=f0065345-8848-4df9-8a1c-afd9c50061b0"/>
+</archimate:BusinessProcess>

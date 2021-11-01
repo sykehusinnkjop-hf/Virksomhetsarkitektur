@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="15. Godkjenn plan"
-    id="b8a307f1-c03c-45d9-a9bb-0595c662b69f"/>
+    name="BP.15. Godkjenn plan"
+    id="b8a307f1-c03c-45d9-a9bb-0595c662b69f">
+  <properties
+      key="URL_QM"
+      value="https://qms.sykehusinnkjop.no/produksjon/?oid=fed1d625-7c78-4fd0-8925-a39d1d0d6704"/>
+</archimate:BusinessProcess>

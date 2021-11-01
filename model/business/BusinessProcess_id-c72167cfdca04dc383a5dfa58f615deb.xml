@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beskriv og prioriter innkjøpsbehov"
+    id="id-c72167cfdca04dc383a5dfa58f615deb">
+  <properties
+      key="URL_QMS"
+      value="https://qms.sykehusinnkjop.no/produksjon/?oid=f7d854ec-74b0-43f5-9438-4fb48591fbbd"/>
+</archimate:BusinessProcess>
