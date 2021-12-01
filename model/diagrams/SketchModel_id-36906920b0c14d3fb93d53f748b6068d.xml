@@ -532,7 +532,7 @@
         x="1272"
         y="12"
         width="757"
-        height="1705"/>
+        height="1081"/>
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="id-ea721a326671484fa36fbbcad2ae7d07"
@@ -1037,7 +1037,7 @@
         x="2064"
         y="12"
         width="253"
-        height="1705"/>
+        height="1081"/>
     <children
         xsi:type="archimate:SketchModelSticky"
         id="id-6c0decc1145c49a8bd0ef522952a5ce7"
@@ -1076,6 +1076,76 @@
           y="228"
           width="217"
           height="70"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-7641b8c404ac450fbf07ac8e2a4332b5"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Mercell&#xD;&#xA;">
+    <bounds
+        x="-216"
+        y="12"
+        width="300"
+        height="1704"/>
+    <children
+        xsi:type="archimate:SketchModelSticky"
+        id="id-8cf39d12bd1b41b488bea664ac4f1766"
+        name="Sticky"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#c9e7b7"
+        content="ANS-1001">
+      <bounds
+          x="60"
+          y="60"
+          width="204"
+          height="180"/>
+    </children>
+    <children
+        xsi:type="archimate:SketchModelSticky"
+        id="id-6d486f8cf8b748b286ac0cef632086f7"
+        name="Sticky"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#c9e7b7"
+        content="ANS-1004">
+      <bounds
+          x="60"
+          y="672"
+          width="204"
+          height="180"/>
+    </children>
+    <children
+        xsi:type="archimate:SketchModelSticky"
+        id="id-4031a6788cdb4d2f9472cf5df5bf1f26"
+        name="Sticky"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#c9e7b7"
+        content="ANS-1003">
+      <bounds
+          x="60"
+          y="468"
+          width="204"
+          height="180"/>
+    </children>
+    <children
+        xsi:type="archimate:SketchModelSticky"
+        id="id-924506d1a1d24273a61be2f7296433f0"
+        name="Sticky"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#c9e7b7"
+        content="ANS-1002">
+      <bounds
+          x="60"
+          y="264"
+          width="204"
+          height="180"/>
     </children>
   </children>
 </archimate:SketchModel>
