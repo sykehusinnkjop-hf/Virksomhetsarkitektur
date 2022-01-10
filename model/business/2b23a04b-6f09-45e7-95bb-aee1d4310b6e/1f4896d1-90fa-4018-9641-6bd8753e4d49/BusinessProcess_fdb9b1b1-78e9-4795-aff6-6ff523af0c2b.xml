@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="12. Ferdigstill utkast på plan for anskaffelsen"
-    id="fdb9b1b1-78e9-4795-aff6-6ff523af0c2b"/>
+    name="BP.12. Ferdigstill utkast på plan for anskaffelsen"
+    id="fdb9b1b1-78e9-4795-aff6-6ff523af0c2b">
+  <properties
+      key="URL_QM"
+      value="https://qms.sykehusinnkjop.no/produksjon/?oid=f0065345-8848-4df9-8a1c-afd9c50061b0"/>
+</archimate:BusinessProcess>
