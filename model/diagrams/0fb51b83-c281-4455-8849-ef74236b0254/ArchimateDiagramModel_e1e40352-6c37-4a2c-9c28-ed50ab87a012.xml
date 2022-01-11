@@ -5,7 +5,8 @@
     id="e1e40352-6c37-4a2c-9c28-ed50ab87a012">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="6524ef5a-964e-4f90-be9b-0a14b85d1c1b">
+      id="6524ef5a-964e-4f90-be9b-0a14b85d1c1b"
+      targetConnections="bd443aae-4411-420c-bf90-05620a149cc7 a70ee44b-ff51-4584-b7bc-51e67e35de5a fe7fa37b-d33f-4b25-9181-193bae965f9e fbe42f1f-451b-4740-af45-1f64b062e3af">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="a02e290f-30ac-49b6-9246-818c36e488ee"
@@ -80,7 +81,7 @@
     </sourceConnections>
     <bounds
         x="36"
-        y="948"
+        y="1164"
         width="1513"
         height="169"/>
     <children
@@ -202,7 +203,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="b6947e84-2e4b-4bd3-94ce-1b498909b4d1">
+      id="b6947e84-2e4b-4bd3-94ce-1b498909b4d1"
+      targetConnections="84dd1bf9-f850-4e6c-9935-fafd9eafbd33">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="38ce4ef7-4567-4d00-97f5-15687f766436"
@@ -239,9 +241,18 @@
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_7871370f-c3c5-46fd-9beb-b2c7ce27f5be.xml#7871370f-c3c5-46fd-9beb-b2c7ce27f5be"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="bd443aae-4411-420c-bf90-05620a149cc7"
+        source="b6947e84-2e4b-4bd3-94ce-1b498909b4d1"
+        target="6524ef5a-964e-4f90-be9b-0a14b85d1c1b">
+      <archimateRelationship
+          xsi:type="archimate:SpecializationRelationship"
+          href="SpecializationRelationship_ba68f6b7-022b-4281-9b93-4e69cc2da2e8.xml#ba68f6b7-022b-4281-9b93-4e69cc2da2e8"/>
+    </sourceConnections>
     <bounds
         x="36"
-        y="120"
+        y="336"
         width="277"
         height="805"/>
     <children
@@ -313,7 +324,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="34fd83cf-2307-46f4-9377-3c64c09c032f">
+      id="34fd83cf-2307-46f4-9377-3c64c09c032f"
+      targetConnections="ac20afa7-e25f-4618-96a2-7c3062919a83">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="2c7e070e-0391-4dfb-b85a-8d071a3951b0"
@@ -422,9 +434,18 @@
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_fa579892-a534-43e3-a18d-87a08f59e3b2.xml#fa579892-a534-43e3-a18d-87a08f59e3b2"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="a70ee44b-ff51-4584-b7bc-51e67e35de5a"
+        source="34fd83cf-2307-46f4-9377-3c64c09c032f"
+        target="6524ef5a-964e-4f90-be9b-0a14b85d1c1b">
+      <archimateRelationship
+          xsi:type="archimate:SpecializationRelationship"
+          href="SpecializationRelationship_eb4ea7f7-c3f5-4149-8899-3fd685dc7ffb.xml#eb4ea7f7-c3f5-4149-8899-3fd685dc7ffb"/>
+    </sourceConnections>
     <bounds
         x="348"
-        y="120"
+        y="336"
         width="277"
         height="805"/>
     <children
@@ -601,13 +622,263 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="78a368ca-805c-4410-b83c-8a194689b74d">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="fe7fa37b-d33f-4b25-9181-193bae965f9e"
+        source="78a368ca-805c-4410-b83c-8a194689b74d"
+        target="6524ef5a-964e-4f90-be9b-0a14b85d1c1b">
+      <archimateRelationship
+          xsi:type="archimate:SpecializationRelationship"
+          href="SpecializationRelationship_2262175d-a505-4671-bd69-76e4ecb07e4f.xml#2262175d-a505-4671-bd69-76e4ecb07e4f"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="ac20afa7-e25f-4618-96a2-7c3062919a83"
+        source="78a368ca-805c-4410-b83c-8a194689b74d"
+        target="34fd83cf-2307-46f4-9377-3c64c09c032f">
+      <bendpoints
+          startX="-114"
+          startY="-414"
+          endX="210"
+          endY="-414"/>
+      <bendpoints
+          startX="-294"
+          startY="-414"
+          endX="30"
+          endY="-414"/>
+      <archimateRelationship
+          xsi:type="archimate:SpecializationRelationship"
+          href="SpecializationRelationship_806e4509-88fc-4caf-b4ff-e516ed06639e.xml#806e4509-88fc-4caf-b4ff-e516ed06639e"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="84dd1bf9-f850-4e6c-9935-fafd9eafbd33"
+        source="78a368ca-805c-4410-b83c-8a194689b74d"
+        target="b6947e84-2e4b-4bd3-94ce-1b498909b4d1">
+      <bendpoints
+          startX="-114"
+          startY="-414"
+          endX="522"
+          endY="-414"/>
+      <bendpoints
+          startX="-570"
+          startY="-414"
+          endX="66"
+          endY="-414"/>
+      <archimateRelationship
+          xsi:type="archimate:SpecializationRelationship"
+          href="SpecializationRelationship_7e50f864-3685-4958-b881-49645818999d.xml#7e50f864-3685-4958-b881-49645818999d"/>
+    </sourceConnections>
     <bounds
         x="660"
-        y="120"
+        y="336"
         width="301"
         height="805"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="48289dc2-2b9f-4157-b340-2cc9353eec1a"
+        textAlignment="1"
+        content="tabeller for Quantus-Risiko">
+      <bounds
+          x="24"
+          y="36"
+          width="229"
+          height="37"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Artifact"
         href="Artifact_787a5c62-27bb-4983-9120-470873884a88.xml#787a5c62-27bb-4983-9120-470873884a88"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="62a41826-1688-4a95-87a9-ff6cd9bd44df">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="a0445351-abe5-4b1c-abda-3930fc327ab3"
+        source="62a41826-1688-4a95-87a9-ff6cd9bd44df"
+        target="991fe9c2-7356-487e-a455-f62d1690ef9b">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_31cf9cdf-f2a5-4825-a2fe-70d058d437f4.xml#31cf9cdf-f2a5-4825-a2fe-70d058d437f4"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="7cc24e11-3bb7-4f56-a886-4fbf9e9a58bf"
+        source="62a41826-1688-4a95-87a9-ff6cd9bd44df"
+        target="ece1ee68-a414-482a-aca9-6f36cae85d89">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_f3cef572-9d25-427e-9166-6e00586b1d5f.xml#f3cef572-9d25-427e-9166-6e00586b1d5f"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="fbe42f1f-451b-4740-af45-1f64b062e3af"
+        source="62a41826-1688-4a95-87a9-ff6cd9bd44df"
+        target="6524ef5a-964e-4f90-be9b-0a14b85d1c1b">
+      <archimateRelationship
+          xsi:type="archimate:SpecializationRelationship"
+          href="SpecializationRelationship_dd3a5c0d-eb96-4b69-860c-a51b5e14be82.xml#dd3a5c0d-eb96-4b69-860c-a51b5e14be82"/>
+    </sourceConnections>
+    <bounds
+        x="996"
+        y="336"
+        width="301"
+        height="805"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="583fa931-0d87-44d7-958a-80d864d9b7c0"
+        textAlignment="1"
+        content="tabeller for Quantus-Risiko">
+      <bounds
+          x="24"
+          y="36"
+          width="229"
+          height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="991fe9c2-7356-487e-a455-f62d1690ef9b"
+        targetConnections="a0445351-abe5-4b1c-abda-3930fc327ab3">
+      <bounds
+          x="24"
+          y="84"
+          width="229"
+          height="49"/>
+      <archimateElement
+          xsi:type="archimate:DataObject"
+          href="DataObject_42593d9b-d0a9-45ea-b8f8-3be2c7e80471.xml#42593d9b-d0a9-45ea-b8f8-3be2c7e80471"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="ece1ee68-a414-482a-aca9-6f36cae85d89"
+        targetConnections="7cc24e11-3bb7-4f56-a886-4fbf9e9a58bf">
+      <bounds
+          x="24"
+          y="144"
+          width="229"
+          height="49"/>
+      <archimateElement
+          xsi:type="archimate:DataObject"
+          href="DataObject_e0b13194-f885-46b5-9aaf-0846bec49e85.xml#e0b13194-f885-46b5-9aaf-0846bec49e85"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Artifact"
+        href="Artifact_4cbfc35d-eb39-43d2-a978-0b11fc3eaaba.xml#4cbfc35d-eb39-43d2-a978-0b11fc3eaaba"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="7545fbd9-ba1e-45e7-b1d8-297578d5b559">
+    <bounds
+        x="35"
+        y="223"
+        width="278"
+        height="90"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="1d19d36d-ba72-4d39-b801-da9929c167e5"
+        textAlignment="1"
+        content="Power automates associated to Quantus-Gevinst">
+      <bounds
+          x="36"
+          y="34"
+          width="185"
+          height="51"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Artifact"
+        href="Artifact_313465e1-5b25-437a-8093-c3612bfaf472.xml#313465e1-5b25-437a-8093-c3612bfaf472"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="4045a889-2341-4b01-8ca3-b721584f4c22">
+    <bounds
+        x="348"
+        y="223"
+        width="278"
+        height="90"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="5559ab80-011e-490d-a075-83706ac18d22"
+        textAlignment="1"
+        content="Power automates associated to Quantus-Risiko">
+      <bounds
+          x="36"
+          y="34"
+          width="185"
+          height="51"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Artifact"
+        href="Artifact_6c5e1087-edc9-49d1-a1ce-b233af07c34d.xml#6c5e1087-edc9-49d1-a1ce-b233af07c34d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="74ea4599-87f5-4f65-b72e-e90430e06232">
+    <bounds
+        x="660"
+        y="223"
+        width="301"
+        height="90"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="68b4e905-99e7-443d-b58c-680f7de350ae"
+        textAlignment="1"
+        content="Power automates associated to Quantus-Doc">
+      <bounds
+          x="36"
+          y="34"
+          width="185"
+          height="51"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Artifact"
+        href="Artifact_648aa36e-134f-4a8c-9d00-6fed89d54617.xml#648aa36e-134f-4a8c-9d00-6fed89d54617"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="46dc3962-90db-46c1-8d4f-56dd18a5dfa0">
+    <bounds
+        x="996"
+        y="228"
+        width="301"
+        height="90"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="a0689cf3-e93a-457a-bdee-7ffa092f5458"
+        textAlignment="1"
+        content="Power automates associated to Quantus-deliveries">
+      <bounds
+          x="36"
+          y="34"
+          width="185"
+          height="51"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Artifact"
+        href="Artifact_ddd936cd-dbe4-4952-9971-d8d9d5cd44e8.xml#ddd936cd-dbe4-4952-9971-d8d9d5cd44e8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="60bc3abc-e12c-48ae-8358-6492c4c20719">
+    <bounds
+        x="35"
+        y="96"
+        width="278"
+        height="109"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="84a7bf8b-5fc0-4337-925e-2744ad445d35">
+      <bounds
+          x="24"
+          y="24"
+          width="109"
+          height="49"/>
+      <archimateElement
+          xsi:type="archimate:DataObject"
+          href="DataObject_a321e537-da07-4ba1-a754-70d808896b57.xml#a321e537-da07-4ba1-a754-70d808896b57"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Artifact"
+        href="Artifact_cf1162a5-ac80-46f5-b106-dfda51e11ecd.xml#cf1162a5-ac80-46f5-b106-dfda51e11ecd"/>
   </children>
 </archimate:ArchimateDiagramModel>
