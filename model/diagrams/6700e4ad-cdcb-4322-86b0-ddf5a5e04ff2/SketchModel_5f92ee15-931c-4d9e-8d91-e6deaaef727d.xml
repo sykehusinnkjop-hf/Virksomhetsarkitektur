@@ -20,7 +20,7 @@
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#ffffff"
-        content="Virksomhet - Porteføljestyring (hub site)">
+        content="Virksomhet - Porteføljestyring">
       <bounds
           x="24"
           y="48"
@@ -33,7 +33,7 @@
           lineColor="#5c5c5c"
           textAlignment="1"
           fillColor="#ffffff"
-          content="Funksjon: Plan og analyse (page)">
+          content="Funksjon: Plan og analyse">
         <bounds
             x="24"
             y="60"
@@ -121,7 +121,7 @@
           lineColor="#5c5c5c"
           textAlignment="1"
           fillColor="#ffffff"
-          content="Funksjon: Anskaffelse (page)">
+          content="Funksjon: Anskaffelse">
         <bounds
             x="444"
             y="60"
@@ -187,7 +187,7 @@
           lineColor="#5c5c5c"
           textAlignment="1"
           fillColor="#ffffff"
-          content="Funksjon: Gevinstsikring/ Forvaltning (page)">
+          content="Funksjon: Gevinstsikring/ Forvaltning">
         <bounds
             x="888"
             y="60"
@@ -267,7 +267,7 @@
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#ffffff"
-        content="Virksomhet - Fellesfunksjoner (comm. site)">
+        content="Virksomhet - Fellesfunksjoner">
       <bounds
           x="24"
           y="924"
@@ -505,26 +505,12 @@
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#60ff60"
-        content="Prosjektrom (teams) - Gevinstsikring/ Forvaltning (Statisk per hovedområde)">
+        content="Arbeidsrom (teams) - Gevinstsikring/ Forvaltning (Statisk per hovedområde)">
       <bounds
           x="912"
           y="384"
           width="421"
           height="349"/>
-      <children
-          xsi:type="archimate:SketchModelSticky"
-          id="id-4bb84efc22c140f99470f825ca8fc015"
-          name="Sticky"
-          lineColor="#5c5c5c"
-          textAlignment="1"
-          fillColor="#c9e7b7"
-          content="App 2">
-        <bounds
-            x="252"
-            y="96"
-            width="145"
-            height="25"/>
-      </children>
       <children
           xsi:type="archimate:SketchModelSticky"
           id="id-d0313330f4ea4613b188a4e8d5ebf828"
@@ -542,7 +528,7 @@
             xsi:type="archimate:SketchModelSticky"
             id="id-9bca80e584534a5fabf3e403ec4c5adc"
             name="Sticky"
-            targetConnections="id-79fb692513fb499990de757978ba3815"
+            targetConnections="id-79fb692513fb499990de757978ba3815 id-5c8a7001a7c84b8dbaa4984fbb3c181f"
             lineColor="#5c5c5c"
             textAlignment="1"
             fillColor="#ffc400"
@@ -590,6 +576,19 @@
                   width="104"
                   height="24"/>
             </children>
+          </children>
+          <children
+              xsi:type="archimate:SketchModelSticky"
+              id="id-8e5417b355cd454b9e38187cb2cb5522"
+              name="Sticky"
+              lineColor="#5c5c5c"
+              textAlignment="1"
+              fillColor="#ff00ff"
+              content="Sak">
+            <bounds
+                x="84"
+                width="102"
+                height="25"/>
           </children>
         </children>
         <children
@@ -658,6 +657,33 @@
                   height="24"/>
             </children>
           </children>
+          <children
+              xsi:type="archimate:SketchModelSticky"
+              id="id-49d1406df5d4499ea29d38e652f0b907"
+              name="Sticky"
+              lineColor="#5c5c5c"
+              textAlignment="1"
+              fillColor="#ff00ff"
+              content="Sak">
+            <bounds
+                x="96"
+                width="102"
+                height="25"/>
+          </children>
+        </children>
+        <children
+            xsi:type="archimate:SketchModelSticky"
+            id="id-4e419c549fa14500b3aae043de56c188"
+            name="Sticky"
+            lineColor="#5c5c5c"
+            textAlignment="1"
+            fillColor="#ffffb5"
+            content="Content type">
+          <bounds
+              x="288"
+              y="24"
+              width="104"
+              height="22"/>
         </children>
       </children>
       <children
@@ -667,7 +693,7 @@
           lineColor="#5c5c5c"
           textAlignment="1"
           fillColor="#8080ff"
-          content="Office 365 Group">
+          content="Avdeling">
         <bounds
             x="12"
             y="39"
@@ -696,10 +722,10 @@
           lineColor="#5c5c5c"
           textAlignment="1"
           fillColor="#c9e7b7"
-          content="Quantus (portefølje)">
+          content="Quantus.sak">
         <bounds
             x="252"
-            y="60"
+            y="36"
             width="145"
             height="25"/>
       </children>
@@ -723,11 +749,39 @@
           name="Sticky"
           lineColor="#5c5c5c"
           textAlignment="1"
-          fillColor="#ffff00"
+          fillColor="#ff00ff"
           content="Arkivnøkkel">
         <bounds
             x="13"
             y="84"
+            width="102"
+            height="25"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="id-cba0da8cc73948f9879174d40a4490bf"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#ff00ff"
+          content="Bevaring">
+        <bounds
+            x="166"
+            y="108"
+            width="102"
+            height="25"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="id-f3d8e66b582641fdbfa8a3e89cd8d1f4"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#ff00ff"
+          content="Skjerming">
+        <bounds
+            x="274"
+            y="108"
             width="102"
             height="25"/>
       </children>
@@ -739,7 +793,7 @@
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#60ff60"
-        content="Prosjektrom (teams) - Anskaffelse XYZ">
+        content="Prosjektrom(teams) - Anskaffelse XYZ">
       <sourceConnections
           id="id-fbe1f92910e44cd9bcda9fe6259d5a66"
           source="id-b2c21df84d354d57954659b17cdc0787"
@@ -802,6 +856,7 @@
                 content="Konkurransegrunnlag">
               <sourceConnections
                   id="id-89f84d6b1867452d824624045ea75d20"
+                  name="Event: Opprett kunngjøring"
                   source="id-52e987b3378549a5910ed07089c7e2f5"
                   target="id-52dd4f3a97e14777ad06d5456d5cec0e"
                   type="5">
@@ -866,24 +921,10 @@
           lineColor="#5c5c5c"
           textAlignment="1"
           fillColor="#c9e7b7"
-          content="Project (portefølje)">
+          content="Office.Project">
         <bounds
             x="257"
             y="60"
-            width="140"
-            height="25"/>
-      </children>
-      <children
-          xsi:type="archimate:SketchModelSticky"
-          id="id-305f32a3a6b7459a8cf7b55e131d8ae4"
-          name="Sticky"
-          lineColor="#5c5c5c"
-          textAlignment="1"
-          fillColor="#c9e7b7"
-          content="App 2">
-        <bounds
-            x="257"
-            y="96"
             width="140"
             height="25"/>
       </children>
@@ -894,7 +935,7 @@
           lineColor="#5c5c5c"
           textAlignment="1"
           fillColor="#8080ff"
-          content="Office 365 Group">
+          content="Prosjektgruppe">
         <bounds
             x="12"
             y="39"
@@ -935,7 +976,7 @@
           name="Sticky"
           lineColor="#5c5c5c"
           textAlignment="1"
-          fillColor="#ffff00"
+          fillColor="#ff00ff"
           content="Sak">
         <bounds
             x="13"
@@ -963,7 +1004,7 @@
           name="Sticky"
           lineColor="#5c5c5c"
           textAlignment="1"
-          fillColor="#ffff00"
+          fillColor="#ff00ff"
           content="Arkivnøkkel">
         <bounds
             x="13"
@@ -985,6 +1026,62 @@
             width="97"
             height="22"/>
       </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="id-e6a6502d041641cbaae1eb6cd5eb7e02"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#8080ff"
+          content="Referansegruppe">
+        <bounds
+            x="36"
+            y="12"
+            width="104"
+            height="22"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="id-2cfb93c1b1454c8ba02765d96e1c575e"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#8080ff"
+          content="Anskaffelsesstyre">
+        <bounds
+            x="24"
+            y="25"
+            width="104"
+            height="22"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="id-6b02682775cf492dabf4b7e9ca214ed0"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#ff00ff"
+          content="Bevaring">
+        <bounds
+            x="120"
+            y="108"
+            width="102"
+            height="25"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="id-5c835a4df1434bafb101b142349fde9f"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#ff00ff"
+          content="Skjerming">
+        <bounds
+            x="228"
+            y="108"
+            width="102"
+            height="25"/>
+      </children>
     </children>
     <children
         xsi:type="archimate:SketchModelSticky"
@@ -993,7 +1090,7 @@
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#60ff60"
-        content="Prosjektrom (teams) - Plan og Analyse (Statisk per hovedområde)">
+        content="Arbeidsrom(teams) - Plan og Analyse (Statisk per hovedområde)">
       <bounds
           x="24"
           y="384"
@@ -1127,7 +1224,7 @@
             name="Sticky"
             lineColor="#5c5c5c"
             textAlignment="1"
-            fillColor="#ffff00"
+            fillColor="#ff00ff"
             content="Sak">
           <bounds
               x="264"
@@ -1169,7 +1266,7 @@
             name="Sticky"
             lineColor="#5c5c5c"
             textAlignment="1"
-            fillColor="#ffff00"
+            fillColor="#ff00ff"
             content="Arkivnøkkel">
           <bounds
               x="264"
@@ -1185,10 +1282,10 @@
           lineColor="#5c5c5c"
           textAlignment="1"
           fillColor="#c9e7b7"
-          content="Quantus (portefølje)">
+          content="Quantus.anskaffelse">
         <bounds
             x="264"
-            y="60"
+            y="37"
             width="133"
             height="25"/>
       </children>
@@ -1199,10 +1296,10 @@
           lineColor="#5c5c5c"
           textAlignment="1"
           fillColor="#c9e7b7"
-          content="App 2">
+          content="Quantus.risiko">
         <bounds
             x="264"
-            y="96"
+            y="60"
             width="133"
             height="25"/>
       </children>
@@ -1246,7 +1343,7 @@
         <bounds
             x="24"
             y="312"
-            width="97"
+            width="109"
             height="22"/>
       </children>
       <children
@@ -1256,7 +1353,7 @@
           lineColor="#5c5c5c"
           textAlignment="1"
           fillColor="#8080ff"
-          content="Office 365 Group">
+          content="Avdeling">
         <bounds
             x="12"
             y="39"
@@ -1265,121 +1362,59 @@
       </children>
       <children
           xsi:type="archimate:SketchModelSticky"
-          id="id-327fee2fc94241f594d61ee8e11bddc9"
+          id="id-1ae3a98bde26470ea68e7a14be74db44"
           name="Sticky"
           lineColor="#5c5c5c"
           textAlignment="1"
-          fillColor="#ffff00"
-          content="Ekstern deling">
+          fillColor="#c9e7b7"
+          content="Quantus.gevinst">
+        <bounds
+            x="264"
+            y="84"
+            width="133"
+            height="25"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="id-599b0aebb0d245469d2fb77638cf0561"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#c9e7b7"
+          content="Quantus.tiltak">
+        <bounds
+            x="264"
+            y="108"
+            width="133"
+            height="25"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="id-3f12a88f787949059d7b27ffb253d5c3"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#ff00ff"
+          content="Bevaring">
         <bounds
             x="13"
-            y="60"
+            y="108"
             width="102"
             height="25"/>
       </children>
-    </children>
-    <children
-        xsi:type="archimate:SketchModelSticky"
-        id="id-52dd4f3a97e14777ad06d5456d5cec0e"
-        name="Sticky"
-        targetConnections="id-fbe1f92910e44cd9bcda9fe6259d5a66 id-89f84d6b1867452d824624045ea75d20"
-        lineColor="#5c5c5c"
-        textAlignment="1"
-        fillColor="#ffffb5"
-        content="Mercell">
-      <sourceConnections
-          id="id-7968b0a76edc470fa40f7bd554062680"
-          source="id-52dd4f3a97e14777ad06d5456d5cec0e"
-          target="id-3294fb66372945a98dff9717771fe791"
-          type="1"/>
-      <bounds
-          x="660"
-          y="756"
-          width="480"
-          height="132"/>
       <children
           xsi:type="archimate:SketchModelSticky"
-          id="id-df513a6ebc4a45e98da66d42021e1aa4"
+          id="id-8ade888cf7d44972a00bdd2763b4f4d0"
           name="Sticky"
           lineColor="#5c5c5c"
           textAlignment="1"
-          fillColor="#ffffff"
-          content="Prosjekt">
+          fillColor="#ff00ff"
+          content="Skjerming">
         <bounds
-            x="24"
-            y="24"
-            width="135"
-            height="96"/>
-        <children
-            xsi:type="archimate:SketchModelSticky"
-            id="id-31b81314183741fda1fa1d1d71bd37c9"
-            name="Sticky"
-            lineColor="#5c5c5c"
-            textAlignment="1"
-            fillColor="#408080"
-            content="Innkjøpsgruppe">
-          <bounds
-              x="12"
-              y="36"
-              width="104"
-              height="24"/>
-        </children>
-      </children>
-      <children
-          xsi:type="archimate:SketchModelSticky"
-          id="id-16fbcb95c40d4202981cedbf9dd77f3e"
-          name="Sticky"
-          lineColor="#5c5c5c"
-          textAlignment="1"
-          fillColor="#ffffff"
-          content="Avtale">
-        <bounds
-            x="312"
-            y="24"
-            width="135"
-            height="96"/>
-        <children
-            xsi:type="archimate:SketchModelSticky"
-            id="id-96922ba4fb1a4aa498f5edaee18e0cbd"
-            name="Sticky"
-            lineColor="#5c5c5c"
-            textAlignment="1"
-            fillColor="#408080"
-            content="Produktgruppe">
-          <bounds
-              x="12"
-              y="36"
-              width="104"
-              height="24"/>
-        </children>
-      </children>
-      <children
-          xsi:type="archimate:SketchModelSticky"
-          id="id-acb29a6642f84b9d936e8030a2b4e482"
-          name="Sticky"
-          lineColor="#5c5c5c"
-          textAlignment="1"
-          fillColor="#ffffff"
-          content="Konkurranse">
-        <bounds
-            x="168"
-            y="24"
-            width="135"
-            height="96"/>
-        <children
-            xsi:type="archimate:SketchModelSticky"
-            id="id-7125212050e54d9887af9d9df0a61c00"
-            name="Sticky"
-            lineColor="#5c5c5c"
-            textAlignment="1"
-            fillColor="#408080"
-            content="Anbudspakke">
-          <bounds
-              x="12"
-              y="36"
-              width="104"
-              height="24"/>
-        </children>
+            x="121"
+            y="108"
+            width="102"
+            height="25"/>
       </children>
     </children>
   </children>
@@ -1390,39 +1425,204 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffc400"
-      content="Dokumenttype 211&#xD;&#xA;Stillingsbeskrivelser, instrukser,&#xD;&#xA;kunngjøringer, søknader">
+      content="Bibliotek">
     <bounds
-        x="192"
-        y="756"
-        width="241"
-        height="121"/>
-  </children>
-  <children
-      xsi:type="archimate:SketchModelSticky"
-      id="39160627-bcda-4d60-8a01-a6d4adfc685a"
-      name="Sticky"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="Avdeling 1">
-    <bounds
-        x="192"
-        y="900"
-        width="193"
-        height="61"/>
+        x="540"
+        y="456"
+        width="135"
+        height="84"/>
     <children
         xsi:type="archimate:SketchModelSticky"
-        id="852c5209-ca64-45eb-bcc0-be9421c812e0"
+        id="id-04bd89d91ce145618c1c6758a68c0384"
         name="Sticky"
         lineColor="#5c5c5c"
         textAlignment="1"
-        fillColor="#ffc400"
-        content="Dokumenttype A2">
+        fillColor="#00ffff"
+        content="Mappe">
       <bounds
-          x="36"
+          y="24"
+          width="121"
+          height="24"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-98b6661ca6d445e5a899aeb2e6d2b600"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#408080"
+      content="Attributt">
+    <bounds
+        x="636"
+        y="444"
+        width="104"
+        height="24"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-0e7ad37e1d4144f4924474ab0f7d4b39"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#8080ff"
+      content="O365 Gruppe">
+    <bounds
+        x="432"
+        y="456"
+        width="104"
+        height="22"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-52dd4f3a97e14777ad06d5456d5cec0e"
+      name="Sticky"
+      targetConnections="id-fbe1f92910e44cd9bcda9fe6259d5a66 id-89f84d6b1867452d824624045ea75d20"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffb5"
+      content="Mercell">
+    <sourceConnections
+        id="id-7968b0a76edc470fa40f7bd554062680"
+        source="id-52dd4f3a97e14777ad06d5456d5cec0e"
+        target="id-3294fb66372945a98dff9717771fe791"
+        type="1"/>
+    <bounds
+        x="1488"
+        y="828"
+        width="480"
+        height="132"/>
+    <children
+        xsi:type="archimate:SketchModelSticky"
+        id="id-df513a6ebc4a45e98da66d42021e1aa4"
+        name="Sticky"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffff"
+        content="Prosjekt">
+      <bounds
+          x="24"
           y="24"
           width="135"
-          height="27"/>
+          height="96"/>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="id-31b81314183741fda1fa1d1d71bd37c9"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#408080"
+          content="Innkjøpsgruppe">
+        <bounds
+            x="12"
+            y="36"
+            width="104"
+            height="24"/>
+      </children>
     </children>
+    <children
+        xsi:type="archimate:SketchModelSticky"
+        id="id-16fbcb95c40d4202981cedbf9dd77f3e"
+        name="Sticky"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffff"
+        content="Avtale">
+      <sourceConnections
+          id="id-5c8a7001a7c84b8dbaa4984fbb3c181f"
+          name="Event: Oppdatere dokumentasjon"
+          source="id-16fbcb95c40d4202981cedbf9dd77f3e"
+          target="id-9bca80e584534a5fabf3e403ec4c5adc"
+          type="5"/>
+      <bounds
+          x="312"
+          y="24"
+          width="135"
+          height="96"/>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="id-96922ba4fb1a4aa498f5edaee18e0cbd"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#408080"
+          content="Produktgruppe">
+        <bounds
+            x="12"
+            y="36"
+            width="104"
+            height="24"/>
+      </children>
+    </children>
+    <children
+        xsi:type="archimate:SketchModelSticky"
+        id="id-acb29a6642f84b9d936e8030a2b4e482"
+        name="Sticky"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffff"
+        content="Konkurranse">
+      <bounds
+          x="168"
+          y="24"
+          width="135"
+          height="96"/>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="id-7125212050e54d9887af9d9df0a61c00"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#408080"
+          content="Anbudspakke">
+        <bounds
+            x="12"
+            y="36"
+            width="104"
+            height="24"/>
+      </children>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-6d16a8336a064771832971b4e8fddf73"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffff00"
+      content="Parameter">
+    <bounds
+        x="433"
+        y="485"
+        width="102"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-b13a2d55c91341d283489039c0a3333f"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ff00ff"
+      content="Kobling/ Liste">
+    <bounds
+        x="432"
+        y="515"
+        width="102"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-01d4442fef0840a4a1b61c3642c21139"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffb5"
+      content="Dokument type">
+    <bounds
+        x="433"
+        y="423"
+        width="104"
+        height="22"/>
   </children>
 </archimate:SketchModel>

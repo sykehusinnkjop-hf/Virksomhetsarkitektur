@@ -1,6 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mottar"
     id="c8a52201-c4b1-46b9-860e-ba9474fc6ac3"
     accessType="1">
   <source
@@ -8,5 +9,5 @@
       href="ApplicationComponent_3b4368eb-3616-44b4-a824-87466610d124.xml#3b4368eb-3616-44b4-a824-87466610d124"/>
   <target
       xsi:type="archimate:DataObject"
-      href="DataObject_025d0b3c-25cd-435b-b54e-63eb1b1e5769.xml#025d0b3c-25cd-435b-b54e-63eb1b1e5769"/>
+      href="DataObject_id-48715e4774924b359cfc9cfd169bcaa9.xml#id-48715e4774924b359cfc9cfd169bcaa9"/>
 </archimate:AccessRelationship>
