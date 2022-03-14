@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ITIL SS Financial Management"
-    id="6692ae8a-964c-4334-8161-b99afe8f6c5e"/>
+    name="ITIL Budsjettstyring"
+    id="6692ae8a-964c-4334-8161-b99afe8f6c5e"
+    documentation="ITIL SS Financial Management"/>

@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ITIL ST Release and Deployment Management"
-    id="id-88f505927b044d7d8c8dcd9ee1cfbefa"/>
+    name="ITIL Leveransestyring"
+    id="id-88f505927b044d7d8c8dcd9ee1cfbefa"
+    documentation="ITIL ST Release and Deployment Management"/>
