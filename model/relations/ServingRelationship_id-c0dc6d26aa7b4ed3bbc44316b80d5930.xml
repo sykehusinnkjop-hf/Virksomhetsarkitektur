@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behov/ prosjektforslag?"
+    id="id-c0dc6d26aa7b4ed3bbc44316b80d5930">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-1f5d4823fa00436ab72a125797901bc8.xml#id-1f5d4823fa00436ab72a125797901bc8"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_77e54423-2584-434a-a40f-6aeca1838f08.xml#77e54423-2584-434a-a40f-6aeca1838f08"/>
+</archimate:ServingRelationship>
