@@ -1,7 +1,7 @@
 <archimate:SketchModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New Sketch"
+    name="Informasjonsmodell"
     id="id-030091ea70c640b881e968afda923419">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -203,7 +203,7 @@
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#7f7fff"
-        content="Quantus Core">
+        content="SHI Core">
       <bounds
           x="48"
           y="708"
@@ -879,6 +879,34 @@
                     width="85"
                     height="27"/>
               </children>
+              <children
+                  xsi:type="archimate:SketchModelSticky"
+                  id="id-ff6b62930f22454dae411d2d0c0c3ab4"
+                  name="Sticky"
+                  lineColor="#5c5c5c"
+                  textAlignment="1"
+                  fillColor="#b5ffff"
+                  content="HFs Anbefaling">
+                <bounds
+                    x="432"
+                    y="48"
+                    width="85"
+                    height="27"/>
+              </children>
+              <children
+                  xsi:type="archimate:SketchModelSticky"
+                  id="id-4f8c7ad02ca04350b09b12f181fbbe14"
+                  name="Sticky"
+                  lineColor="#5c5c5c"
+                  textAlignment="1"
+                  fillColor="#b5ffff"
+                  content="ATC&#xD;&#xA;">
+                <bounds
+                    x="312"
+                    y="48"
+                    width="85"
+                    height="27"/>
+              </children>
             </children>
             <children
                 xsi:type="archimate:SketchModelSticky"
@@ -1349,6 +1377,34 @@
           height="576"/>
       <children
           xsi:type="archimate:SketchModelSticky"
+          id="id-bb8f99f5c826427aa8b18ef29b8b3cd8"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#0080ff"
+          content="QuantusRooms">
+        <bounds
+            x="12"
+            y="48"
+            width="135"
+            height="70"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
+          id="id-7ffbbcb87f484c6b82ae59f18b43295c"
+          name="Sticky"
+          lineColor="#5c5c5c"
+          textAlignment="1"
+          fillColor="#0080ff"
+          content="QuantusBREG">
+        <bounds
+            x="12"
+            y="132"
+            width="135"
+            height="70"/>
+      </children>
+      <children
+          xsi:type="archimate:SketchModelSticky"
           id="id-2ef8698c313b4c3ea07cbfdd9a001fb3"
           name="Sticky"
           lineColor="#5c5c5c"
@@ -1356,8 +1412,8 @@
           fillColor="#0080ff"
           content="QuantusGO">
         <bounds
-            x="24"
-            y="72"
+            x="12"
+            y="216"
             width="135"
             height="70"/>
         <children
@@ -1383,8 +1439,8 @@
           fillColor="#0080ff"
           content="QuantusPy">
         <bounds
-            x="24"
-            y="156"
+            x="12"
+            y="300"
             width="135"
             height="70"/>
         <children
@@ -1394,7 +1450,7 @@
             lineColor="#5c5c5c"
             textAlignment="1"
             fillColor="#c9e7b7"
-            content="Dokument">
+            content="Template: Skjema">
           <bounds
               y="24"
               width="121"
