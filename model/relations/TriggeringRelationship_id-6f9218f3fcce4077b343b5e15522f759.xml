@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EHF Katalog"
+    id="id-6f9218f3fcce4077b343b5e15522f759">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-73103fe797f44c03910b02867bd4dc3e.xml#id-73103fe797f44c03910b02867bd4dc3e"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-c81937960a1841018c0b00f0fa443404.xml#id-c81937960a1841018c0b00f0fa443404"/>
+</archimate:TriggeringRelationship>

@@ -1,7 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sender"
+    name="Egress HTTPS (TCP/443)"
     id="691e7f50-43d3-4c98-8bfe-01d6b1494d32">
   <source
       xsi:type="archimate:ApplicationInterface"

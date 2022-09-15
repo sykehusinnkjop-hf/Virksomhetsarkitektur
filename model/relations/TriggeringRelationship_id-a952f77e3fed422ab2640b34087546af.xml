@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Godkjent katalog"
+    id="id-a952f77e3fed422ab2640b34087546af">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-3b7ebeb42fa04103843ae151b853df4f.xml#id-3b7ebeb42fa04103843ae151b853df4f"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-e2fde54c8c2f4bf5a7a6ee6b14b02f41.xml#id-e2fde54c8c2f4bf5a7a6ee6b14b02f41"/>
+</archimate:TriggeringRelationship>

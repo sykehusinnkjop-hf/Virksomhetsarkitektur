@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Veikart"
+    name="Veikart: Virksomhetsstrategi"
     id="id-9cda8a3ea40740c4921fa51e64d01697">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -730,7 +730,7 @@
       <bounds
           x="48"
           y="24"
-          width="493"
+          width="829"
           height="253"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"

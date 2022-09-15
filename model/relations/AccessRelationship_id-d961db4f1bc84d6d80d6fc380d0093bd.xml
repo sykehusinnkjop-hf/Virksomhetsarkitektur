@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nei"
+    id="id-d961db4f1bc84d6d80d6fc380d0093bd">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-2180e702f8814b699514f512a2447013.xml#id-2180e702f8814b699514f512a2447013"/>
+  <target
+      xsi:type="archimate:Representation"
+      href="Representation_id-3ef90b48176e44b28a9d5a50016d9890.xml#id-3ef90b48176e44b28a9d5a50016d9890"/>
+</archimate:AccessRelationship>

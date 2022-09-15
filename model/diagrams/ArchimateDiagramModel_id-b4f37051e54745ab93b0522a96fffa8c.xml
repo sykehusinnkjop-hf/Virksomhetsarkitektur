@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New ArchiMate View"
+    name="AA:AVT-ERP"
     id="id-b4f37051e54745ab93b0522a96fffa8c">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -380,8 +380,8 @@
       id="id-b96539fd05af4ae2b95e0a17f9bfc218"
       targetConnections="id-542684b66eac4516b4707eee10350190">
     <bounds
-        x="936"
-        y="648"
+        x="1044"
+        y="288"
         width="120"
         height="55"/>
     <archimateElement
@@ -402,8 +402,8 @@
           href="ServingRelationship_id-7190b303651c4ae08086f7e15d19e612.xml#id-7190b303651c4ae08086f7e15d19e612"/>
     </sourceConnections>
     <bounds
-        x="948"
-        y="165"
+        x="1044"
+        y="204"
         width="120"
         height="55"/>
     <archimateElement
@@ -424,8 +424,8 @@
           href="AccessRelationship_id-d3bccd3543e041f290e0732c69d867fb.xml#id-d3bccd3543e041f290e0732c69d867fb"/>
     </sourceConnections>
     <bounds
-        x="1164"
-        y="120"
+        x="1260"
+        y="159"
         width="169"
         height="277"/>
     <children
@@ -500,8 +500,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0cda7bbbae834c6086dd137711d69fce">
     <bounds
-        x="936"
-        y="960"
+        x="1044"
+        y="438"
         width="120"
         height="55"/>
     <archimateElement
@@ -534,8 +534,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-cad6d1c2b59d4bfcb9abd49cc0de883c">
     <bounds
-        x="936"
-        y="804"
+        x="1044"
+        y="360"
         width="120"
         height="55"/>
     <archimateElement

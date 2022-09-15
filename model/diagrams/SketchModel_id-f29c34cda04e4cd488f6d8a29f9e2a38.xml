@@ -1,0 +1,36 @@
+<archimate:SketchModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DFØ :Peppol"
+    id="id-f29c34cda04e4cd488f6d8a29f9e2a38">
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-3f9e9d0e26f84523b49627c85ef98087"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      imagePath="images/_QgGOUOyAEey8BNXKbrZIIg.png"
+      imagePosition="4">
+    <bounds
+        x="168"
+        y="204"
+        width="2161"
+        height="1357"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-298c47bc12d64e8aa68660cefa080045"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      imagePath="images/_Cxc3kOyBEey8BNXKbrZIIg.png"
+      imagePosition="4">
+    <bounds
+        x="2364"
+        y="204"
+        width="2101"
+        height="1356"/>
+  </children>
+</archimate:SketchModel>
