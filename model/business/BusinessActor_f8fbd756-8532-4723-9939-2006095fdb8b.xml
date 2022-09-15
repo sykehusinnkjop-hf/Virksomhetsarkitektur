@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Leverandører "
-    id="f8fbd756-8532-4723-9939-2006095fdb8b"/>
+    id="f8fbd756-8532-4723-9939-2006095fdb8b"
+    documentation="abonomerer på cpv koder"/>
