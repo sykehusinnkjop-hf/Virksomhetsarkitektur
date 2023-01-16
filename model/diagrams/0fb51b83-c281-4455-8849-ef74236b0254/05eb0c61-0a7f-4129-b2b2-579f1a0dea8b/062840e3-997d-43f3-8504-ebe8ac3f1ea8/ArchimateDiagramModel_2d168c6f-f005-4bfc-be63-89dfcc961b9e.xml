@@ -392,7 +392,7 @@
     </sourceConnections>
     <bounds
         x="672"
-        y="96"
+        y="48"
         width="372"
         height="529"/>
     <children
@@ -467,14 +467,14 @@
             endY="-678"/>
         <bendpoints
             startX="-102"
-            startY="573"
+            startY="490"
             endX="-246"
-            endY="-114"/>
+            endY="-246"/>
         <bendpoints
-            startX="66"
-            startY="573"
-            endX="-78"
-            endY="-114"/>
+            startX="90"
+            startY="490"
+            endX="-54"
+            endY="-246"/>
         <archimateRelationship
             xsi:type="archimate:SpecializationRelationship"
             href="SpecializationRelationship_2465cc14-7f28-4528-b1ec-d0d0ea530e29.xml#2465cc14-7f28-4528-b1ec-d0d0ea530e29"/>
@@ -523,14 +523,14 @@
             endY="-750"/>
         <bendpoints
             startX="-102"
-            startY="646"
+            startY="562"
             endX="-246"
-            endY="-114"/>
+            endY="-246"/>
         <bendpoints
-            startX="66"
-            startY="646"
-            endX="-78"
-            endY="-114"/>
+            startX="90"
+            startY="562"
+            endX="-54"
+            endY="-246"/>
         <archimateRelationship
             xsi:type="archimate:SpecializationRelationship"
             href="SpecializationRelationship_b9d30b44-9c80-4a5c-8062-25fa771ce377.xml#b9d30b44-9c80-4a5c-8062-25fa771ce377"/>
@@ -579,14 +579,14 @@
             endY="-618"/>
         <bendpoints
             startX="-102"
-            startY="501"
+            startY="418"
             endX="-246"
-            endY="-114"/>
+            endY="-246"/>
         <bendpoints
-            startX="66"
-            startY="501"
-            endX="-78"
-            endY="-114"/>
+            startX="90"
+            startY="418"
+            endX="-54"
+            endY="-246"/>
         <archimateRelationship
             xsi:type="archimate:SpecializationRelationship"
             href="SpecializationRelationship_0c1e0f12-9a0b-475f-be72-261986d185e0.xml#0c1e0f12-9a0b-475f-be72-261986d185e0"/>
@@ -635,14 +635,14 @@
             endY="-546"/>
         <bendpoints
             startX="-102"
-            startY="430"
+            startY="346"
             endX="-246"
-            endY="-114"/>
+            endY="-246"/>
         <bendpoints
-            startX="66"
-            startY="430"
-            endX="-78"
-            endY="-114"/>
+            startX="90"
+            startY="346"
+            endX="-54"
+            endY="-246"/>
         <archimateRelationship
             xsi:type="archimate:SpecializationRelationship"
             href="SpecializationRelationship_d01d51fe-e513-41da-878c-0b3f2d2ebbf4.xml#d01d51fe-e513-41da-878c-0b3f2d2ebbf4"/>
@@ -675,11 +675,22 @@
       xsi:type="archimate:DiagramModelNote"
       id="632776df-3a7f-4f72-a4c3-c997452f1f06"
       textAlignment="1"
-      content="Modellen leses fra bunn til topp&#xD;&#xA;&#xD;&#xA;1. Opprett nye rader for kategoristruktur v2 i shi_categories&#xD;&#xA;2. Oppdater Quantus-Core med nye colonner som peker til v2 av kategoristruktur&#xD;&#xA;3. oppdater quantus-doc&#xD;&#xA;4.1. oppdater sharepoint termstore&#xD;&#xA;4.2. oppdater datavarehus">
+      content="Modellen leses fra bunn til topp&#xD;&#xA;&#xD;&#xA;Migreringssteg&#xD;&#xA;&#xD;&#xA;1. Opprett nye rader for kategoristruktur v2 i shi_categories&#xD;&#xA;2. Oppdater Quantus-Core med nye colonner som peker til v2 av kategoristruktur&#xD;&#xA;3. Oppdater quantus-doc&#xD;&#xA;4. Oppdater quantus-risiko??&#xD;&#xA;5.1. oppdater sharepoint termstore&#xD;&#xA;5.2. oppdater datavarehus">
     <bounds
         x="24"
         y="72"
         width="264"
         height="216"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="de040470-e003-4706-8a38-a82c32c8f084"
+      textAlignment="1"
+      content="Quantus Risiko??&#xD;&#xA;&#xD;&#xA;Quantus risiko kategoriprofiler skal bruke shi_categories. Men finner ikke bevis på dette i datamodell. Dette tyder på at linken kun eksisterer i kode, må undersøkes dypere">
+    <bounds
+        x="488"
+        y="640"
+        width="185"
+        height="156"/>
   </children>
 </archimate:ArchimateDiagramModel>
