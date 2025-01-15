@@ -1,6 +1,7 @@
 <archimate:InfluenceRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nei"
     id="fd3a395a-1b80-4954-9ef5-631e6523f4e1">
   <source
       xsi:type="archimate:BusinessEvent"

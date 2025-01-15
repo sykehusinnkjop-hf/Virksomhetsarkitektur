@@ -1,6 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portefølje"
     id="34f2ce37-8edb-4ecf-aabb-1c57156f1bf1">
   <source
       xsi:type="archimate:Product"

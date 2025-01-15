@@ -1,6 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KPI"
     id="61933020-74a8-4bfc-a18f-a50d4ca9039f">
   <source
       xsi:type="archimate:ApplicationComponent"

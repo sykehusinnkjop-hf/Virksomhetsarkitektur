@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Automatisk uttrekk"
+    id="id-242033257de54bf2b19b7ee3879b3701">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-c2ea32578d3648c384ca72dcc1d777bc.xml#id-c2ea32578d3648c384ca72dcc1d777bc"/>
+  <target
+      xsi:type="archimate:Path"
+      href="Path_id-bf44585383ee46b782d16b09b545e233.xml#id-bf44585383ee46b782d16b09b545e233"/>
+</archimate:ServingRelationship>

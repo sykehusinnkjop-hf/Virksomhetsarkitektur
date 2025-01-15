@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innlasting feilet"
+    id="id-ca68506db3b44d7ca121344def41c6f2">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-7e56796ef4e44927a1c2626c8df864a3.xml#id-7e56796ef4e44927a1c2626c8df864a3"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-b8556b84e45940e384f9dc30c6098153.xml#id-b8556b84e45940e384f9dc30c6098153"/>
+</archimate:ServingRelationship>

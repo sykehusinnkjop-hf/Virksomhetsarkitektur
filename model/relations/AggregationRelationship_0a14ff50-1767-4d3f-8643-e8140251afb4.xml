@@ -1,6 +1,7 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overmengde A1"
     id="0a14ff50-1767-4d3f-8643-e8140251afb4">
   <source
       xsi:type="archimate:DataObject"

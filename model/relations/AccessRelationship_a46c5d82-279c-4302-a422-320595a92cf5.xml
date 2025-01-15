@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mottar"
-    id="a46c5d82-279c-4302-a422-320595a92cf5">
+    id="a46c5d82-279c-4302-a422-320595a92cf5"
+    accessType="1">
   <source
       xsi:type="archimate:ApplicationFunction"
       href="ApplicationFunction_10399142-b4db-4c7c-9517-2b8d672ab385.xml#10399142-b4db-4c7c-9517-2b8d672ab385"/>

@@ -1035,8 +1035,8 @@
           fillColor="#8080ff"
           content="Referansegruppe">
         <bounds
-            x="36"
-            y="12"
+            x="89"
+            y="72"
             width="104"
             height="22"/>
       </children>
@@ -1427,8 +1427,8 @@
       fillColor="#ffc400"
       content="Bibliotek">
     <bounds
-        x="540"
-        y="456"
+        x="264"
+        y="1008"
         width="135"
         height="84"/>
     <children
@@ -1454,8 +1454,8 @@
       fillColor="#408080"
       content="Attributt">
     <bounds
-        x="636"
-        y="444"
+        x="360"
+        y="996"
         width="104"
         height="24"/>
   </children>
@@ -1468,8 +1468,8 @@
       fillColor="#8080ff"
       content="O365 Gruppe">
     <bounds
-        x="432"
-        y="456"
+        x="156"
+        y="1008"
         width="104"
         height="22"/>
   </children>
@@ -1592,8 +1592,8 @@
       fillColor="#ffff00"
       content="Parameter">
     <bounds
-        x="433"
-        y="485"
+        x="157"
+        y="1037"
         width="102"
         height="25"/>
   </children>
@@ -1606,8 +1606,8 @@
       fillColor="#ff00ff"
       content="Kobling/ Liste">
     <bounds
-        x="432"
-        y="515"
+        x="156"
+        y="1067"
         width="102"
         height="25"/>
   </children>
@@ -1620,8 +1620,8 @@
       fillColor="#ffffb5"
       content="Dokument type">
     <bounds
-        x="433"
-        y="423"
+        x="157"
+        y="975"
         width="104"
         height="22"/>
   </children>

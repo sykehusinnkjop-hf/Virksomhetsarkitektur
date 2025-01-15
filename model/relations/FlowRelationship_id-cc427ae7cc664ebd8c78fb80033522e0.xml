@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manuelt uttrekk"
+    id="id-cc427ae7cc664ebd8c78fb80033522e0">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-0c59162839844913bfb825116c6ad878.xml#id-0c59162839844913bfb825116c6ad878"/>
+  <target
+      xsi:type="archimate:Path"
+      href="Path_id-bf44585383ee46b782d16b09b545e233.xml#id-bf44585383ee46b782d16b09b545e233"/>
+</archimate:FlowRelationship>

@@ -1,6 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samarbeidsavtale"
     id="1b130009-fd98-4054-aa7a-ce526040bbdb">
   <source
       xsi:type="archimate:BusinessActor"

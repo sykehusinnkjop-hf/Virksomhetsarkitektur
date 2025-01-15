@@ -7,6 +7,6 @@
       xsi:type="archimate:BusinessEvent"
       href="BusinessEvent_52fc462c-2bb8-4413-a987-f19ed78a22ab.xml#52fc462c-2bb8-4413-a987-f19ed78a22ab"/>
   <target
-      xsi:type="archimate:Requirement"
-      href="Requirement_3ed46c03-d1d8-41e2-8912-9904a0d21a04.xml#3ed46c03-d1d8-41e2-8912-9904a0d21a04"/>
+      xsi:type="archimate:Assessment"
+      href="Assessment_01420e3a-e34a-4c67-8973-cf526c2ba701.xml#01420e3a-e34a-4c67-8973-cf526c2ba701"/>
 </archimate:InfluenceRelationship>

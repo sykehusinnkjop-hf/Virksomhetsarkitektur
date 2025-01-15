@@ -1,6 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overmengde A2"
     id="2e7935eb-ba7a-40c0-8a97-476abfbdc110">
   <source
       xsi:type="archimate:ApplicationFunction"

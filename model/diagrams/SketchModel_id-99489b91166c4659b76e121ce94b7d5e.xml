@@ -1,0 +1,35 @@
+<archimate:SketchModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="New Sketch"
+    id="id-99489b91166c4659b76e121ce94b7d5e">
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-f15f938b15e442bb9eaa1ba1bae96ca2"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      imagePath="images/_iXrBMMWQEe6G9-3KgGhkcg.png"
+      imagePosition="9">
+    <bounds
+        x="24"
+        y="24"
+        width="1141"
+        height="613"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-a8a1184f45f645fc8e1564f6806ff983"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffb5"
+      content="Prevent your B2B users from redeeming an invite using Microsoft accounts (Preview)">
+    <bounds
+        x="1200"
+        y="24"
+        width="282"
+        height="122"/>
+  </children>
+</archimate:SketchModel>

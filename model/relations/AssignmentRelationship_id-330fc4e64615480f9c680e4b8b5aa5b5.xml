@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rollebasert tilgang"
+    id="id-330fc4e64615480f9c680e4b8b5aa5b5">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-4295aec29541457d870e209db2dc72c8.xml#id-4295aec29541457d870e209db2dc72c8"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-4d77e3f094e14741a785a691ffb8a4bf.xml#id-4d77e3f094e14741a785a691ffb8a4bf"/>
+</archimate:AssignmentRelationship>

@@ -184,30 +184,30 @@
           target="id-a80cd0e3e88f4f51aaab6e674568ea12">
         <bendpoints
             startX="-18"
-            startY="204"
+            startY="162"
             endX="-1980"
-            endY="204"/>
+            endY="156"/>
         <bendpoints
             startX="1866"
-            startY="204"
+            startY="162"
             endX="-96"
-            endY="204"/>
+            endY="156"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
             href="InfluenceRelationship_c1bbdc64-0c82-4f60-a9ae-4a7084557f67.xml#c1bbdc64-0c82-4f60-a9ae-4a7084557f67"/>
       </sourceConnections>
       <bounds
           x="204"
-          y="36"
+          y="24"
           width="613"
-          height="217"/>
+          height="229"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="c2cd44ab-b8fc-4cf1-ae8a-81c1ef90626f"
           targetConnections="bbd7afca-d5ed-46df-8238-7095855f3897">
         <bounds
             x="456"
-            y="48"
+            y="84"
             width="120"
             height="73"/>
         <archimateElement
@@ -220,7 +220,7 @@
           targetConnections="4e996de6-80ce-4507-978a-0f42d21b6dd8">
         <bounds
             x="24"
-            y="48"
+            y="84"
             width="120"
             height="73"/>
         <archimateElement
@@ -233,7 +233,7 @@
           targetConnections="efb19b7c-7653-439e-9380-9e986552121e">
         <bounds
             x="312"
-            y="48"
+            y="84"
             width="120"
             height="73"/>
         <archimateElement
@@ -246,7 +246,7 @@
           targetConnections="b9b123be-8a69-49e8-8456-0d65c64b61aa">
         <bounds
             x="168"
-            y="48"
+            y="84"
             width="120"
             height="73"/>
         <archimateElement
@@ -314,13 +314,13 @@
           target="id-a80cd0e3e88f4f51aaab6e674568ea12">
         <bendpoints
             startX="-18"
-            startY="222"
+            startY="186"
             endX="-1308"
-            endY="216"/>
+            endY="180"/>
         <bendpoints
             startX="1290"
-            startY="222"
-            endY="216"/>
+            startY="186"
+            endY="180"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
             href="InfluenceRelationship_41873d42-9a60-4bf4-81c7-b1240495e9f9.xml#41873d42-9a60-4bf4-81c7-b1240495e9f9"/>
@@ -335,7 +335,7 @@
           id="102fb542-c86a-4ee6-a702-54badee7e06e"
           targetConnections="d43bad93-406a-40e4-9b1c-c037dbcd5f67">
         <bounds
-            x="24"
+            x="84"
             y="48"
             width="120"
             height="73"/>
@@ -348,7 +348,7 @@
           id="28dec7df-4d77-4df1-b99e-fa531871470d"
           targetConnections="f19599b3-7722-4f31-9330-0ded3fee1d31">
         <bounds
-            x="312"
+            x="372"
             y="48"
             width="120"
             height="73"/>
@@ -361,7 +361,7 @@
           id="8ed9686e-a219-410b-b5cc-19209298a7a4"
           targetConnections="bc29e869-5dc2-48cd-9fc0-7b4a253317db">
         <bounds
-            x="96"
+            x="156"
             y="132"
             width="120"
             height="73"/>
@@ -374,7 +374,7 @@
           id="5972005f-875a-4b99-8d7c-cd9c9fd6436c"
           targetConnections="6ee52794-dcfa-4f0e-9a47-6b6c5b5aa155">
         <bounds
-            x="168"
+            x="228"
             y="48"
             width="120"
             height="73"/>
@@ -387,7 +387,7 @@
           id="6a0399d4-f807-4709-95e4-78657c7ca2fa"
           targetConnections="6f14cbec-7a6f-45f5-9c1f-55c7331026ff">
         <bounds
-            x="252"
+            x="312"
             y="132"
             width="120"
             height="73"/>
@@ -465,14 +465,14 @@
           target="id-a80cd0e3e88f4f51aaab6e674568ea12">
         <bendpoints
             startX="-42"
-            startY="234"
+            startY="210"
             endX="-744"
-            endY="228"/>
+            endY="204"/>
         <bendpoints
             startX="798"
-            startY="234"
+            startY="210"
             endX="96"
-            endY="228"/>
+            endY="204"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
             href="InfluenceRelationship_c1148c29-c694-4268-a642-b3558272c3f0.xml#c1148c29-c694-4268-a642-b3558272c3f0"/>

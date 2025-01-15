@@ -1,0 +1,20 @@
+<archimate:SketchModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pharmasys Dataflyt"
+    id="id-b317e8e345d0456fa7f6fab82dca017e">
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-9c58bc8f2ab3473c8d5b4dfe8ef15169"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffb5"
+      imagePath="images/_umc0UOhEEe6cRs83W8hPgQ.png">
+    <bounds
+        x="12"
+        y="60"
+        width="1921"
+        height="1093"/>
+  </children>
+</archimate:SketchModel>
