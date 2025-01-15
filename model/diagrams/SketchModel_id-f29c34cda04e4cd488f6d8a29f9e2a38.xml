@@ -9,9 +9,7 @@
       name="Sticky"
       lineColor="#5c5c5c"
       textAlignment="1"
-      fillColor="#ffffff"
-      imagePath="images/_QgGOUOyAEey8BNXKbrZIIg.png"
-      imagePosition="4">
+      fillColor="#ffffff">
     <bounds
         x="168"
         y="204"
@@ -24,9 +22,7 @@
       name="Sticky"
       lineColor="#5c5c5c"
       textAlignment="1"
-      fillColor="#ffffff"
-      imagePath="images/_Cxc3kOyBEey8BNXKbrZIIg.png"
-      imagePosition="4">
+      fillColor="#ffffff">
     <bounds
         x="2364"
         y="204"
